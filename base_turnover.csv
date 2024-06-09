@@ -1,0 +1,1471 @@
+ID,Funcionário_deixou_a_empresa,Idade,Frequência_de_Viagens,Distância_do_trabalho,Formação,ESat,Gênero,Estado_Civil,Salário,Qte_Empresas_Trabalhadas,Faz_hora_extras?,Perc_de_aumento,Qte_ações_da_empresa,Tempo_de_carreira,Horas_de_treinamento,Equilibrio_de_Vida,Tempo_de_empresa,Anos_no_mesmo_cargo,Anos_desde_a_ultima_promocao,Anos_com_o_mesmo_chefe
+1,Sim,41,Viaja raramente,1,Ensino Técnico,Médio,M,Solteiro,5993,8,Sim,11,0,8,0,Ruim,6,4,0,5
+2,Não,49,Viaja frequentemente,8,Ensino Médio,Alto,H,Casado,5130,1,Não,23,1,10,3,Muito bom,10,7,1,7
+3,Sim,37,Viaja raramente,2,Ensino Técnico,Muito Alto,H,Solteiro,2090,6,Sim,15,0,7,3,Muito bom,0,0,0,0
+4,Não,33,Viaja frequentemente,3,Mestrado,Muito Alto,M,Casado,2909,1,Sim,11,0,8,3,Muito bom,8,7,3,0
+5,Não,27,Viaja raramente,2,Ensino Médio,Baixo,H,Casado,3468,9,Não,12,1,6,3,Muito bom,2,2,2,2
+6,Não,32,Viaja frequentemente,2,Ensino Técnico,Muito Alto,H,Solteiro,3068,0,Não,13,0,8,2,Bom,7,7,3,6
+7,Não,59,Viaja raramente,3,Ensino Superior,Alto,M,Casado,2670,4,Sim,20,3,12,3,Bom,1,0,0,0
+8,Não,30,Viaja raramente,24,Ensino Médio,Muito Alto,H,Divorciado,2693,1,Não,22,1,1,2,Muito bom,1,0,0,0
+9,Não,38,Viaja frequentemente,23,Ensino Superior,Muito Alto,H,Solteiro,9526,0,Não,21,0,10,2,Muito bom,9,7,1,8
+10,Não,36,Viaja raramente,27,Ensino Superior,Alto,H,Casado,5237,6,Não,13,2,17,3,Bom,7,7,7,7
+11,Não,35,Viaja raramente,16,Ensino Superior,Baixo,H,Casado,2426,0,Não,13,1,6,5,Muito bom,5,4,0,3
+12,Não,29,Viaja raramente,15,Ensino Técnico,Muito Alto,M,Solteiro,4193,0,Sim,12,0,10,3,Muito bom,9,5,0,8
+13,Não,31,Viaja raramente,26,Ensino Médio,Baixo,H,Divorciado,2911,1,Não,17,1,5,1,Bom,5,2,4,3
+14,Não,34,Viaja raramente,19,Ensino Técnico,Médio,H,Divorciado,2661,0,Não,11,1,3,2,Muito bom,2,2,1,2
+15,Sim,28,Viaja raramente,24,Ensino Superior,Alto,H,Solteiro,2028,5,Sim,14,0,6,4,Muito bom,4,2,0,3
+16,Não,29,Viaja raramente,21,Mestrado,Médio,M,Divorciado,9980,1,Não,11,1,10,1,Muito bom,10,9,8,8
+17,Não,32,Viaja raramente,5,Ensino Técnico,Baixo,H,Divorciado,3298,0,Sim,12,2,7,5,Bom,6,2,0,5
+18,Não,22,Não viaja,16,Ensino Técnico,Muito Alto,H,Divorciado,2935,1,Sim,13,2,1,2,Bom,1,0,0,0
+19,Não,53,Viaja raramente,2,Mestrado,Baixo,M,Casado,15427,2,Não,16,0,31,3,Muito bom,25,8,3,7
+20,Não,38,Viaja raramente,2,Ensino Superior,Muito Alto,H,Solteiro,3944,5,Sim,11,0,6,3,Muito bom,3,2,1,2
+21,Não,24,Não viaja,11,Ensino Técnico,Baixo,M,Divorciado,4011,0,Não,18,1,5,5,Bom,4,2,1,3
+22,Sim,36,Viaja raramente,9,Mestrado,Alto,H,Solteiro,3407,7,Não,23,0,10,4,Muito bom,5,3,0,3
+23,Não,34,Viaja raramente,7,Mestrado,Baixo,M,Solteiro,11994,0,Não,11,0,13,4,Muito bom,12,6,2,11
+24,Não,21,Viaja raramente,15,Ensino Técnico,Alto,H,Solteiro,1232,1,Não,14,0,0,6,Muito bom,0,0,0,0
+25,Sim,34,Viaja raramente,6,Ensino Médio,Médio,H,Solteiro,2960,2,Não,11,0,8,2,Muito bom,4,2,1,3
+26,Não,53,Viaja raramente,5,Ensino Superior,Alto,M,Divorciado,19094,4,Não,11,1,26,3,Bom,14,13,4,8
+27,Sim,32,Viaja frequentemente,16,Ensino Médio,Médio,M,Solteiro,3919,1,Sim,22,0,10,5,Muito bom,10,2,6,7
+28,Não,42,Viaja raramente,8,Mestrado,Alto,H,Casado,6825,0,Não,11,1,10,2,Muito bom,9,7,4,2
+29,Não,44,Viaja raramente,7,Mestrado,Baixo,M,Casado,10248,3,Não,14,1,24,4,Muito bom,22,6,5,17
+30,Não,46,Viaja raramente,2,Mestrado,Médio,M,Solteiro,18947,3,Não,12,0,22,2,Bom,2,2,2,1
+31,Não,33,Viaja raramente,2,Ensino Superior,Alto,H,Solteiro,2496,4,Não,11,0,7,3,Muito bom,1,1,0,0
+32,Não,44,Viaja raramente,10,Mestrado,Muito Alto,H,Casado,6465,2,Sim,13,0,9,5,Excelente,4,2,1,3
+33,Não,30,Viaja raramente,9,Ensino Técnico,Muito Alto,H,Solteiro,2206,1,Não,13,0,10,5,Muito bom,10,0,1,8
+34,Sim,39,Viaja raramente,5,Ensino Superior,Muito Alto,H,Casado,2086,3,Não,14,1,19,6,Excelente,1,0,0,0
+35,Sim,24,Viaja raramente,1,Ensino Superior,Médio,H,Casado,2293,2,Sim,16,1,6,2,Bom,2,0,2,0
+36,Não,43,Viaja raramente,2,Ensino Técnico,Muito Alto,M,Divorciado,2645,1,Não,12,2,6,3,Bom,5,3,1,4
+37,Sim,50,Viaja raramente,3,Ensino Técnico,Baixo,H,Casado,2683,1,Sim,14,0,3,2,Muito bom,3,2,0,2
+38,Não,35,Viaja raramente,2,Ensino Superior,Muito Alto,M,Casado,2014,1,Não,13,0,2,3,Muito bom,2,2,2,2
+39,Não,36,Viaja raramente,5,Mestrado,Médio,M,Casado,3419,9,Sim,14,1,6,3,Excelente,1,1,0,0
+40,Não,33,Viaja frequentemente,1,Ensino Superior,Alto,M,Casado,5376,2,Não,19,2,10,3,Muito bom,5,3,1,3
+41,Não,35,Viaja raramente,4,Ensino Técnico,Alto,H,Divorciado,1951,1,Não,12,1,1,3,Muito bom,1,0,0,0
+42,Não,27,Viaja raramente,2,Mestrado,Muito Alto,M,Divorciado,2341,1,Não,13,1,1,6,Muito bom,1,0,0,0
+43,Sim,26,Viaja raramente,25,Ensino Superior,Baixo,H,Solteiro,2293,1,Não,12,0,1,2,Bom,1,0,0,1
+44,Não,27,Viaja frequentemente,8,Ensino Superior,Muito Alto,H,Solteiro,8726,1,Não,15,0,9,0,Muito bom,9,8,1,7
+45,Não,30,Viaja frequentemente,1,Ensino Técnico,Alto,M,Solteiro,4011,1,Não,23,0,12,2,Muito bom,12,8,3,7
+46,Sim,41,Viaja raramente,12,Ensino Superior,Médio,M,Casado,19545,1,Não,12,0,23,0,Muito bom,22,15,15,8
+47,Não,34,Não viaja,23,Mestrado,Médio,H,Solteiro,4568,0,Não,20,0,10,2,Muito bom,9,5,8,7
+48,Não,37,Viaja raramente,19,Ensino Técnico,Médio,H,Casado,3022,4,Não,21,0,8,1,Muito bom,1,0,0,0
+49,Não,46,Viaja frequentemente,5,Mestrado,Baixo,H,Solteiro,5772,4,Sim,21,0,14,4,Muito bom,9,6,0,8
+50,Não,35,Viaja raramente,8,Ensino Médio,Muito Alto,H,Casado,2269,1,Não,19,0,1,2,Muito bom,1,0,0,1
+51,Sim,48,Viaja raramente,1,Ensino Técnico,Baixo,H,Solteiro,5381,9,Sim,13,0,23,2,Muito bom,1,0,0,0
+52,Sim,28,Viaja raramente,5,Mestrado,Alto,H,Solteiro,3441,1,Sim,13,0,2,3,Bom,2,2,2,2
+53,Não,44,Viaja raramente,1,Doutorado,Médio,M,Divorciado,5454,5,Sim,21,1,9,2,Bom,4,3,1,3
+54,Não,35,Não viaja,11,Ensino Técnico,Alto,H,Casado,9884,2,Sim,13,1,10,3,Muito bom,4,0,2,3
+55,Não,26,Viaja raramente,23,Ensino Superior,Alto,M,Casado,4157,7,Sim,19,1,5,2,Bom,2,2,0,0
+56,Não,33,Viaja frequentemente,1,Ensino Técnico,Baixo,M,Solteiro,13458,1,Sim,12,0,15,1,Muito bom,15,14,8,12
+57,Não,35,Viaja frequentemente,18,Doutorado,Médio,H,Casado,9069,1,Não,22,1,9,3,Bom,9,8,1,8
+58,Não,35,Viaja raramente,23,Mestrado,Alto,M,Casado,4014,3,Sim,15,1,4,3,Muito bom,2,2,2,2
+59,Não,31,Viaja raramente,7,Mestrado,Muito Alto,H,Divorciado,5915,3,Não,22,1,10,3,Bom,7,7,1,7
+60,Não,37,Viaja raramente,1,Mestrado,Baixo,H,Divorciado,5993,1,Não,18,1,7,2,Excelente,7,5,0,7
+61,Não,32,Viaja raramente,1,Ensino Superior,Baixo,H,Casado,6162,1,Sim,22,1,9,3,Muito bom,9,8,7,8
+62,Não,38,Viaja frequentemente,29,Doutorado,Muito Alto,M,Solteiro,2406,1,Não,11,0,10,2,Muito bom,10,3,9,9
+63,Não,50,Viaja raramente,7,Ensino Técnico,Médio,M,Divorciado,18740,5,Sim,12,1,29,2,Bom,27,3,13,8
+64,Não,59,Viaja raramente,25,Ensino Superior,Baixo,M,Solteiro,7637,7,Não,11,0,28,3,Bom,21,16,7,9
+65,Não,36,Viaja raramente,8,Ensino Superior,Alto,M,Divorciado,10096,1,Não,13,3,17,2,Muito bom,17,14,12,8
+66,Não,55,Viaja raramente,8,Ensino Superior,Muito Alto,M,Divorciado,14756,2,Sim,14,3,21,2,Muito bom,5,0,0,2
+67,Não,36,Viaja frequentemente,11,Ensino Superior,Médio,H,Solteiro,6499,1,Não,13,0,6,3,Muito bom,6,5,0,3
+68,Não,45,Viaja raramente,7,Ensino Superior,Médio,H,Divorciado,9724,2,Não,17,1,25,2,Muito bom,1,0,0,0
+69,Não,35,Viaja frequentemente,1,Ensino Superior,Médio,H,Casado,2194,4,Não,13,1,5,2,Bom,3,2,1,2
+70,Sim,36,Viaja raramente,9,Ensino Superior,Muito Alto,H,Casado,3388,0,Sim,17,1,2,0,Bom,1,0,0,0
+71,Não,59,Viaja frequentemente,1,Ensino Médio,Baixo,M,Solteiro,5473,7,Não,11,0,20,2,Bom,4,3,1,3
+72,Não,29,Viaja raramente,2,Ensino Superior,Alto,H,Casado,2703,0,Não,23,1,6,3,Muito bom,5,4,0,4
+73,Não,31,Viaja raramente,1,Mestrado,Alto,H,Solteiro,2501,1,Não,17,0,1,4,Muito bom,1,1,1,0
+74,Não,32,Viaja raramente,1,Ensino Superior,Médio,H,Casado,6220,1,Não,17,2,10,3,Muito bom,10,4,0,9
+75,Não,36,Viaja raramente,6,Ensino Superior,Médio,M,Casado,3038,3,Não,12,0,5,3,Muito bom,1,0,0,0
+76,Não,31,Viaja raramente,8,Mestrado,Alto,M,Solteiro,4424,1,Não,23,0,11,2,Muito bom,11,7,1,8
+77,Não,35,Viaja raramente,1,Mestrado,Alto,H,Solteiro,4312,0,Não,14,0,16,2,Muito bom,15,13,2,8
+78,Não,45,Viaja raramente,6,Mestrado,Muito Alto,H,Casado,13245,4,Sim,14,0,17,3,Excelente,0,0,0,0
+79,Não,37,Viaja raramente,7,Mestrado,Baixo,H,Solteiro,13664,4,Não,13,0,16,3,Excelente,5,2,0,2
+80,Não,46,Viaja raramente,5,Ensino Técnico,Médio,H,Divorciado,5021,8,Sim,22,1,16,2,Muito bom,4,2,0,2
+81,Não,30,Viaja raramente,1,Ensino Médio,Muito Alto,H,Casado,5126,1,Sim,12,2,10,1,Bom,10,8,3,0
+82,Não,35,Viaja raramente,1,Ensino Superior,Médio,H,Solteiro,2859,1,Não,18,0,6,3,Muito bom,6,4,0,4
+83,Não,55,Viaja raramente,1,Ensino Técnico,Baixo,H,Casado,10239,3,Não,14,1,24,4,Muito bom,1,0,1,0
+84,Não,38,Não viaja,6,Ensino Superior,Médio,M,Divorciado,5329,7,Sim,12,3,17,3,Muito bom,13,11,1,9
+85,Não,34,Viaja raramente,1,Ensino Técnico,Baixo,H,Casado,4325,1,Não,15,0,5,2,Muito bom,5,2,1,3
+86,Não,56,Viaja raramente,7,Ensino Superior,Muito Alto,H,Solteiro,7260,4,Não,11,0,37,3,Bom,6,4,0,2
+87,Não,23,Viaja raramente,2,Ensino Médio,Alto,H,Divorciado,2322,3,Não,13,1,3,3,Muito bom,0,0,0,0
+88,Não,51,Viaja raramente,9,Mestrado,Muito Alto,H,Casado,2075,3,Não,23,2,10,4,Muito bom,4,2,0,3
+89,Não,30,Viaja raramente,2,Ensino Superior,Alto,H,Casado,4152,1,Não,19,3,11,3,Muito bom,11,10,10,8
+90,Sim,46,Viaja raramente,9,Ensino Técnico,Alto,H,Solteiro,9619,1,Não,16,0,9,3,Muito bom,9,8,4,7
+91,Não,40,Viaja frequentemente,1,Mestrado,Alto,H,Casado,13503,1,Não,22,1,22,3,Bom,22,3,11,11
+92,Não,51,Viaja raramente,21,Mestrado,Alto,H,Solteiro,5441,0,Sim,22,0,11,2,Ruim,10,7,1,0
+93,Não,30,Viaja raramente,4,Ensino Técnico,Alto,M,Divorciado,5209,1,Sim,12,3,11,4,Bom,11,8,2,7
+94,Não,46,Viaja frequentemente,1,Ensino Superior,Alto,H,Casado,10673,2,Sim,13,1,21,5,Bom,10,9,9,5
+95,Não,32,Viaja raramente,6,Mestrado,Médio,H,Solteiro,5010,1,Não,16,0,12,0,Muito bom,11,8,5,7
+96,Não,54,Viaja raramente,2,Mestrado,Baixo,M,Casado,13549,9,Não,12,1,16,5,Ruim,4,3,0,3
+97,Não,24,Viaja raramente,3,Ensino Técnico,Baixo,M,Casado,4999,0,Não,21,1,4,2,Bom,3,2,0,2
+98,Não,28,Não viaja,4,Ensino Superior,Médio,H,Casado,4221,1,Não,15,0,5,3,Excelente,5,4,0,4
+99,Não,58,Viaja raramente,10,Mestrado,Muito Alto,H,Solteiro,13872,0,Não,13,0,38,1,Bom,37,10,1,8
+100,Não,44,Não viaja,23,Ensino Superior,Médio,H,Casado,2042,4,Não,12,1,17,3,Excelente,3,2,1,2
+101,Sim,37,Viaja raramente,6,Mestrado,Alto,H,Divorciado,2073,4,Sim,22,0,7,3,Muito bom,3,2,0,2
+102,Não,32,Viaja raramente,1,Ensino Médio,Muito Alto,H,Solteiro,2956,1,Não,13,0,1,2,Muito bom,1,0,0,0
+103,Sim,20,Viaja frequentemente,6,Ensino Superior,Muito Alto,M,Solteiro,2926,1,Sim,18,0,1,5,Muito bom,1,0,1,0
+104,Não,34,Viaja raramente,6,Mestrado,Baixo,M,Solteiro,4809,1,Não,14,0,16,3,Muito bom,16,13,2,10
+105,Não,37,Não viaja,2,Ensino Técnico,Alto,H,Divorciado,5163,5,Não,14,1,17,2,Excelente,1,0,0,0
+106,Não,59,Não viaja,2,Mestrado,Alto,M,Casado,18844,9,Não,21,1,30,3,Muito bom,3,2,2,2
+107,Não,50,Viaja frequentemente,1,Ensino Superior,Baixo,M,Casado,18172,3,Sim,19,0,28,1,Bom,8,3,0,7
+108,Sim,25,Viaja raramente,5,Ensino Superior,Alto,H,Solteiro,5744,1,Sim,11,0,6,1,Muito bom,6,4,0,3
+109,Não,25,Viaja raramente,7,Ensino Médio,Muito Alto,H,Casado,2889,1,Não,11,2,2,2,Muito bom,2,2,2,1
+110,Não,22,Viaja raramente,15,Ensino Superior,Médio,M,Solteiro,2871,1,Não,15,0,1,5,Muito bom,0,0,0,0
+111,Não,51,Viaja frequentemente,1,Mestrado,Baixo,M,Solteiro,7484,3,Não,20,0,23,1,Bom,13,12,12,8
+112,Sim,34,Viaja frequentemente,7,Ensino Superior,Baixo,H,Solteiro,6074,1,Sim,24,0,9,3,Muito bom,9,7,0,6
+113,Não,54,Não viaja,26,Ensino Superior,Muito Alto,M,Solteiro,17328,2,Sim,12,0,23,3,Muito bom,5,3,4,4
+114,Não,24,Viaja raramente,18,Ensino Médio,Médio,H,Casado,2774,0,Não,12,1,6,2,Muito bom,5,3,1,2
+115,Não,34,Viaja raramente,6,Mestrado,Alto,M,Divorciado,4505,6,Não,15,1,12,3,Muito bom,1,0,0,0
+116,Não,37,Viaja raramente,3,Ensino Superior,Alto,H,Solteiro,7428,2,Não,12,0,12,3,Muito bom,5,3,1,3
+117,Não,34,Viaja raramente,5,Ensino Superior,Alto,M,Solteiro,11631,2,Não,12,0,14,6,Muito bom,11,10,5,8
+118,Não,36,Viaja frequentemente,11,Ensino Técnico,Médio,M,Casado,9738,0,Não,14,1,10,6,Muito bom,9,7,2,8
+119,Não,36,Viaja raramente,3,Ensino Técnico,Baixo,M,Divorciado,2835,5,Não,22,1,7,2,Muito bom,1,0,0,0
+120,Não,43,Viaja frequentemente,26,Ensino Técnico,Alto,H,Casado,16959,1,Sim,12,2,25,3,Excelente,25,12,4,12
+121,Não,30,Viaja frequentemente,23,Ensino Superior,Baixo,H,Divorciado,2613,1,Não,25,3,10,2,Bom,10,7,0,9
+122,Não,33,Não viaja,22,Ensino Técnico,Alto,H,Casado,6146,0,Não,13,1,8,2,Excelente,7,7,0,7
+123,Sim,56,Viaja raramente,14,Mestrado,Médio,M,Casado,4963,9,Sim,18,3,7,2,Muito bom,5,4,4,3
+124,Não,51,Viaja raramente,6,Ensino Superior,Baixo,H,Solteiro,19537,7,Não,13,0,23,5,Muito bom,20,18,15,15
+125,Sim,31,Viaja raramente,6,Mestrado,Médio,H,Casado,6172,4,Sim,18,0,12,3,Bom,7,7,7,7
+126,Não,26,Viaja raramente,6,Ensino Superior,Alto,M,Casado,2368,1,Não,19,0,5,3,Bom,5,4,4,3
+127,Sim,58,Viaja raramente,23,Mestrado,Muito Alto,M,Casado,10312,1,Não,12,1,40,3,Bom,40,10,15,6
+128,Sim,19,Viaja raramente,22,Ensino Médio,Muito Alto,H,Solteiro,1675,1,Sim,19,0,0,2,Bom,0,0,0,0
+129,Não,22,Viaja raramente,2,Ensino Médio,Alto,H,Casado,2523,0,Não,14,1,3,2,Muito bom,2,1,2,1
+130,Não,49,Viaja raramente,20,Mestrado,Alto,M,Casado,6567,1,Não,14,0,16,2,Bom,15,11,5,11
+131,Não,43,Viaja frequentemente,28,Ensino Superior,Médio,M,Solteiro,4739,4,Não,12,0,18,2,Muito bom,3,2,1,2
+132,Não,50,Viaja frequentemente,12,Ensino Superior,Alto,M,Solteiro,9208,4,Não,11,0,16,3,Muito bom,2,2,2,1
+133,Sim,31,Viaja raramente,20,Ensino Superior,Médio,M,Casado,4559,3,Sim,11,1,4,2,Muito bom,2,2,2,2
+134,Não,41,Viaja raramente,9,Ensino Médio,Alto,H,Divorciado,8189,3,Sim,13,1,12,2,Muito bom,9,7,0,7
+135,Não,26,Viaja raramente,25,Ensino Médio,Alto,M,Casado,2942,1,Não,23,1,8,3,Muito bom,8,7,5,7
+136,Não,36,Viaja raramente,6,Ensino Técnico,Médio,H,Divorciado,4941,6,Não,20,2,7,0,Muito bom,3,2,0,1
+137,Sim,51,Viaja frequentemente,8,Mestrado,Baixo,H,Solteiro,10650,2,Não,15,0,18,2,Muito bom,4,2,0,3
+138,Não,39,Viaja raramente,4,Mestrado,Muito Alto,M,Casado,5902,4,Não,14,1,17,1,Excelente,15,11,5,9
+139,Não,25,Viaja raramente,28,Ensino Superior,Baixo,H,Casado,8639,2,Não,18,0,6,3,Muito bom,2,2,2,2
+140,Não,30,Viaja raramente,9,Ensino Superior,Alto,H,Casado,6347,0,Sim,19,0,12,2,Ruim,11,9,4,7
+141,Sim,32,Viaja raramente,9,Ensino Superior,Baixo,M,Solteiro,4200,7,Não,22,0,10,2,Excelente,5,4,0,4
+142,Não,45,Viaja raramente,29,Ensino Superior,Alto,H,Solteiro,3452,5,Não,13,0,9,2,Bom,6,5,0,3
+143,Não,38,Viaja raramente,3,Doutorado,Muito Alto,M,Solteiro,4317,3,Sim,20,0,19,2,Muito bom,3,2,2,2
+144,Não,30,Viaja raramente,18,Ensino Superior,Baixo,M,Solteiro,2632,1,Não,14,0,5,4,Bom,5,4,0,4
+145,Não,32,Viaja frequentemente,9,Ensino Técnico,Muito Alto,H,Divorciado,4668,0,Não,17,3,9,2,Excelente,8,7,0,7
+146,Não,30,Viaja raramente,5,Ensino Superior,Muito Alto,M,Divorciado,3204,5,Não,14,1,8,3,Muito bom,3,2,2,2
+147,Não,30,Viaja raramente,2,Ensino Médio,Médio,H,Solteiro,2720,0,Não,13,0,6,3,Muito bom,5,3,1,2
+148,Não,41,Viaja frequentemente,10,Ensino Superior,Muito Alto,H,Divorciado,17181,4,Não,13,1,21,2,Bom,7,6,7,7
+149,Não,41,Viaja raramente,9,Mestrado,Alto,H,Casado,2238,2,Não,21,1,7,2,Muito bom,5,0,1,4
+150,Não,19,Viaja raramente,3,Ensino Médio,Médio,M,Solteiro,1483,1,Não,14,0,1,3,Muito bom,1,0,0,0
+151,Não,40,Viaja frequentemente,26,Ensino Superior,Médio,M,Divorciado,5605,1,Não,11,1,20,2,Muito bom,20,7,2,13
+152,Não,35,Viaja raramente,1,Doutorado,Alto,H,Casado,7295,1,Não,13,2,10,3,Muito bom,10,8,0,6
+153,Não,53,Viaja raramente,6,Ensino Técnico,Médio,H,Casado,2306,2,Sim,20,1,13,3,Ruim,7,7,4,5
+154,Não,45,Viaja raramente,9,Ensino Superior,Médio,H,Divorciado,2348,8,Não,18,1,20,2,Ruim,17,9,0,15
+155,Não,32,Viaja frequentemente,8,Ensino Superior,Médio,M,Solteiro,8998,1,Não,14,0,9,2,Muito bom,9,8,3,7
+156,Não,29,Não viaja,1,Ensino Médio,Muito Alto,H,Casado,4319,1,Não,13,1,10,1,Muito bom,10,7,0,9
+157,Não,51,Viaja raramente,7,Mestrado,Médio,H,Casado,6132,2,Não,17,0,10,2,Muito bom,1,0,0,0
+158,Não,58,Viaja raramente,9,Ensino Superior,Médio,M,Casado,3346,4,Sim,20,1,9,3,Bom,1,0,0,0
+159,Não,40,Viaja raramente,4,Mestrado,Alto,H,Casado,10855,7,Não,11,1,15,2,Bom,12,11,2,11
+160,Não,34,Viaja frequentemente,2,Mestrado,Alto,M,Casado,2231,6,Não,18,1,6,3,Muito bom,4,3,1,2
+161,Não,22,Viaja raramente,19,Ensino Médio,Alto,H,Casado,2323,1,Não,24,2,2,6,Muito bom,2,2,2,2
+162,Não,27,Não viaja,9,Ensino Superior,Muito Alto,H,Divorciado,2024,6,Não,18,1,6,1,Ruim,2,2,2,2
+163,Não,28,Viaja raramente,21,Ensino Superior,Alto,H,Casado,2713,1,Não,11,1,5,2,Ruim,5,2,0,2
+164,Não,57,Viaja raramente,24,Ensino Técnico,Alto,H,Divorciado,9439,3,Sim,16,1,12,2,Ruim,5,3,1,4
+165,Não,27,Não viaja,3,Ensino Superior,Alto,H,Divorciado,2566,1,Sim,15,1,1,2,Bom,1,1,0,1
+166,Não,50,Viaja raramente,11,Ensino Superior,Alto,M,Solteiro,19926,3,Não,15,0,21,5,Muito bom,5,4,4,4
+167,Não,41,Viaja raramente,14,Ensino Superior,Baixo,H,Divorciado,2451,4,Não,12,1,13,2,Muito bom,9,8,1,8
+168,Não,30,Viaja raramente,5,Ensino Superior,Médio,M,Casado,9419,2,Não,12,1,12,2,Muito bom,10,9,7,4
+169,Não,38,Viaja raramente,1,Mestrado,Baixo,M,Solteiro,8686,4,Não,22,0,12,2,Excelente,8,3,0,7
+170,Não,32,Viaja raramente,6,Doutorado,Alto,H,Solteiro,3038,3,Não,20,0,8,2,Muito bom,5,4,1,4
+171,Não,27,Viaja raramente,17,Ensino Superior,Alto,H,Casado,3058,0,Sim,16,1,6,3,Bom,5,2,1,1
+172,Sim,19,Viaja frequentemente,1,Ensino Médio,Alto,M,Solteiro,2325,0,Não,21,0,1,5,Excelente,0,0,0,0
+173,Não,36,Viaja frequentemente,3,Ensino Técnico,Muito Alto,H,Solteiro,2088,4,Não,12,0,13,3,Bom,8,7,7,2
+174,Não,30,Não viaja,9,Ensino Superior,Alto,H,Divorciado,3072,1,Não,11,2,12,4,Muito bom,12,9,6,10
+175,Não,45,Viaja raramente,4,Ensino Técnico,Alto,M,Divorciado,5006,4,Sim,11,1,9,3,Excelente,5,4,0,3
+176,Não,56,Viaja raramente,8,Ensino Superior,Alto,M,Divorciado,4257,4,Sim,18,1,19,3,Muito bom,2,2,2,2
+177,Não,33,Viaja raramente,2,Ensino Superior,Alto,H,Solteiro,2500,0,Não,14,0,4,2,Excelente,3,1,0,2
+178,Sim,19,Viaja raramente,2,Ensino Superior,Médio,H,Solteiro,1102,1,Não,22,0,1,3,Bom,1,0,1,0
+179,Não,46,Viaja raramente,1,Ensino Técnico,Médio,M,Divorciado,10453,1,Não,25,3,24,2,Muito bom,24,13,15,7
+180,Não,38,Viaja raramente,9,Ensino Técnico,Alto,M,Solteiro,2288,1,Não,12,0,2,3,Muito bom,2,2,2,1
+181,Não,31,Viaja raramente,12,Ensino Médio,Alto,M,Casado,3929,8,Sim,23,1,7,0,Muito bom,4,2,0,2
+182,Não,34,Viaja raramente,27,Ensino Técnico,Muito Alto,M,Solteiro,2311,2,Não,15,0,9,3,Muito bom,3,2,1,2
+183,Sim,41,Viaja raramente,20,Ensino Técnico,Médio,M,Solteiro,3140,1,Sim,22,0,4,5,Bom,4,3,0,2
+184,Não,50,Viaja raramente,1,Ensino Superior,Alto,H,Casado,3690,2,Não,15,1,5,2,Bom,3,2,0,2
+185,Não,53,Viaja raramente,13,Ensino Técnico,Muito Alto,M,Divorciado,4450,1,Não,11,2,5,3,Muito bom,4,2,1,3
+186,Não,33,Viaja raramente,14,Ensino Superior,Muito Alto,M,Casado,2756,1,Não,13,1,8,5,Muito bom,8,7,1,6
+187,Não,40,Viaja raramente,4,Ensino Médio,Muito Alto,M,Casado,19033,1,Não,14,1,21,2,Muito bom,20,8,9,9
+188,Não,55,Viaja raramente,14,Mestrado,Alto,H,Solteiro,18722,8,Não,11,0,36,3,Muito bom,24,15,2,15
+189,Não,34,Viaja frequentemente,2,Ensino Médio,Muito Alto,H,Casado,9547,1,Não,17,0,10,2,Bom,10,9,1,9
+190,Não,51,Viaja raramente,3,Ensino Superior,Muito Alto,M,Solteiro,13734,3,Não,18,0,21,6,Muito bom,7,7,1,0
+191,Não,52,Viaja raramente,1,Mestrado,Alto,H,Casado,19999,0,Não,14,1,34,5,Muito bom,33,18,11,9
+192,Não,27,Viaja raramente,9,Ensino Superior,Muito Alto,M,Solteiro,2279,1,Não,16,0,7,2,Bom,7,7,0,3
+193,Sim,35,Viaja raramente,23,Ensino Técnico,Médio,H,Casado,5916,3,Sim,13,0,8,1,Muito bom,1,0,0,1
+194,Não,43,Não viaja,7,Ensino Superior,Muito Alto,H,Divorciado,2089,4,Não,14,3,7,3,Excelente,5,4,2,2
+195,Não,45,Não viaja,2,Ensino Técnico,Baixo,H,Casado,16792,9,Não,23,1,22,1,Muito bom,20,8,11,8
+196,Não,37,Viaja raramente,21,Ensino Superior,Médio,H,Casado,3564,1,Sim,12,1,8,3,Bom,8,7,1,7
+197,Não,35,Viaja frequentemente,2,Ensino Superior,Médio,M,Solteiro,4425,5,Não,11,0,10,5,Muito bom,6,2,1,2
+198,Não,42,Não viaja,21,Ensino Técnico,Alto,M,Divorciado,5265,2,Não,16,1,11,5,Muito bom,5,3,0,2
+199,Não,38,Viaja raramente,2,Mestrado,Muito Alto,H,Casado,6553,9,Não,14,0,14,3,Muito bom,1,0,0,0
+200,Não,38,Viaja raramente,29,Ensino Superior,Muito Alto,H,Casado,6261,3,Não,18,1,9,3,Ruim,7,7,1,7
+201,Não,27,Viaja frequentemente,1,Ensino Médio,Alto,H,Casado,4298,5,Não,19,1,6,1,Muito bom,2,2,2,0
+202,Não,49,Não viaja,18,Mestrado,Muito Alto,H,Divorciado,6804,1,Sim,15,2,7,0,Muito bom,7,7,1,7
+203,Não,34,Viaja frequentemente,10,Mestrado,Muito Alto,H,Divorciado,3815,1,Sim,17,1,5,4,Excelente,5,3,2,0
+204,Não,40,Viaja raramente,19,Ensino Técnico,Alto,H,Casado,2741,8,Sim,15,1,15,2,Excelente,7,2,3,7
+205,Sim,38,Viaja raramente,29,Ensino Médio,Médio,H,Casado,6673,7,Sim,19,0,17,2,Muito bom,1,0,0,0
+206,Sim,29,Viaja raramente,27,Ensino Superior,Médio,M,Casado,7639,1,Não,22,3,10,3,Bom,10,4,1,9
+207,Não,22,Viaja raramente,5,Ensino Superior,Muito Alto,H,Divorciado,2328,1,Sim,16,1,4,2,Bom,4,2,2,2
+208,Não,36,Viaja frequentemente,18,Ensino Médio,Médio,M,Solteiro,2153,1,Não,13,0,8,2,Muito bom,8,1,1,7
+209,Não,40,Não viaja,9,Doutorado,Muito Alto,H,Casado,4876,9,Não,14,1,5,5,Ruim,3,2,0,2
+210,Não,46,Viaja raramente,1,Mestrado,Muito Alto,H,Divorciado,9396,7,Não,16,1,17,3,Muito bom,4,2,0,3
+211,Sim,32,Viaja raramente,4,Mestrado,Muito Alto,H,Casado,10400,1,Não,11,0,14,2,Bom,14,8,9,8
+212,Não,30,Não viaja,1,Ensino Médio,Alto,H,Solteiro,8474,1,Não,22,0,12,2,Muito bom,11,8,5,8
+213,Não,27,Viaja frequentemente,20,Ensino Superior,Muito Alto,M,Solteiro,9981,1,Não,14,0,7,2,Muito bom,7,7,0,7
+214,Não,51,Viaja raramente,8,Mestrado,Médio,H,Casado,12490,5,Não,16,2,16,5,Ruim,10,9,4,7
+215,Sim,30,Viaja raramente,3,Ensino Superior,Muito Alto,M,Solteiro,2657,5,Sim,11,0,8,5,Muito bom,5,2,0,4
+216,Não,41,Viaja raramente,6,Ensino Superior,Muito Alto,M,Solteiro,13591,3,Sim,18,0,16,3,Muito bom,1,0,0,0
+217,Sim,30,Viaja frequentemente,26,Mestrado,Alto,M,Solteiro,6696,5,Não,15,0,9,5,Bom,6,3,0,1
+218,Sim,29,Viaja raramente,1,Ensino Superior,Alto,H,Solteiro,2058,0,Não,14,0,7,1,Bom,6,2,1,5
+219,Não,45,Não viaja,6,Ensino Superior,Muito Alto,M,Solteiro,8865,6,Não,12,0,23,2,Muito bom,19,7,12,8
+220,Não,54,Viaja raramente,3,Ensino Superior,Muito Alto,M,Casado,5940,2,Não,14,1,16,4,Muito bom,6,2,0,5
+221,Não,36,Viaja raramente,5,Ensino Técnico,Muito Alto,H,Solteiro,5914,8,Não,16,0,16,3,Excelente,13,11,3,7
+222,Não,33,Viaja raramente,4,Mestrado,Alto,M,Casado,2622,6,Não,21,0,7,3,Muito bom,3,2,1,1
+223,Não,37,Viaja frequentemente,11,Ensino Superior,Médio,H,Divorciado,12185,1,Sim,14,3,10,1,Muito bom,10,8,0,7
+224,Não,38,Viaja raramente,3,Ensino Superior,Baixo,H,Divorciado,10609,0,Não,12,2,17,6,Bom,16,10,5,13
+225,Não,31,Não viaja,1,Mestrado,Alto,H,Casado,4345,0,Não,12,1,6,2,Muito bom,5,4,1,4
+226,Não,59,Viaja raramente,3,Ensino Superior,Alto,H,Casado,2177,3,Não,17,1,7,6,Muito bom,1,0,0,0
+227,Não,37,Viaja frequentemente,4,Mestrado,Baixo,H,Divorciado,2793,4,Não,17,1,13,2,Muito bom,9,8,5,8
+228,Não,29,Viaja frequentemente,1,Ensino Médio,Médio,M,Casado,7918,1,Não,14,1,11,5,Muito bom,11,10,4,1
+229,Não,35,Viaja frequentemente,1,Ensino Superior,Alto,M,Solteiro,8789,1,Não,14,0,10,3,Excelente,10,7,0,8
+230,Sim,29,Viaja raramente,18,Ensino Médio,Alto,H,Solteiro,2389,1,Sim,13,0,4,3,Bom,4,3,0,1
+231,Não,52,Viaja raramente,2,Ensino Superior,Alto,M,Solteiro,3212,7,Não,15,0,6,3,Bom,2,2,2,2
+232,Não,42,Viaja raramente,4,Ensino Técnico,Alto,H,Casado,19232,1,Não,11,0,22,3,Muito bom,22,17,11,15
+233,Não,59,Viaja raramente,6,Ensino Técnico,Médio,H,Casado,2267,8,Não,17,0,7,2,Bom,2,2,2,2
+234,Não,50,Viaja raramente,1,Mestrado,Muito Alto,M,Divorciado,19517,3,Não,11,1,32,3,Bom,7,0,0,6
+235,Sim,33,Viaja raramente,14,Ensino Superior,Alto,H,Casado,2436,5,Sim,13,1,8,2,Ruim,5,4,0,4
+236,Não,43,Viaja raramente,16,Ensino Superior,Muito Alto,M,Casado,16064,5,Sim,22,1,22,3,Muito bom,17,13,1,9
+237,Sim,33,Viaja raramente,2,Ensino Técnico,Baixo,M,Casado,2707,7,Não,20,0,13,3,Excelente,9,7,1,7
+238,Não,52,Não viaja,2,Mestrado,Baixo,H,Solteiro,19068,1,Sim,18,0,33,2,Excelente,33,7,15,12
+239,Não,32,Viaja raramente,4,Ensino Técnico,Alto,M,Casado,3931,2,Não,11,1,6,5,Muito bom,4,3,1,2
+240,Sim,32,Viaja raramente,1,Ensino Superior,Muito Alto,H,Solteiro,3730,0,Sim,14,0,4,2,Ruim,3,2,1,2
+241,Não,39,Viaja raramente,1,Mestrado,Alto,M,Divorciado,2232,7,Não,14,3,7,1,Muito bom,3,2,1,2
+242,Não,32,Não viaja,26,Mestrado,Alto,H,Casado,4465,0,Não,18,0,4,2,Muito bom,3,2,2,2
+243,Não,41,Viaja raramente,19,Ensino Técnico,Alto,H,Divorciado,3072,2,Não,16,2,17,2,Bom,1,0,0,0
+244,Não,40,Viaja raramente,24,Ensino Técnico,Baixo,H,Divorciado,3319,1,Não,17,2,9,3,Muito bom,9,8,4,7
+245,Não,45,Viaja raramente,1,Ensino Superior,Alto,H,Casado,19202,0,Não,11,1,25,2,Muito bom,24,0,1,7
+246,Não,31,Viaja frequentemente,3,Mestrado,Médio,H,Divorciado,13675,9,Não,12,1,9,3,Muito bom,2,2,2,2
+247,Não,33,Viaja raramente,5,Mestrado,Alto,M,Casado,2911,1,Não,13,1,2,2,Bom,2,2,0,2
+248,Não,34,Viaja raramente,2,Mestrado,Muito Alto,H,Casado,5957,6,Não,13,1,13,3,Muito bom,11,9,5,9
+249,Não,37,Viaja raramente,1,Ensino Técnico,Alto,M,Casado,3920,2,Não,14,1,17,2,Bom,3,1,0,2
+250,Não,45,Viaja frequentemente,7,Mestrado,Baixo,H,Casado,6434,4,Não,17,1,9,1,Muito bom,3,2,0,2
+251,Sim,37,Viaja frequentemente,10,Ensino Superior,Baixo,H,Divorciado,10048,6,Não,11,2,17,5,Muito bom,1,0,0,0
+252,Não,39,Viaja frequentemente,2,Mestrado,Alto,M,Solteiro,10938,0,Não,25,0,20,1,Muito bom,19,6,11,8
+253,Não,29,Viaja raramente,15,Ensino Superior,Alto,H,Solteiro,2340,1,Não,19,0,6,1,Muito bom,6,5,1,5
+254,Não,42,Viaja raramente,17,Ensino Técnico,Muito Alto,M,Solteiro,6545,3,Sim,13,0,10,1,Muito bom,3,2,0,2
+255,Não,29,Viaja raramente,20,Ensino Técnico,Muito Alto,H,Divorciado,6931,2,Não,14,1,10,2,Muito bom,3,2,0,2
+256,Não,25,Viaja raramente,1,Ensino Superior,Baixo,M,Casado,4898,0,Não,12,2,5,3,Muito bom,4,2,1,2
+257,Não,42,Viaja raramente,2,Ensino Superior,Muito Alto,M,Divorciado,2593,0,Sim,11,1,10,4,Muito bom,9,6,7,8
+258,Não,40,Viaja raramente,2,Ensino Técnico,Baixo,H,Divorciado,19436,0,Não,19,1,22,5,Muito bom,21,7,3,9
+259,Não,51,Viaja raramente,1,Ensino Superior,Alto,H,Casado,2723,1,Não,11,0,1,0,Bom,1,0,0,0
+260,Sim,31,Viaja frequentemente,29,Ensino Técnico,Alto,H,Solteiro,3479,0,Não,11,0,6,2,Excelente,5,4,1,4
+261,Não,32,Viaja frequentemente,7,Ensino Superior,Médio,H,Casado,2794,1,Não,20,0,5,3,Ruim,5,1,0,3
+262,Não,38,Não viaja,2,Ensino Técnico,Muito Alto,H,Casado,5249,3,Não,18,1,13,0,Muito bom,8,7,7,5
+263,Não,32,Viaja raramente,2,Ensino Médio,Muito Alto,H,Solteiro,2176,4,Não,13,0,9,5,Muito bom,6,2,0,4
+264,Não,46,Viaja raramente,2,Ensino Superior,Alto,M,Casado,16872,3,Sim,12,1,28,2,Bom,7,7,7,7
+265,Sim,28,Viaja raramente,2,Mestrado,Baixo,H,Solteiro,3485,2,Não,11,0,5,5,Ruim,0,0,0,0
+266,Não,29,Viaja raramente,2,Ensino Superior,Baixo,H,Casado,6644,2,Não,19,2,10,2,Muito bom,0,0,0,0
+267,Não,31,Viaja raramente,23,Ensino Superior,Médio,H,Casado,5582,0,Não,21,1,10,2,Muito bom,9,0,7,8
+268,Não,25,Não viaja,5,Ensino Técnico,Médio,H,Divorciado,4000,1,Não,12,2,6,2,Muito bom,6,3,1,5
+269,Não,45,Viaja raramente,20,Ensino Técnico,Alto,H,Casado,13496,0,Sim,14,0,21,2,Muito bom,20,7,4,10
+270,Não,36,Viaja raramente,6,Ensino Superior,Muito Alto,H,Casado,3210,0,Não,11,1,16,4,Muito bom,15,13,10,11
+271,Não,55,Viaja raramente,1,Ensino Superior,Muito Alto,H,Solteiro,19045,0,Sim,14,0,37,2,Muito bom,36,10,4,13
+272,Sim,47,Não viaja,29,Mestrado,Baixo,H,Casado,11849,1,Sim,12,1,10,2,Bom,10,7,9,9
+273,Não,28,Viaja raramente,9,Ensino Superior,Muito Alto,H,Casado,2070,1,Não,23,1,5,3,Bom,5,2,0,4
+274,Não,37,Viaja raramente,6,Mestrado,Alto,H,Casado,6502,4,Não,14,1,7,5,Excelente,5,4,0,1
+275,Não,21,Viaja raramente,3,Ensino Técnico,Muito Alto,H,Solteiro,3230,1,Não,17,0,3,4,Excelente,3,2,1,0
+276,Não,37,Não viaja,1,Mestrado,Baixo,M,Divorciado,13603,2,Sim,18,2,15,2,Muito bom,5,2,0,2
+277,Não,35,Viaja raramente,22,Ensino Superior,Médio,M,Divorciado,11996,7,Não,18,1,10,6,Bom,7,7,6,2
+278,Não,38,Viaja raramente,7,Ensino Técnico,Baixo,M,Divorciado,5605,1,Sim,24,1,8,3,Muito bom,8,0,7,7
+279,Não,26,Viaja frequentemente,1,Ensino Superior,Alto,M,Divorciado,6397,1,Não,20,1,6,6,Ruim,6,5,1,4
+280,Não,50,Viaja raramente,4,Ensino Médio,Baixo,H,Divorciado,19144,3,Não,14,2,28,4,Bom,10,4,1,6
+281,Não,53,Viaja raramente,3,Mestrado,Alto,H,Casado,17584,3,Sim,16,3,21,5,Bom,5,3,1,3
+282,Não,42,Viaja raramente,1,Ensino Médio,Médio,H,Casado,4907,1,Não,25,0,20,3,Muito bom,20,16,11,6
+283,Não,29,Viaja frequentemente,2,Ensino Técnico,Médio,H,Solteiro,4554,1,Não,18,0,10,3,Bom,10,7,0,9
+284,Não,55,Viaja raramente,20,Ensino Técnico,Médio,H,Casado,5415,3,Sim,19,1,12,4,Muito bom,10,7,0,8
+285,Não,26,Viaja frequentemente,11,Ensino Técnico,Baixo,H,Casado,4741,1,Sim,13,1,5,3,Muito bom,5,3,3,3
+286,Não,37,Viaja raramente,1,Ensino Superior,Muito Alto,M,Solteiro,2115,1,Não,12,0,17,3,Muito bom,17,12,5,7
+287,Sim,44,Viaja frequentemente,24,Ensino Superior,Muito Alto,H,Divorciado,3161,3,Sim,22,1,19,0,Ruim,1,0,0,0
+288,Não,38,Viaja raramente,23,Mestrado,Muito Alto,H,Divorciado,5745,9,Não,14,1,10,2,Muito bom,2,2,1,2
+289,Sim,26,Viaja raramente,16,Mestrado,Baixo,H,Divorciado,2373,2,Sim,13,1,5,2,Muito bom,3,2,0,2
+290,Não,28,Viaja raramente,8,Ensino Técnico,Muito Alto,M,Solteiro,3310,1,Não,21,0,5,3,Muito bom,5,3,0,2
+291,Não,49,Viaja frequentemente,10,Mestrado,Alto,M,Solteiro,18665,9,Sim,11,0,22,4,Muito bom,3,2,1,2
+292,Não,36,Viaja raramente,3,Ensino Superior,Alto,H,Solteiro,4485,4,Não,12,0,10,2,Muito bom,8,0,7,7
+293,Não,31,Viaja frequentemente,5,Ensino Superior,Muito Alto,M,Divorciado,2789,1,Não,11,1,2,5,Bom,2,2,2,2
+294,Sim,26,Viaja raramente,4,Mestrado,Muito Alto,H,Solteiro,5828,1,Sim,12,0,8,0,Muito bom,8,7,7,4
+295,Não,37,Viaja frequentemente,9,Ensino Superior,Médio,H,Casado,2326,1,Sim,12,3,4,3,Bom,4,2,1,2
+296,Não,42,Viaja frequentemente,26,Ensino Superior,Alto,M,Casado,13525,5,Não,14,1,23,2,Excelente,20,4,4,8
+297,Sim,18,Viaja raramente,3,Ensino Superior,Alto,H,Solteiro,1420,1,Não,13,0,0,2,Muito bom,0,0,0,0
+298,Não,35,Viaja raramente,16,Ensino Superior,Alto,H,Casado,8020,0,Não,15,2,12,3,Bom,11,9,6,9
+299,Não,36,Viaja frequentemente,18,Mestrado,Alto,H,Casado,3688,4,Não,18,2,4,2,Muito bom,1,0,0,0
+300,Não,51,Viaja raramente,2,Ensino Superior,Muito Alto,H,Divorciado,5482,5,Não,18,1,13,3,Muito bom,4,1,1,2
+301,Não,41,Viaja raramente,2,Mestrado,Muito Alto,H,Solteiro,16015,1,Não,19,0,22,2,Muito bom,22,10,0,4
+302,Não,18,Viaja raramente,10,Ensino Superior,Muito Alto,M,Solteiro,1200,1,Não,12,0,0,2,Muito bom,0,0,0,0
+303,Não,28,Viaja raramente,16,Ensino Técnico,Médio,H,Solteiro,5661,0,Não,19,0,9,2,Muito bom,8,3,0,7
+304,Não,31,Viaja raramente,7,Ensino Superior,Médio,H,Casado,6929,4,Não,11,1,10,3,Bom,8,7,7,7
+305,Não,39,Viaja raramente,1,Ensino Superior,Alto,H,Divorciado,9613,0,Não,17,3,19,5,Bom,18,10,3,7
+306,Não,36,Não viaja,24,Mestrado,Médio,M,Casado,5674,7,Não,15,1,11,3,Muito bom,9,8,0,8
+307,Não,32,Viaja raramente,7,Ensino Superior,Muito Alto,H,Casado,5484,1,Não,14,1,13,3,Bom,13,8,4,8
+308,Não,38,Viaja raramente,25,Ensino Técnico,Baixo,M,Casado,12061,3,Não,17,1,19,2,Muito bom,10,8,0,1
+309,Não,58,Não viaja,1,Mestrado,Muito Alto,H,Divorciado,5660,2,Sim,13,1,12,2,Muito bom,5,3,1,2
+310,Não,31,Viaja raramente,5,Mestrado,Alto,H,Casado,4821,0,Sim,12,1,6,4,Muito bom,5,2,0,3
+311,Não,31,Viaja raramente,2,Ensino Superior,Baixo,H,Casado,6410,3,Não,12,0,9,1,Muito bom,2,2,1,0
+312,Não,45,Viaja frequentemente,7,Ensino Superior,Baixo,H,Divorciado,5210,1,Não,18,1,24,2,Muito bom,24,9,9,11
+313,Não,31,Viaja raramente,2,Mestrado,Alto,H,Divorciado,2695,0,Sim,18,1,3,2,Ruim,2,2,2,2
+314,Não,33,Viaja frequentemente,5,Mestrado,Muito Alto,M,Casado,11878,6,Não,11,2,12,2,Muito bom,10,6,8,8
+315,Não,39,Viaja raramente,10,Ensino Médio,Alto,H,Casado,17068,1,Sim,14,0,21,3,Muito bom,21,9,11,10
+316,Não,43,Viaja frequentemente,10,Mestrado,Alto,M,Solteiro,2455,0,Não,19,0,9,5,Muito bom,8,7,1,7
+317,Não,49,Viaja raramente,1,Ensino Técnico,Alto,M,Solteiro,13964,7,Sim,12,0,25,2,Muito bom,7,1,0,7
+318,Sim,52,Viaja raramente,8,Mestrado,Alto,H,Casado,4941,2,Não,15,0,11,3,Bom,8,2,7,7
+319,Não,27,Viaja raramente,5,Ensino Superior,Alto,M,Solteiro,2478,1,Sim,12,0,4,2,Bom,4,3,1,2
+320,Não,32,Viaja raramente,8,Ensino Técnico,Alto,M,Casado,5228,1,Sim,11,0,13,2,Muito bom,13,12,11,9
+321,Não,27,Viaja raramente,2,Ensino Superior,Muito Alto,H,Solteiro,4478,1,Sim,11,0,5,3,Muito bom,5,4,0,4
+322,Não,31,Viaja raramente,7,Ensino Superior,Muito Alto,H,Divorciado,7547,4,Não,12,3,13,3,Muito bom,7,7,1,7
+323,Não,32,Viaja raramente,2,Mestrado,Baixo,M,Solteiro,5055,7,Não,16,0,10,0,Bom,7,7,0,7
+324,Sim,28,Viaja raramente,2,Mestrado,Baixo,H,Casado,3464,5,Sim,13,0,5,4,Bom,3,2,2,2
+325,Não,30,Viaja raramente,28,Ensino Técnico,Muito Alto,M,Casado,5775,1,Não,13,2,11,2,Muito bom,10,8,1,9
+326,Não,31,Viaja frequentemente,7,Ensino Técnico,Alto,M,Casado,8943,1,Não,24,1,10,2,Muito bom,10,9,8,9
+327,Não,39,Viaja frequentemente,7,Ensino Técnico,Alto,H,Casado,19272,1,Não,15,1,21,2,Muito bom,21,9,13,3
+328,Sim,39,Viaja raramente,3,Ensino Técnico,Muito Alto,M,Casado,5238,4,Sim,18,0,12,3,Bom,1,0,0,0
+329,Não,33,Viaja frequentemente,10,Ensino Superior,Médio,H,Solteiro,4682,3,Não,14,0,9,6,Bom,7,7,0,1
+330,Não,47,Viaja raramente,5,Doutorado,Muito Alto,H,Casado,18300,4,Não,11,1,21,2,Muito bom,3,2,1,1
+331,Não,43,Viaja frequentemente,10,Mestrado,Alto,M,Divorciado,5257,1,Não,11,1,9,3,Excelente,9,7,0,0
+332,Não,27,Não viaja,1,Ensino Médio,Alto,H,Casado,6349,0,Sim,13,1,6,0,Muito bom,5,4,1,4
+333,Não,54,Viaja frequentemente,20,Mestrado,Muito Alto,M,Solteiro,4869,3,Não,12,0,20,4,Bom,4,3,0,3
+334,Não,43,Viaja raramente,7,Ensino Superior,Alto,M,Casado,9985,8,Não,16,1,10,1,Bom,1,0,0,0
+335,Não,45,Viaja raramente,8,Mestrado,Muito Alto,H,Casado,3697,9,Não,14,2,12,3,Muito bom,10,9,9,8
+336,Não,40,Viaja raramente,1,Ensino Técnico,Médio,H,Casado,7457,2,Sim,22,3,6,2,Bom,4,3,0,2
+337,Sim,29,Viaja raramente,8,Mestrado,Médio,H,Casado,2119,1,Sim,11,0,7,4,Bom,7,7,0,7
+338,Não,29,Viaja raramente,9,Doutorado,Médio,H,Solteiro,3983,0,Não,17,0,4,2,Muito bom,3,2,2,2
+339,Não,30,Viaja raramente,5,Ensino Superior,Muito Alto,M,Divorciado,6118,1,Não,13,3,10,2,Muito bom,10,9,1,2
+340,Não,27,Viaja raramente,8,Mestrado,Médio,M,Casado,6214,1,Não,18,1,8,3,Muito bom,8,7,0,7
+341,Não,37,Viaja raramente,5,Ensino Técnico,Muito Alto,H,Divorciado,6347,7,Não,16,2,8,2,Bom,6,2,0,4
+342,Não,38,Viaja raramente,15,Ensino Técnico,Alto,H,Divorciado,11510,0,Sim,14,1,12,3,Muito bom,11,10,2,9
+343,Não,31,Viaja raramente,7,Mestrado,Alto,M,Solteiro,7143,1,Sim,14,0,11,2,Bom,11,9,4,10
+344,Não,29,Viaja raramente,10,Ensino Médio,Muito Alto,M,Divorciado,8268,1,Sim,14,2,7,2,Muito bom,7,7,1,7
+345,Não,35,Viaja raramente,5,Mestrado,Alto,H,Solteiro,8095,0,Não,13,0,17,5,Muito bom,16,6,0,13
+346,Não,23,Viaja raramente,26,Ensino Médio,Alto,H,Divorciado,2904,1,Não,12,2,4,2,Bom,4,2,0,2
+347,Não,41,Viaja raramente,6,Ensino Superior,Muito Alto,H,Solteiro,6032,6,Sim,15,0,8,3,Muito bom,5,4,1,2
+348,Não,47,Viaja frequentemente,4,Ensino Médio,Médio,H,Solteiro,2976,3,Não,19,0,5,3,Muito bom,0,0,0,0
+349,Não,42,Viaja raramente,23,Doutorado,Baixo,M,Solteiro,15992,2,Não,14,0,16,2,Muito bom,1,0,0,0
+350,Não,29,Não viaja,2,Ensino Superior,Muito Alto,H,Casado,4649,1,Não,14,1,4,3,Bom,4,3,0,2
+351,Não,42,Viaja raramente,2,Ensino Médio,Alto,H,Divorciado,2696,0,Sim,11,1,4,5,Muito bom,3,2,1,0
+352,Não,32,Viaja raramente,2,Ensino Superior,Alto,M,Casado,2370,1,Não,13,1,8,4,Muito bom,8,0,0,7
+353,Não,48,Viaja raramente,29,Ensino Médio,Baixo,M,Casado,12504,3,Não,21,1,15,3,Ruim,0,0,0,0
+354,Não,37,Viaja raramente,6,Ensino Superior,Alto,H,Divorciado,5974,4,Sim,13,2,13,2,Muito bom,7,7,6,7
+355,Não,30,Não viaja,25,Ensino Técnico,Muito Alto,M,Casado,4736,7,Sim,12,1,4,2,Excelente,2,2,2,2
+356,Não,26,Viaja raramente,1,Ensino Superior,Alto,H,Casado,5296,1,Não,17,1,8,3,Muito bom,8,7,7,7
+357,Não,42,Viaja raramente,2,Mestrado,Baixo,H,Solteiro,6781,3,Não,23,0,14,6,Muito bom,1,0,0,0
+358,Sim,21,Viaja frequentemente,1,Ensino Médio,Baixo,M,Solteiro,2174,1,Sim,11,0,3,3,Muito bom,3,2,1,2
+359,Não,36,Não viaja,1,Doutorado,Muito Alto,M,Solteiro,6653,4,Não,15,0,7,6,Muito bom,1,0,0,0
+360,Não,36,Viaja frequentemente,3,Mestrado,Baixo,H,Casado,9699,4,Não,11,1,16,2,Muito bom,13,9,1,12
+361,Não,57,Viaja raramente,1,Mestrado,Muito Alto,H,Casado,6755,2,Não,11,0,15,2,Muito bom,3,2,1,2
+362,Não,40,Viaja raramente,10,Mestrado,Muito Alto,M,Casado,2213,3,Sim,13,1,10,3,Muito bom,7,7,1,7
+363,Não,21,Não viaja,9,Ensino Técnico,Baixo,H,Solteiro,2610,1,Não,24,0,3,3,Bom,3,2,2,2
+364,Sim,33,Viaja raramente,5,Ensino Superior,Muito Alto,M,Solteiro,2851,1,Sim,13,0,1,2,Muito bom,1,0,0,0
+365,Não,37,Viaja raramente,10,Ensino Superior,Alto,M,Casado,3452,6,Não,20,1,17,3,Muito bom,5,4,0,3
+366,Não,46,Não viaja,7,Mestrado,Alto,M,Casado,5258,2,Não,14,0,7,2,Excelente,1,0,0,0
+367,Sim,41,Viaja frequentemente,4,Ensino Superior,Baixo,H,Solteiro,9355,1,Não,18,0,8,5,Muito bom,8,7,7,7
+368,Não,50,Viaja raramente,10,Ensino Superior,Muito Alto,H,Solteiro,10496,6,Não,15,0,20,2,Muito bom,4,3,1,3
+369,Sim,40,Viaja raramente,22,Ensino Técnico,Alto,H,Casado,6380,2,Sim,12,2,8,6,Muito bom,6,4,1,0
+370,Não,31,Viaja raramente,9,Mestrado,Alto,H,Solteiro,2657,0,Sim,16,0,3,5,Muito bom,2,2,2,2
+371,Sim,21,Viaja raramente,12,Ensino Superior,Alto,M,Solteiro,2716,1,Não,15,0,1,0,Muito bom,1,0,0,0
+372,Não,29,Viaja raramente,23,Ensino Superior,Muito Alto,H,Solteiro,2201,9,Não,16,0,6,4,Muito bom,3,2,1,2
+373,Não,35,Viaja raramente,9,Mestrado,Alto,H,Solteiro,6540,9,Não,19,0,10,5,Muito bom,1,1,0,0
+374,Não,27,Viaja raramente,1,Ensino Técnico,Muito Alto,H,Divorciado,3816,1,Não,11,1,5,2,Muito bom,5,2,0,4
+375,Não,28,Viaja raramente,9,Mestrado,Médio,H,Solteiro,5253,1,Não,16,0,7,1,Muito bom,7,5,0,7
+376,Não,49,Viaja raramente,7,Ensino Superior,Médio,H,Solteiro,10965,8,Não,24,0,26,2,Muito bom,5,2,0,0
+377,Não,51,Viaja raramente,14,Ensino Técnico,Alto,M,Casado,4936,4,Não,11,1,18,2,Bom,7,7,0,7
+378,Não,36,Viaja raramente,2,Ensino Superior,Muito Alto,M,Casado,2543,4,Não,13,1,6,3,Muito bom,2,2,2,2
+379,Sim,34,Não viaja,19,Ensino Superior,Baixo,H,Solteiro,5304,8,Sim,13,0,9,3,Bom,5,2,0,4
+380,Não,55,Viaja raramente,2,Ensino Superior,Alto,M,Solteiro,16659,2,Sim,13,0,30,2,Muito bom,5,4,1,2
+381,Não,24,Viaja raramente,10,Mestrado,Muito Alto,M,Divorciado,4260,1,Sim,12,1,5,2,Excelente,5,2,0,3
+382,Não,30,Viaja raramente,2,Ensino Médio,Alto,H,Casado,2476,1,Não,18,1,1,3,Muito bom,1,0,0,0
+383,Sim,26,Viaja frequentemente,3,Ensino Médio,Alto,H,Solteiro,3102,0,Não,22,0,7,2,Muito bom,6,4,0,4
+384,Não,22,Viaja raramente,11,Ensino Superior,Baixo,M,Casado,2244,1,Não,13,1,2,1,Muito bom,2,1,1,2
+385,Não,36,Viaja raramente,2,Ensino Técnico,Médio,H,Casado,7596,1,Não,13,2,10,2,Muito bom,10,9,9,0
+386,Sim,30,Viaja frequentemente,4,Ensino Superior,Alto,H,Solteiro,2285,9,Sim,23,0,3,4,Muito bom,1,0,0,0
+387,Não,37,Viaja raramente,14,Ensino Superior,Muito Alto,M,Divorciado,3034,1,Não,12,1,18,2,Bom,18,7,12,17
+388,Não,40,Viaja raramente,2,Ensino Técnico,Muito Alto,M,Divorciado,5715,7,Não,12,2,8,5,Muito bom,5,4,1,3
+389,Não,42,Viaja raramente,1,Mestrado,Médio,M,Divorciado,2576,3,Não,16,1,8,5,Muito bom,5,2,1,2
+390,Não,37,Viaja raramente,10,Mestrado,Alto,H,Solteiro,4197,2,Sim,12,0,18,2,Bom,1,0,0,1
+391,Não,43,Viaja raramente,12,Ensino Superior,Baixo,H,Divorciado,14336,1,Não,11,1,25,3,Muito bom,25,10,3,9
+392,Não,40,Viaja raramente,2,Ensino Superior,Médio,M,Casado,3448,6,Não,22,1,20,3,Muito bom,1,0,0,0
+393,Não,54,Viaja raramente,5,Ensino Técnico,Baixo,H,Casado,19406,4,Não,11,1,24,4,Bom,4,2,1,2
+394,Não,34,Não viaja,4,Mestrado,Alto,M,Casado,6538,9,Não,15,1,6,3,Muito bom,3,2,1,2
+395,Não,31,Viaja raramente,7,Ensino Técnico,Médio,M,Casado,4306,1,Não,12,1,13,5,Ruim,13,10,3,12
+396,Não,43,Viaja frequentemente,21,Ensino Superior,Muito Alto,H,Casado,2258,7,Não,20,1,8,1,Muito bom,3,2,1,2
+397,Não,43,Viaja raramente,8,Mestrado,Alto,M,Divorciado,4522,4,Sim,14,0,8,3,Muito bom,5,2,0,2
+398,Não,25,Viaja raramente,4,Ensino Técnico,Médio,M,Solteiro,4487,1,Sim,11,0,5,3,Muito bom,5,4,1,3
+399,Não,37,Não viaja,25,Doutorado,Médio,M,Casado,4449,3,Sim,15,2,15,2,Muito bom,13,11,10,7
+400,Não,31,Viaja raramente,1,Ensino Técnico,Muito Alto,H,Casado,2218,1,Não,12,1,4,3,Muito bom,4,2,3,2
+401,Não,39,Viaja frequentemente,1,Ensino Médio,Médio,H,Divorciado,19197,1,Sim,14,1,21,3,Muito bom,21,8,1,6
+402,Não,56,Viaja frequentemente,6,Ensino Superior,Alto,M,Casado,13212,9,Não,11,3,36,0,Bom,7,7,7,7
+403,Não,30,Viaja raramente,12,Ensino Superior,Médio,M,Solteiro,6577,0,Não,11,0,6,6,Muito bom,5,4,4,4
+404,Não,41,Viaja raramente,1,Ensino Superior,Médio,H,Casado,8392,1,Não,16,1,10,2,Muito bom,10,7,0,7
+405,Não,28,Viaja raramente,17,Ensino Técnico,Alto,H,Divorciado,4558,1,Não,12,1,10,2,Muito bom,10,0,1,8
+406,Sim,25,Viaja raramente,3,Ensino Superior,Baixo,H,Casado,4031,5,Não,13,1,6,5,Muito bom,2,2,0,2
+407,Não,52,Viaja raramente,3,Ensino Superior,Muito Alto,H,Casado,7969,2,Sim,14,0,28,4,Muito bom,5,4,0,4
+408,Não,45,Viaja raramente,10,Ensino Técnico,Baixo,H,Casado,2654,3,Não,21,2,8,3,Bom,2,2,0,2
+409,Não,52,Viaja raramente,4,Ensino Técnico,Muito Alto,M,Casado,16555,2,Não,13,0,31,2,Ruim,5,2,1,4
+410,Não,42,Viaja frequentemente,29,Ensino Técnico,Baixo,M,Divorciado,4556,2,Não,11,1,19,3,Muito bom,5,4,0,2
+411,Não,30,Viaja raramente,2,Ensino Superior,Alto,M,Solteiro,6091,2,Não,20,0,11,2,Muito bom,5,4,0,2
+412,Não,60,Viaja raramente,7,Ensino Superior,Baixo,M,Casado,19566,5,Não,11,0,33,5,Ruim,29,8,11,10
+413,Não,46,Viaja raramente,18,Ensino Superior,Alto,M,Divorciado,4810,2,Não,14,1,19,5,Bom,10,7,0,8
+414,Não,42,Viaja frequentemente,28,Mestrado,Muito Alto,M,Casado,4523,0,Não,11,3,7,4,Excelente,6,5,0,4
+415,Sim,24,Viaja raramente,1,Ensino Médio,Baixo,M,Solteiro,3202,1,Sim,16,0,6,4,Muito bom,5,3,1,4
+416,Sim,34,Viaja frequentemente,6,Ensino Técnico,Muito Alto,M,Divorciado,2351,0,Não,16,1,3,3,Bom,2,2,1,0
+417,Não,38,Viaja frequentemente,2,Ensino Técnico,Muito Alto,H,Casado,1702,1,Sim,23,1,1,3,Muito bom,1,0,0,0
+418,Não,40,Viaja raramente,2,Mestrado,Alto,M,Casado,18041,0,Não,14,0,21,2,Muito bom,20,15,1,12
+419,Não,26,Viaja raramente,23,Ensino Superior,Baixo,M,Divorciado,2886,1,Não,22,2,3,3,Ruim,3,2,0,2
+420,Não,30,Não viaja,3,Ensino Superior,Alto,H,Casado,2097,4,Não,15,1,9,3,Ruim,5,3,1,4
+421,Não,29,Viaja raramente,3,Mestrado,Médio,H,Casado,11935,1,Não,18,0,10,2,Muito bom,10,2,0,7
+422,Sim,29,Viaja raramente,25,Doutorado,Alto,M,Casado,2546,5,Não,16,0,6,2,Excelente,2,2,1,1
+423,Sim,19,Viaja raramente,2,Ensino Técnico,Baixo,H,Solteiro,2564,1,Não,12,0,1,3,Excelente,1,0,0,0
+424,Não,30,Não viaja,22,Mestrado,Alto,M,Casado,8412,0,Não,11,0,10,3,Muito bom,9,8,7,8
+425,Não,57,Viaja raramente,29,Ensino Superior,Baixo,H,Divorciado,14118,3,Não,12,1,32,3,Bom,1,0,0,0
+426,Não,50,Viaja raramente,29,Mestrado,Médio,H,Casado,17046,0,Não,15,1,28,2,Muito bom,27,10,15,7
+427,Não,30,Não viaja,2,Ensino Superior,Alto,M,Solteiro,2564,0,Não,14,0,12,2,Bom,11,7,6,7
+428,Não,60,Viaja frequentemente,28,Ensino Superior,Alto,M,Casado,10266,4,Não,19,0,22,5,Excelente,18,13,13,11
+429,Não,47,Viaja raramente,2,Ensino Técnico,Baixo,M,Divorciado,5070,5,Não,13,3,20,2,Muito bom,5,0,0,4
+430,Não,46,Viaja raramente,2,Ensino Superior,Baixo,H,Casado,17861,6,Não,13,0,26,2,Ruim,3,2,0,1
+431,Não,35,Viaja raramente,22,Ensino Superior,Muito Alto,H,Solteiro,4230,0,Não,15,0,6,2,Muito bom,5,4,4,3
+432,Não,54,Viaja raramente,8,Mestrado,Alto,M,Solteiro,3780,7,Não,11,0,19,3,Muito bom,1,0,0,0
+433,Não,34,Viaja raramente,2,Mestrado,Muito Alto,H,Divorciado,2768,3,Não,12,1,14,3,Muito bom,7,3,5,7
+434,Não,46,Viaja raramente,10,Ensino Superior,Alto,M,Casado,9071,2,Sim,19,1,15,3,Muito bom,3,2,1,2
+435,Não,31,Viaja raramente,9,Ensino Médio,Alto,H,Divorciado,10648,1,Não,25,1,13,6,Excelente,13,8,0,8
+436,Sim,33,Viaja raramente,15,Ensino Médio,Médio,H,Casado,13610,7,Sim,12,0,15,2,Excelente,7,6,7,7
+437,Sim,33,Viaja raramente,10,Ensino Médio,Baixo,H,Divorciado,3408,7,Não,13,3,8,2,Muito bom,4,3,1,3
+438,Não,30,Viaja raramente,7,Ensino Médio,Muito Alto,H,Solteiro,2983,0,Não,14,0,4,3,Muito bom,3,2,1,2
+439,Não,35,Viaja raramente,16,Ensino Superior,Muito Alto,H,Casado,7632,4,Sim,12,0,10,2,Muito bom,8,7,0,0
+440,Sim,31,Viaja frequentemente,20,Ensino Superior,Baixo,H,Casado,9824,3,Não,12,0,12,2,Muito bom,1,0,0,0
+441,Sim,34,Viaja frequentemente,23,Ensino Superior,Médio,M,Divorciado,9950,9,Sim,15,3,11,2,Muito bom,3,2,0,2
+442,Não,42,Viaja frequentemente,5,Ensino Técnico,Médio,H,Casado,2093,4,Não,17,1,8,4,Muito bom,2,2,2,0
+443,Não,36,Não viaja,10,Mestrado,Médio,H,Solteiro,9980,1,Não,14,0,10,3,Bom,10,3,9,7
+444,Sim,22,Viaja frequentemente,4,Ensino Médio,Alto,H,Solteiro,3894,5,Não,16,0,4,3,Muito bom,2,2,1,2
+445,Não,48,Viaja raramente,2,Doutorado,Médio,M,Casado,4051,2,Não,14,1,14,2,Muito bom,9,7,6,7
+446,Não,55,Viaja raramente,18,Doutorado,Baixo,M,Solteiro,16835,3,Não,23,0,37,2,Muito bom,10,9,7,7
+447,Não,41,Não viaja,10,Ensino Técnico,Muito Alto,H,Solteiro,6230,7,Não,14,0,16,3,Muito bom,14,3,1,10
+448,Não,35,Viaja raramente,1,Ensino Superior,Médio,H,Casado,4717,9,Não,11,0,15,2,Muito bom,11,9,6,9
+449,Não,40,Viaja raramente,6,Ensino Superior,Médio,M,Solteiro,13237,7,Não,15,0,22,3,Muito bom,20,6,5,13
+450,Não,39,Viaja frequentemente,8,Ensino Médio,Alto,M,Casado,3755,1,Não,11,1,8,3,Muito bom,8,3,0,7
+451,Não,31,Viaja raramente,2,Ensino Médio,Médio,H,Solteiro,6582,4,Sim,13,0,10,2,Excelente,6,5,0,5
+452,Não,42,Viaja raramente,24,Ensino Superior,Muito Alto,H,Casado,7406,1,Sim,21,1,10,5,Bom,10,9,5,8
+453,Não,45,Viaja raramente,2,Ensino Superior,Muito Alto,H,Casado,4805,0,Não,19,1,9,3,Excelente,8,7,3,7
+454,Sim,26,Viaja frequentemente,17,Mestrado,Médio,M,Divorciado,2741,0,Sim,11,1,8,2,Bom,7,7,1,0
+455,Não,29,Viaja raramente,19,Ensino Superior,Muito Alto,H,Divorciado,4262,4,Não,12,2,8,2,Excelente,3,2,1,2
+456,Não,33,Viaja raramente,1,Doutorado,Baixo,M,Divorciado,16184,4,Não,19,1,10,2,Muito bom,6,1,0,5
+457,Não,31,Viaja raramente,7,Ensino Superior,Alto,H,Divorciado,11557,9,Não,21,1,10,3,Bom,5,4,0,1
+458,Sim,18,Viaja frequentemente,5,Ensino Superior,Médio,H,Solteiro,1878,1,Sim,14,0,0,3,Muito bom,0,0,0,0
+459,Não,40,Não viaja,28,Ensino Superior,Alto,H,Divorciado,10932,3,Não,15,1,20,2,Muito bom,1,0,0,1
+460,Não,41,Não viaja,2,Mestrado,Baixo,M,Solteiro,6811,2,Sim,17,0,10,3,Muito bom,8,7,0,7
+461,Não,26,Viaja raramente,29,Ensino Técnico,Baixo,H,Divorciado,4306,5,Não,12,2,8,5,Muito bom,0,0,0,0
+462,Não,35,Viaja raramente,1,Ensino Superior,Baixo,M,Solteiro,4859,1,Não,16,0,5,3,Muito bom,5,4,0,3
+463,Não,34,Viaja raramente,21,Mestrado,Muito Alto,H,Solteiro,5337,1,Não,12,0,10,3,Muito bom,10,7,5,7
+464,Sim,26,Viaja raramente,24,Ensino Superior,Alto,H,Solteiro,2340,1,Sim,18,0,1,3,Ruim,1,0,0,0
+465,Não,37,Viaja raramente,1,Ensino Superior,Médio,M,Solteiro,7491,4,Não,17,0,12,3,Excelente,6,5,1,2
+466,Não,46,Viaja frequentemente,18,Ensino Médio,Baixo,M,Casado,10527,5,Não,11,0,28,3,Bom,2,2,1,2
+467,Não,41,Viaja raramente,2,Doutorado,Médio,M,Casado,16595,7,Não,16,1,22,2,Muito bom,18,16,11,8
+468,Não,37,Não viaja,9,Mestrado,Baixo,H,Divorciado,8834,1,Não,13,1,9,6,Muito bom,9,5,7,7
+469,Não,52,Viaja raramente,6,Ensino Técnico,Muito Alto,H,Divorciado,5577,3,Sim,12,2,18,3,Muito bom,10,9,6,9
+470,Sim,32,Não viaja,11,Mestrado,Muito Alto,H,Casado,4707,8,Não,12,0,6,2,Muito bom,4,2,1,2
+471,Não,24,Viaja frequentemente,24,Ensino Superior,Muito Alto,H,Casado,2400,0,Não,13,2,3,3,Muito bom,2,2,2,1
+472,Não,38,Viaja raramente,10,Ensino Superior,Alto,M,Casado,9824,3,Não,19,1,18,4,Muito bom,1,0,0,0
+473,Não,37,Viaja raramente,1,Mestrado,Médio,M,Casado,6447,6,Não,12,1,8,2,Bom,6,5,4,3
+474,Não,49,Viaja raramente,18,Mestrado,Muito Alto,H,Divorciado,19502,1,Sim,17,1,31,5,Muito bom,31,9,0,9
+475,Não,24,Viaja raramente,23,Ensino Superior,Médio,H,Casado,2725,1,Sim,11,2,6,3,Muito bom,6,5,1,4
+476,Não,26,Viaja raramente,28,Ensino Técnico,Baixo,H,Casado,6272,1,Não,20,2,6,5,Excelente,5,3,1,4
+477,Não,24,Viaja raramente,17,Ensino Técnico,Muito Alto,H,Casado,2127,1,Não,21,1,1,2,Muito bom,1,0,0,0
+478,Não,50,Viaja frequentemente,3,Ensino Superior,Baixo,H,Casado,18200,1,Não,11,1,32,2,Muito bom,32,5,10,7
+479,Não,25,Viaja raramente,13,Ensino Médio,Médio,H,Casado,2096,1,Não,11,0,7,1,Muito bom,7,4,0,6
+480,Sim,24,Viaja frequentemente,7,Ensino Superior,Baixo,M,Casado,2886,1,Sim,16,1,6,4,Muito bom,6,3,1,2
+481,Sim,30,Viaja frequentemente,12,Mestrado,Médio,H,Casado,2033,1,Não,18,1,1,2,Excelente,1,0,0,0
+482,Não,34,Viaja raramente,1,Ensino Técnico,Médio,H,Casado,3622,1,Sim,13,1,6,3,Muito bom,6,5,1,3
+483,Sim,31,Viaja raramente,13,Mestrado,Médio,H,Divorciado,4233,2,Não,17,0,9,2,Ruim,3,1,1,2
+484,Não,35,Viaja raramente,25,Ensino Técnico,Baixo,H,Solteiro,3681,4,Não,14,0,9,3,Muito bom,3,2,0,2
+485,Não,31,Viaja raramente,6,Mestrado,Baixo,H,Divorciado,5460,4,Não,22,2,13,4,Excelente,7,7,5,7
+486,Não,27,Viaja raramente,6,Mestrado,Baixo,M,Divorciado,2187,0,Não,12,2,6,5,Bom,5,3,0,3
+487,Não,37,Viaja raramente,2,Ensino Superior,Muito Alto,H,Casado,9602,4,Sim,11,1,17,3,Bom,3,0,1,0
+488,Não,20,Viaja raramente,1,Ensino Superior,Muito Alto,M,Solteiro,2836,1,Não,13,0,1,0,Excelente,1,0,0,0
+489,Não,42,Viaja raramente,2,Mestrado,Alto,M,Casado,4089,1,Não,13,2,10,4,Muito bom,10,2,2,2
+490,Não,43,Viaja raramente,6,Mestrado,Médio,H,Divorciado,16627,4,Sim,14,1,21,3,Bom,1,0,0,0
+491,Não,38,Viaja raramente,1,Ensino Médio,Alto,M,Solteiro,2619,3,Não,17,0,8,3,Bom,0,0,0,0
+492,Não,43,Viaja frequentemente,9,Doutorado,Muito Alto,H,Divorciado,5679,3,Sim,13,1,10,3,Muito bom,8,7,4,7
+493,Não,48,Viaja raramente,1,Mestrado,Muito Alto,M,Casado,15402,7,Não,11,1,21,3,Ruim,3,2,0,2
+494,Não,44,Viaja raramente,1,Mestrado,Baixo,M,Solteiro,5985,4,Não,11,0,10,1,Excelente,2,2,0,2
+495,Não,34,Viaja raramente,14,Ensino Superior,Alto,M,Divorciado,2579,1,Sim,18,2,8,3,Muito bom,8,2,0,6
+496,Sim,27,Viaja raramente,2,Ensino Médio,Alto,H,Divorciado,3041,0,Não,11,1,5,3,Muito bom,4,3,0,2
+497,Não,21,Viaja raramente,22,Ensino Médio,Alto,H,Solteiro,3447,1,Não,11,0,3,2,Muito bom,3,2,1,2
+498,Não,44,Viaja raramente,3,Mestrado,Muito Alto,H,Casado,19513,4,Sim,12,1,26,2,Excelente,2,2,0,1
+499,Não,22,Viaja raramente,6,Ensino Médio,Baixo,H,Casado,2773,0,Não,20,0,3,3,Muito bom,2,2,2,2
+500,Não,33,Viaja raramente,8,Mestrado,Alto,H,Divorciado,7104,0,Não,12,0,6,3,Muito bom,5,0,1,2
+501,Não,32,Viaja raramente,9,Mestrado,Baixo,M,Casado,6322,1,Sim,12,1,6,2,Bom,6,4,0,5
+502,Não,30,Viaja frequentemente,3,Ensino Superior,Alto,M,Divorciado,2083,1,Não,20,1,1,2,Muito bom,1,0,0,0
+503,Não,53,Viaja raramente,1,Ensino Médio,Muito Alto,M,Solteiro,8381,7,Não,20,0,18,2,Excelente,14,7,8,10
+504,Não,34,Viaja raramente,1,Doutorado,Médio,H,Casado,2691,1,Não,12,1,10,4,Bom,10,9,8,8
+505,Sim,45,Viaja frequentemente,26,Mestrado,Baixo,M,Casado,4286,2,Não,14,2,5,4,Muito bom,1,1,0,0
+506,Não,26,Viaja raramente,6,Ensino Superior,Alto,M,Casado,2659,1,Sim,13,1,3,2,Muito bom,3,2,0,2
+507,Não,37,Viaja raramente,3,Ensino Superior,Alto,H,Casado,9434,1,Não,15,1,10,2,Muito bom,10,7,7,8
+508,Não,29,Viaja raramente,3,Ensino Técnico,Médio,M,Casado,5561,1,Não,14,1,6,5,Bom,6,0,1,2
+509,Não,35,Viaja raramente,6,Mestrado,Médio,H,Solteiro,6646,1,Não,13,0,17,3,Muito bom,17,11,11,8
+510,Não,33,Viaja frequentemente,6,Ensino Superior,Alto,H,Divorciado,7725,3,Não,23,1,15,2,Ruim,13,11,4,7
+511,Não,54,Viaja raramente,19,Mestrado,Alto,H,Casado,10725,2,Não,15,1,16,1,Excelente,9,7,7,1
+512,Não,36,Viaja raramente,9,Ensino Técnico,Médio,H,Divorciado,8847,2,Sim,11,1,13,2,Muito bom,3,2,0,2
+513,Não,27,Viaja raramente,3,Mestrado,Baixo,H,Solteiro,2045,0,Não,13,0,5,0,Muito bom,4,2,1,1
+514,Sim,20,Viaja raramente,10,Ensino Médio,Muito Alto,H,Solteiro,1009,1,Sim,11,0,1,5,Muito bom,1,0,1,1
+515,Sim,33,Viaja frequentemente,3,Ensino Superior,Baixo,H,Solteiro,3348,1,Sim,11,0,10,3,Muito bom,10,8,9,7
+516,Não,35,Não viaja,3,Ensino Superior,Alto,H,Casado,1281,1,Não,18,2,1,3,Muito bom,1,0,0,0
+517,Não,23,Viaja raramente,4,Ensino Superior,Baixo,H,Casado,2819,2,Não,16,1,5,3,Excelente,3,2,0,2
+518,Não,25,Viaja raramente,8,Ensino Superior,Muito Alto,H,Casado,4851,0,Não,22,1,4,4,Muito bom,3,2,1,2
+519,Não,38,Viaja raramente,7,Mestrado,Muito Alto,M,Solteiro,4028,0,Não,20,0,8,2,Muito bom,7,7,0,5
+520,Não,29,Viaja frequentemente,1,Mestrado,Médio,H,Divorciado,2720,1,Não,18,1,10,5,Muito bom,10,7,2,8
+521,Não,48,Viaja raramente,2,Ensino Médio,Médio,H,Casado,8120,3,Não,12,0,12,3,Muito bom,2,2,2,2
+522,Não,27,Viaja frequentemente,3,Ensino Médio,Muito Alto,M,Divorciado,4647,1,Sim,20,2,6,3,Muito bom,6,5,0,4
+523,Não,37,Viaja raramente,10,Ensino Técnico,Muito Alto,H,Solteiro,4680,3,Não,17,0,4,2,Muito bom,1,0,0,0
+524,Não,50,Viaja raramente,28,Ensino Médio,Muito Alto,H,Casado,3221,1,Sim,11,3,20,3,Muito bom,20,8,3,8
+525,Não,34,Viaja raramente,9,Ensino Superior,Muito Alto,M,Solteiro,8621,1,Não,14,0,9,3,Excelente,8,7,7,7
+526,Sim,24,Viaja raramente,3,Ensino Técnico,Baixo,M,Solteiro,4577,9,Não,14,0,4,3,Muito bom,2,2,2,0
+527,Não,39,Viaja raramente,2,Mestrado,Muito Alto,M,Solteiro,4553,1,Não,11,0,20,4,Muito bom,20,7,11,10
+528,Não,32,Viaja raramente,10,Ensino Superior,Muito Alto,H,Solteiro,5396,1,Não,12,0,10,2,Bom,10,7,0,8
+529,Sim,50,Viaja frequentemente,8,Ensino Técnico,Médio,H,Casado,6796,3,Sim,14,1,18,4,Muito bom,4,3,1,3
+530,Não,38,Viaja raramente,1,Mestrado,Médio,M,Solteiro,7625,0,Não,13,0,10,4,Bom,9,7,1,8
+531,Não,27,Viaja raramente,1,Ensino Técnico,Alto,M,Casado,7412,1,Não,11,0,9,3,Muito bom,9,7,0,7
+532,Não,32,Viaja raramente,3,Ensino Técnico,Alto,M,Solteiro,11159,3,Não,15,0,10,6,Muito bom,7,7,7,7
+533,Não,47,Viaja raramente,14,Mestrado,Muito Alto,H,Solteiro,4960,2,Não,12,0,20,2,Muito bom,7,7,1,7
+534,Não,40,Viaja frequentemente,5,Mestrado,Muito Alto,H,Casado,10475,5,Sim,21,1,20,2,Muito bom,18,13,1,12
+535,Não,53,Viaja raramente,7,Ensino Superior,Alto,H,Casado,14814,3,Não,19,0,32,3,Muito bom,5,1,1,3
+536,Não,41,Viaja raramente,10,Mestrado,Médio,H,Divorciado,19141,3,Não,15,3,23,2,Bom,21,6,12,6
+537,Não,60,Viaja raramente,16,Mestrado,Baixo,H,Solteiro,5405,8,Não,14,0,10,1,Muito bom,2,2,2,2
+538,Não,27,Viaja frequentemente,10,Ensino Técnico,Muito Alto,H,Divorciado,8793,1,Não,21,2,9,4,Bom,9,7,1,7
+539,Não,41,Viaja raramente,1,Ensino Superior,Muito Alto,H,Casado,19189,1,Não,12,1,22,3,Muito bom,22,7,2,10
+540,Não,50,Viaja raramente,8,Mestrado,Muito Alto,H,Casado,3875,7,Não,15,1,4,2,Muito bom,2,2,2,2
+541,Sim,28,Viaja raramente,1,Ensino Técnico,Baixo,M,Solteiro,2216,7,Sim,13,0,10,4,Muito bom,7,7,3,7
+542,Não,36,Não viaja,8,Ensino Superior,Baixo,M,Casado,11713,9,Não,14,1,10,2,Muito bom,8,7,0,5
+543,Não,38,Viaja raramente,1,Ensino Superior,Alto,M,Solteiro,7861,4,Sim,14,0,10,4,Excelente,1,0,0,0
+544,Não,44,Não viaja,24,Ensino Superior,Baixo,H,Solteiro,3708,2,Não,14,0,9,5,Muito bom,5,2,1,4
+545,Não,47,Viaja frequentemente,3,Ensino Superior,Muito Alto,M,Divorciado,13770,9,Sim,12,2,28,2,Bom,22,2,11,13
+546,Não,30,Viaja raramente,27,Doutorado,Alto,H,Divorciado,5304,7,Não,23,1,10,2,Bom,8,7,7,7
+547,Não,29,Viaja raramente,10,Ensino Superior,Alto,H,Solteiro,2642,1,Não,11,0,1,6,Muito bom,1,0,0,0
+548,Sim,42,Viaja frequentemente,19,Ensino Superior,Alto,H,Divorciado,2759,6,Sim,12,0,7,2,Muito bom,2,2,2,2
+549,Não,43,Viaja frequentemente,15,Ensino Superior,Muito Alto,H,Casado,6804,3,Não,18,1,7,5,Muito bom,2,2,2,2
+550,Não,34,Viaja raramente,8,Ensino Técnico,Médio,M,Solteiro,6142,3,Não,11,0,10,2,Muito bom,5,1,4,3
+551,Não,23,Viaja raramente,9,Ensino Médio,Médio,H,Casado,2500,1,Não,14,1,5,2,Excelente,4,3,0,2
+552,Não,39,Viaja raramente,3,Ensino Superior,Alto,M,Casado,6389,9,Não,15,1,12,3,Ruim,8,3,3,6
+553,Não,56,Viaja raramente,9,Ensino Superior,Alto,H,Casado,11103,7,Não,11,0,30,1,Bom,10,7,1,1
+554,Não,40,Viaja raramente,2,Ensino Médio,Muito Alto,M,Solteiro,2342,0,Sim,20,0,5,2,Bom,4,2,2,3
+555,Não,27,Viaja raramente,7,Ensino Superior,Muito Alto,M,Solteiro,6811,8,Não,19,0,9,2,Ruim,7,6,0,7
+556,Não,29,Viaja raramente,10,Ensino Superior,Muito Alto,H,Divorciado,2297,1,Não,14,2,2,2,Muito bom,2,2,2,2
+557,Não,53,Viaja raramente,6,Ensino Superior,Muito Alto,H,Solteiro,2450,2,Não,17,0,19,4,Muito bom,2,2,2,2
+558,Não,35,Não viaja,2,Mestrado,Muito Alto,M,Divorciado,5093,2,Não,11,1,16,2,Excelente,1,0,0,0
+559,Não,32,Viaja frequentemente,24,Mestrado,Baixo,H,Casado,5309,1,Não,15,2,10,2,Muito bom,10,8,4,7
+560,Não,38,Viaja raramente,2,Doutorado,Muito Alto,H,Casado,3057,6,Sim,13,1,6,0,Ruim,1,0,0,1
+561,Não,34,Viaja raramente,8,Doutorado,Médio,M,Divorciado,5121,3,Não,14,1,7,3,Muito bom,0,0,0,0
+562,Não,52,Viaja raramente,3,Mestrado,Alto,H,Casado,16856,1,Não,11,0,34,3,Excelente,34,6,1,16
+563,Sim,33,Viaja raramente,1,Mestrado,Muito Alto,H,Solteiro,2686,1,Sim,13,0,10,2,Bom,10,9,7,8
+564,Não,25,Viaja raramente,26,Ensino Médio,Alto,M,Solteiro,6180,1,Não,23,0,6,5,Bom,6,5,1,4
+565,Não,45,Viaja raramente,2,Ensino Técnico,Médio,H,Solteiro,6632,0,Não,13,0,9,3,Muito bom,8,7,3,1
+566,Não,23,Viaja raramente,10,Ensino Médio,Baixo,H,Solteiro,3505,1,Não,18,0,2,3,Muito bom,2,2,0,2
+567,Sim,47,Viaja frequentemente,27,Ensino Técnico,Médio,M,Solteiro,6397,4,Sim,12,0,8,2,Muito bom,5,4,1,3
+568,Não,34,Viaja raramente,2,Ensino Superior,Muito Alto,H,Solteiro,6274,1,Não,22,0,6,5,Muito bom,6,5,1,4
+569,Sim,55,Viaja raramente,2,Ensino Superior,Muito Alto,H,Casado,19859,5,Sim,13,1,24,2,Muito bom,5,2,1,4
+570,Não,36,Não viaja,8,Mestrado,Baixo,H,Solteiro,7587,1,Não,15,0,10,1,Muito bom,10,7,0,9
+571,Não,52,Não viaja,19,Mestrado,Muito Alto,H,Casado,4258,0,Não,18,1,5,3,Muito bom,4,3,1,2
+572,Não,26,Viaja frequentemente,1,Ensino Técnico,Baixo,M,Divorciado,4364,3,Não,14,1,5,2,Muito bom,2,2,2,0
+573,Não,29,Viaja raramente,27,Ensino Superior,Médio,M,Casado,4335,4,Não,12,1,11,3,Bom,8,7,1,1
+574,Sim,26,Viaja raramente,8,Ensino Superior,Muito Alto,H,Solteiro,5326,6,Não,17,0,6,2,Bom,4,3,1,2
+575,Não,34,Viaja raramente,1,Mestrado,Médio,M,Solteiro,3280,2,Não,16,0,10,2,Muito bom,4,2,1,3
+576,Não,54,Viaja raramente,19,Mestrado,Muito Alto,M,Divorciado,5485,9,Sim,11,2,9,4,Muito bom,5,3,1,4
+577,Não,27,Viaja frequentemente,8,Ensino Médio,Alto,H,Casado,4342,0,Não,19,1,5,3,Muito bom,4,2,1,1
+578,Não,37,Viaja raramente,10,Ensino Médio,Muito Alto,M,Divorciado,2782,0,Sim,13,2,6,3,Bom,5,3,4,3
+579,Não,38,Viaja frequentemente,2,Mestrado,Baixo,M,Solteiro,5980,6,Sim,12,0,17,2,Muito bom,15,7,4,12
+580,Não,34,Viaja raramente,2,Mestrado,Alto,M,Solteiro,4381,1,Não,11,0,6,3,Muito bom,6,5,1,3
+581,Não,35,Viaja raramente,8,Mestrado,Baixo,M,Casado,2572,1,Não,16,1,3,1,Bom,3,2,0,2
+582,Não,30,Viaja raramente,1,Ensino Superior,Muito Alto,H,Casado,3833,3,Não,21,2,7,2,Muito bom,2,2,0,2
+583,Não,40,Viaja frequentemente,2,Ensino Técnico,Alto,M,Casado,4244,1,Não,24,1,8,2,Muito bom,8,7,3,7
+584,Não,34,Viaja raramente,8,Ensino Técnico,Alto,M,Casado,6500,5,Não,17,1,6,1,Muito bom,3,2,1,2
+585,Não,42,Viaja frequentemente,8,Ensino Superior,Médio,H,Divorciado,18430,1,Não,13,1,24,4,Bom,24,7,14,9
+586,Sim,23,Viaja raramente,6,Ensino Superior,Alto,H,Casado,1601,1,Sim,21,2,1,2,Muito bom,0,0,0,0
+587,Não,24,Não viaja,9,Ensino Superior,Alto,H,Divorciado,2694,1,Não,11,3,1,4,Muito bom,1,0,0,0
+588,Não,52,Viaja raramente,11,Mestrado,Muito Alto,M,Casado,3149,8,Não,20,1,9,3,Muito bom,5,2,1,4
+589,Não,50,Viaja raramente,2,Ensino Superior,Alto,H,Casado,17639,5,Não,16,0,30,3,Muito bom,4,3,0,3
+590,Sim,29,Viaja raramente,1,Ensino Técnico,Médio,M,Casado,2319,1,Sim,11,1,1,1,Muito bom,1,0,0,0
+591,Não,33,Viaja raramente,7,Ensino Superior,Alto,H,Casado,11691,0,Não,11,0,14,3,Excelente,13,9,3,7
+592,Sim,33,Viaja raramente,16,Ensino Superior,Baixo,M,Solteiro,5324,5,Não,15,0,6,3,Muito bom,3,2,0,2
+593,Não,47,Viaja raramente,2,Ensino Técnico,Alto,M,Casado,16752,1,Sim,11,1,26,3,Bom,26,14,3,0
+594,Não,36,Viaja raramente,1,Ensino Superior,Alto,M,Casado,5228,0,Não,15,1,10,2,Muito bom,9,7,0,5
+595,Não,29,Viaja raramente,23,Ensino Técnico,Alto,H,Casado,2700,1,Não,24,1,10,3,Muito bom,10,7,0,7
+596,Sim,58,Viaja raramente,2,Mestrado,Muito Alto,H,Solteiro,19246,7,Sim,12,0,40,2,Muito bom,31,15,13,8
+597,Não,35,Viaja raramente,1,Mestrado,Muito Alto,M,Solteiro,2506,3,Não,13,0,7,0,Muito bom,2,2,2,2
+598,Não,42,Viaja raramente,1,Ensino Técnico,Muito Alto,M,Casado,6062,9,Sim,13,1,8,4,Muito bom,4,3,0,2
+599,Sim,28,Viaja raramente,2,Mestrado,Alto,H,Solteiro,4382,6,Não,17,0,5,3,Bom,2,2,2,1
+600,Não,36,Viaja raramente,13,Ensino Superior,Alto,H,Casado,2143,4,Não,13,1,8,2,Muito bom,5,2,0,4
+601,Não,32,Viaja raramente,4,Ensino Superior,Alto,M,Casado,6162,1,Não,12,1,14,3,Muito bom,14,13,6,8
+602,Não,40,Viaja frequentemente,16,Mestrado,Baixo,H,Solteiro,5094,6,Não,14,0,10,6,Muito bom,1,0,0,0
+603,Não,30,Viaja raramente,2,Ensino Superior,Alto,M,Solteiro,6877,5,Sim,24,0,12,4,Bom,0,0,0,0
+604,Não,45,Viaja raramente,2,Ensino Superior,Médio,M,Solteiro,2274,1,Não,14,0,1,3,Muito bom,1,0,0,0
+605,Não,42,Viaja raramente,29,Ensino Superior,Médio,H,Casado,4434,1,Não,13,1,10,3,Bom,9,8,7,8
+606,Não,38,Viaja frequentemente,12,Ensino Superior,Baixo,H,Divorciado,6288,2,Não,15,1,13,3,Bom,4,3,1,2
+607,Não,34,Viaja frequentemente,16,Mestrado,Alto,M,Solteiro,2553,1,Não,16,0,6,3,Muito bom,5,2,1,3
+608,Sim,49,Viaja raramente,11,Ensino Superior,Alto,M,Casado,7654,1,Não,18,2,9,3,Excelente,9,8,7,7
+609,Sim,55,Viaja raramente,2,Ensino Médio,Alto,H,Solteiro,5160,4,Não,16,0,12,3,Bom,9,7,7,3
+610,Não,43,Viaja raramente,14,Ensino Técnico,Médio,H,Casado,17159,6,Não,24,1,22,3,Muito bom,4,1,1,0
+611,Não,27,Viaja raramente,5,Ensino Médio,Alto,H,Divorciado,12808,1,Sim,16,1,9,3,Muito bom,9,8,0,8
+612,Não,35,Viaja raramente,7,Ensino Superior,Alto,H,Solteiro,10221,3,Não,21,0,17,3,Excelente,8,5,1,6
+613,Não,28,Viaja raramente,2,Mestrado,Médio,M,Casado,4779,1,Sim,20,0,8,2,Muito bom,8,7,7,5
+614,Não,34,Viaja raramente,3,Ensino Técnico,Alto,H,Casado,3737,0,Não,19,1,4,1,Ruim,3,2,0,2
+615,Sim,26,Viaja frequentemente,5,Ensino Técnico,Alto,M,Casado,2366,1,Sim,14,1,8,2,Muito bom,8,7,1,7
+616,Não,27,Não viaja,3,Ensino Superior,Muito Alto,H,Casado,1706,1,Não,11,3,0,6,Bom,0,0,0,0
+617,Não,51,Viaja raramente,26,Mestrado,Baixo,M,Casado,16307,2,Não,14,1,29,2,Bom,20,6,4,17
+618,Não,44,Viaja raramente,4,Ensino Superior,Muito Alto,H,Solteiro,5933,9,Não,12,0,10,2,Bom,5,2,2,3
+619,Não,25,Viaja raramente,2,Ensino Médio,Baixo,H,Solteiro,3424,7,Não,13,0,6,3,Bom,4,3,0,1
+620,Não,33,Viaja raramente,1,Ensino Superior,Baixo,H,Divorciado,4037,1,Não,22,1,9,5,Muito bom,9,8,0,8
+621,Não,35,Viaja raramente,27,Ensino Médio,Alto,M,Solteiro,2559,1,Não,11,0,6,3,Bom,6,5,1,1
+622,Não,36,Viaja raramente,1,Ensino Técnico,Médio,H,Casado,6201,1,Sim,14,1,18,1,Bom,18,14,4,11
+623,Não,32,Viaja raramente,13,Mestrado,Médio,H,Divorciado,4403,2,Não,11,1,8,3,Bom,5,2,0,3
+624,Não,30,Viaja frequentemente,5,Mestrado,Médio,H,Divorciado,3761,9,Não,12,1,10,3,Bom,5,4,0,3
+625,Não,53,Viaja raramente,7,Ensino Técnico,Baixo,M,Casado,10934,7,Sim,18,1,35,3,Muito bom,5,2,0,4
+626,Não,45,Viaja raramente,9,Ensino Superior,Muito Alto,H,Divorciado,10761,4,Sim,12,1,18,2,Muito bom,5,4,0,2
+627,Não,32,Viaja raramente,8,Ensino Técnico,Alto,M,Casado,5175,5,Não,12,1,9,3,Bom,5,3,1,3
+628,Não,52,Viaja frequentemente,25,Mestrado,Alto,M,Casado,13826,3,Não,22,0,31,3,Muito bom,9,8,0,0
+629,Não,37,Viaja raramente,16,Mestrado,Muito Alto,H,Divorciado,6334,4,Não,19,2,9,2,Muito bom,1,0,0,0
+630,Não,28,Viaja raramente,8,Ensino Técnico,Médio,H,Divorciado,4936,1,Não,13,1,6,6,Muito bom,5,1,0,4
+631,Não,22,Viaja raramente,1,Ensino Técnico,Muito Alto,H,Casado,4775,6,Não,22,2,4,2,Ruim,2,2,2,2
+632,Não,44,Viaja raramente,8,Mestrado,Baixo,H,Casado,2818,2,Sim,24,1,10,2,Bom,3,2,0,2
+633,Não,42,Viaja frequentemente,2,Ensino Médio,Médio,H,Solteiro,2515,5,Sim,14,0,8,2,Muito bom,2,1,2,2
+634,Não,36,Viaja raramente,8,Ensino Superior,Baixo,H,Casado,2342,0,Não,21,0,6,3,Muito bom,5,4,0,3
+635,Não,25,Viaja raramente,3,Ensino Médio,Alto,H,Casado,4194,1,Sim,18,0,5,3,Muito bom,5,3,0,3
+636,Não,35,Viaja raramente,9,Ensino Superior,Muito Alto,M,Casado,10685,1,Sim,20,1,17,2,Muito bom,17,14,5,15
+637,Sim,35,Viaja frequentemente,25,Mestrado,Muito Alto,M,Divorciado,2022,1,Sim,19,1,10,3,Bom,10,2,7,8
+638,Não,32,Não viaja,1,Ensino Superior,Muito Alto,H,Divorciado,2314,0,Não,12,1,4,2,Muito bom,3,0,0,2
+639,Não,25,Viaja raramente,4,Ensino Médio,Alto,H,Casado,4256,1,Não,12,0,5,1,Excelente,5,2,0,3
+640,Não,49,Viaja raramente,1,Ensino Superior,Alto,M,Casado,3580,2,Não,16,1,7,2,Muito bom,4,2,0,2
+641,Não,24,Não viaja,4,Ensino Médio,Baixo,H,Casado,3162,0,Não,17,0,6,2,Bom,5,2,3,4
+642,Não,32,Viaja frequentemente,5,Ensino Técnico,Médio,H,Casado,6524,1,Não,14,1,10,3,Muito bom,10,8,5,3
+643,Não,38,Viaja raramente,9,Ensino Superior,Médio,H,Casado,2899,0,Não,19,1,3,3,Muito bom,2,2,1,2
+644,Não,42,Viaja raramente,3,Ensino Superior,Alto,M,Casado,5231,2,Sim,13,1,17,1,Bom,5,3,1,3
+645,Não,31,Viaja raramente,11,Mestrado,Muito Alto,H,Casado,2356,3,Sim,19,1,8,2,Muito bom,6,4,0,2
+646,Sim,29,Viaja raramente,1,Ensino Superior,Médio,M,Divorciado,2800,6,Sim,19,3,5,3,Muito bom,3,2,0,2
+647,Não,53,Viaja raramente,8,Ensino Superior,Baixo,H,Casado,11836,5,Não,14,1,28,3,Muito bom,2,0,2,2
+648,Não,35,Viaja raramente,25,Ensino Superior,Muito Alto,H,Casado,10903,3,Não,16,0,16,2,Muito bom,13,10,4,8
+649,Não,37,Viaja frequentemente,21,Ensino Técnico,Alto,M,Casado,2973,5,Não,15,1,10,3,Muito bom,5,4,0,0
+650,Não,53,Viaja raramente,23,Mestrado,Muito Alto,M,Solteiro,14275,6,Não,18,0,33,0,Muito bom,12,9,3,8
+651,Não,43,Viaja frequentemente,1,Ensino Superior,Muito Alto,M,Casado,5562,4,Não,13,1,12,2,Bom,5,2,2,2
+652,Não,47,Viaja raramente,2,Ensino Técnico,Alto,M,Casado,4537,0,Sim,22,1,8,2,Muito bom,7,6,7,7
+653,Não,37,Não viaja,19,Ensino Técnico,Baixo,H,Solteiro,7642,1,Sim,13,0,10,2,Muito bom,10,0,0,9
+654,Não,50,Não viaja,2,Mestrado,Baixo,H,Divorciado,17924,1,Não,11,1,31,3,Muito bom,31,6,14,7
+655,Não,39,Viaja raramente,2,Ensino Superior,Muito Alto,M,Casado,5204,8,Não,11,2,13,2,Muito bom,5,4,0,4
+656,Não,33,Viaja raramente,3,Ensino Técnico,Muito Alto,H,Divorciado,2277,3,Sim,11,1,7,4,Excelente,4,3,0,3
+657,Sim,32,Viaja raramente,25,Mestrado,Baixo,H,Solteiro,2795,1,Sim,24,0,1,2,Ruim,1,0,0,1
+658,Não,29,Viaja raramente,7,Ensino Médio,Baixo,M,Divorciado,2532,6,Não,14,3,8,5,Muito bom,4,3,0,3
+659,Não,44,Viaja raramente,9,Ensino Técnico,Médio,H,Casado,2559,1,Sim,13,0,8,0,Muito bom,8,7,7,1
+660,Não,28,Viaja raramente,5,Mestrado,Baixo,H,Solteiro,4908,1,Não,14,0,4,3,Muito bom,4,2,0,2
+661,Sim,58,Viaja frequentemente,2,Ensino Médio,Muito Alto,H,Divorciado,2380,9,Sim,14,1,3,3,Bom,1,0,0,0
+662,Não,43,Viaja raramente,8,Ensino Superior,Baixo,M,Divorciado,4765,4,Não,21,1,4,2,Excelente,1,0,0,0
+663,Sim,20,Viaja raramente,2,Ensino Superior,Alto,M,Solteiro,2044,1,Não,13,0,2,3,Bom,2,2,0,2
+664,Sim,21,Viaja raramente,18,Ensino Médio,Muito Alto,M,Solteiro,2693,1,Não,19,0,1,3,Bom,1,0,0,0
+665,Não,36,Viaja raramente,14,Ensino Médio,Alto,H,Casado,6586,0,Sim,17,1,17,2,Bom,16,8,4,11
+666,Não,47,Viaja raramente,2,Mestrado,Muito Alto,M,Solteiro,3294,1,Sim,18,0,3,3,Bom,3,2,1,2
+667,Sim,22,Viaja raramente,3,Ensino Médio,Médio,M,Casado,4171,0,Sim,19,1,4,3,Excelente,3,2,0,2
+668,Sim,41,Viaja raramente,2,Mestrado,Médio,M,Divorciado,2778,4,Sim,13,1,10,1,Bom,7,7,1,0
+669,Não,28,Viaja raramente,9,Ensino Superior,Alto,M,Divorciado,2377,5,Não,18,1,6,2,Muito bom,2,2,2,2
+670,Sim,39,Viaja raramente,6,Ensino Superior,Muito Alto,H,Casado,2404,7,Sim,21,0,8,2,Ruim,2,2,2,2
+671,Não,27,Viaja raramente,4,Ensino Superior,Médio,M,Solteiro,2318,1,Não,19,0,1,2,Muito bom,1,1,0,0
+672,Não,34,Viaja raramente,10,Ensino Superior,Médio,H,Divorciado,2008,1,Não,14,2,1,3,Muito bom,1,0,1,0
+673,Não,42,Viaja raramente,14,Ensino Técnico,Alto,M,Solteiro,6244,7,Não,17,0,10,6,Muito bom,5,4,0,3
+674,Não,33,Viaja raramente,1,Mestrado,Alto,H,Solteiro,2799,3,Sim,11,0,6,1,Muito bom,3,2,0,2
+675,Não,58,Viaja raramente,5,Ensino Superior,Alto,M,Divorciado,10552,2,Sim,13,1,24,3,Muito bom,6,0,0,4
+676,Não,31,Viaja raramente,7,Mestrado,Médio,H,Casado,2329,3,Não,15,0,13,2,Excelente,7,7,5,2
+677,Não,35,Viaja raramente,21,Ensino Médio,Muito Alto,M,Casado,4014,1,Sim,25,1,10,2,Ruim,10,6,0,7
+678,Não,49,Viaja raramente,8,Ensino Técnico,Baixo,M,Casado,7403,4,Não,11,1,29,3,Bom,26,9,1,7
+679,Não,48,Viaja raramente,20,Mestrado,Muito Alto,H,Casado,2259,4,Não,17,2,13,2,Bom,0,0,0,0
+680,Não,31,Não viaja,20,Ensino Técnico,Muito Alto,M,Casado,6932,1,Não,13,1,9,2,Bom,9,8,0,0
+681,Não,36,Viaja raramente,7,Mestrado,Médio,H,Solteiro,4678,2,Não,18,0,8,6,Muito bom,6,2,0,1
+682,Não,38,Viaja raramente,1,Ensino Superior,Muito Alto,M,Casado,13582,1,Não,13,1,15,3,Muito bom,15,12,5,11
+683,Não,32,Não viaja,1,Ensino Superior,Alto,M,Casado,2332,6,Não,20,0,5,3,Muito bom,3,0,0,2
+684,Sim,25,Viaja raramente,19,Ensino Técnico,Alto,H,Casado,2413,1,Sim,18,3,1,2,Muito bom,1,0,0,0
+685,Não,40,Viaja raramente,10,Mestrado,Baixo,H,Divorciado,9705,2,Não,12,1,11,2,Bom,1,0,0,0
+686,Não,26,Viaja frequentemente,1,Ensino Superior,Alto,H,Solteiro,4294,1,Não,12,0,7,2,Muito bom,7,7,0,7
+687,Não,41,Viaja raramente,6,Ensino Superior,Muito Alto,H,Solteiro,4721,2,Sim,13,0,20,3,Muito bom,18,13,2,17
+688,Não,36,Viaja raramente,2,Mestrado,Alto,H,Solteiro,2519,4,Não,21,0,16,6,Muito bom,11,8,3,9
+689,Sim,19,Viaja raramente,21,Ensino Superior,Muito Alto,H,Solteiro,2121,1,Sim,13,0,1,3,Excelente,1,0,0,0
+690,Sim,20,Viaja raramente,4,Ensino Superior,Baixo,H,Solteiro,2973,1,Não,19,0,1,2,Muito bom,1,0,0,0
+691,Não,31,Viaja raramente,12,Ensino Superior,Muito Alto,M,Casado,5855,0,Sim,11,2,10,2,Ruim,9,7,8,5
+692,Não,40,Viaja frequentemente,9,Mestrado,Muito Alto,H,Divorciado,3617,8,Sim,14,1,3,2,Muito bom,1,1,0,0
+693,Não,32,Viaja raramente,3,Mestrado,Alto,M,Casado,6725,1,Não,12,1,8,2,Excelente,8,7,6,3
+694,Sim,36,Viaja raramente,3,Ensino Médio,Alto,H,Casado,10325,1,Sim,11,1,16,6,Muito bom,16,7,3,7
+695,Não,33,Viaja raramente,1,Ensino Superior,Médio,M,Solteiro,6949,0,Não,14,0,6,3,Muito bom,5,0,1,4
+696,Sim,37,Viaja raramente,1,Mestrado,Baixo,H,Casado,10609,5,Não,11,0,17,2,Ruim,14,1,11,7
+697,Não,45,Não viaja,4,Ensino Técnico,Alto,H,Casado,4447,1,Não,12,0,9,5,Bom,9,7,0,8
+698,Não,29,Viaja frequentemente,20,Ensino Superior,Alto,M,Casado,2157,1,Não,15,1,3,5,Muito bom,3,1,0,2
+699,Não,35,Viaja raramente,18,Ensino Superior,Alto,M,Casado,4601,1,Não,16,0,5,3,Muito bom,5,2,1,0
+700,Não,52,Viaja raramente,1,Ensino Técnico,Muito Alto,H,Casado,17099,2,Não,15,1,26,2,Bom,9,8,7,8
+701,Sim,58,Viaja raramente,2,Ensino Superior,Muito Alto,H,Solteiro,2479,4,Não,24,0,7,4,Muito bom,1,0,0,0
+702,Não,53,Viaja raramente,2,Ensino Técnico,Alto,H,Divorciado,14852,6,Não,13,1,22,3,Excelente,17,13,15,2
+703,Não,30,Viaja raramente,8,Ensino Técnico,Alto,H,Divorciado,7264,5,Não,11,1,10,2,Excelente,8,4,7,7
+704,Não,38,Não viaja,10,Ensino Superior,Alto,M,Solteiro,5666,1,Sim,13,0,6,1,Muito bom,5,3,1,3
+705,Não,35,Viaja raramente,3,Mestrado,Muito Alto,H,Divorciado,7823,6,Não,13,1,12,2,Muito bom,10,9,0,8
+706,Não,39,Viaja raramente,2,Doutorado,Baixo,H,Solteiro,7880,0,Não,18,0,9,3,Muito bom,8,7,0,7
+707,Sim,40,Não viaja,24,Ensino Superior,Médio,M,Solteiro,13194,4,Sim,16,0,22,2,Bom,1,0,0,0
+708,Não,47,Viaja frequentemente,16,Mestrado,Alto,H,Divorciado,5067,1,Sim,19,0,20,3,Excelente,19,10,2,7
+709,Não,36,Não viaja,8,Mestrado,Baixo,H,Divorciado,5079,4,Não,13,2,12,3,Muito bom,7,7,0,7
+710,Sim,31,Não viaja,9,Ensino Técnico,Alto,H,Solteiro,2321,0,Sim,22,0,4,0,Muito bom,3,2,1,2
+711,Não,33,Não viaja,17,Ensino Superior,Muito Alto,H,Solteiro,17444,1,Não,11,0,10,2,Muito bom,10,8,6,0
+712,Sim,29,Viaja raramente,10,Ensino Superior,Muito Alto,M,Solteiro,2404,6,Sim,20,0,3,5,Muito bom,0,0,0,0
+713,Não,33,Viaja raramente,13,Ensino Médio,Médio,M,Solteiro,3452,3,Não,18,0,5,4,Muito bom,3,2,0,2
+714,Não,45,Viaja raramente,1,Mestrado,Muito Alto,M,Divorciado,2270,3,Não,14,2,8,2,Muito bom,5,3,0,2
+715,Não,50,Viaja raramente,1,Ensino Técnico,Muito Alto,H,Divorciado,17399,9,Não,22,1,32,1,Bom,5,4,1,3
+716,Não,33,Viaja frequentemente,1,Mestrado,Alto,M,Casado,5488,1,Sim,13,1,6,2,Muito bom,6,5,1,2
+717,Não,41,Viaja frequentemente,9,Ensino Superior,Baixo,H,Divorciado,19419,2,Não,17,1,21,2,Excelente,18,16,0,11
+718,Não,27,Viaja raramente,16,Mestrado,Alto,M,Casado,2811,9,Não,14,1,4,2,Muito bom,2,2,2,2
+719,Não,45,Não viaja,23,Ensino Técnico,Muito Alto,H,Casado,3633,1,Sim,15,1,9,2,Muito bom,9,8,0,8
+720,Não,47,Viaja raramente,4,Ensino Técnico,Muito Alto,M,Solteiro,4163,1,Sim,17,0,9,0,Muito bom,9,0,0,7
+721,Sim,30,Viaja raramente,22,Ensino Superior,Baixo,M,Casado,2132,4,Sim,11,0,7,2,Muito bom,5,2,0,1
+722,Não,50,Viaja raramente,24,Ensino Superior,Muito Alto,H,Casado,13973,3,Sim,18,1,22,2,Muito bom,12,11,1,5
+723,Não,38,Viaja frequentemente,10,Ensino Médio,Alto,H,Casado,2684,0,Não,17,1,3,0,Bom,2,1,0,2
+724,Não,46,Viaja raramente,7,Ensino Técnico,Muito Alto,H,Divorciado,10845,6,Não,13,1,13,3,Muito bom,8,7,0,7
+725,Não,24,Viaja raramente,17,Ensino Médio,Muito Alto,M,Divorciado,4377,1,Não,15,2,5,6,Muito bom,4,2,3,2
+726,Sim,35,Viaja raramente,14,Mestrado,Alto,H,Divorciado,3743,1,Sim,24,1,5,2,Ruim,4,2,0,2
+727,Não,31,Viaja frequentemente,1,Ensino Médio,Alto,M,Casado,4148,1,Não,12,1,4,1,Muito bom,4,3,0,3
+728,Não,18,Não viaja,5,Ensino Técnico,Médio,H,Solteiro,1051,1,Não,15,0,0,2,Muito bom,0,0,0,0
+729,Não,54,Viaja raramente,17,Ensino Superior,Alto,M,Casado,10739,8,Não,11,1,22,2,Muito bom,10,7,0,8
+730,Não,35,Viaja raramente,25,Mestrado,Alto,M,Divorciado,10388,1,Sim,11,1,16,3,Bom,16,10,10,1
+731,Não,30,Viaja raramente,8,Ensino Técnico,Médio,M,Casado,11416,0,Sim,12,3,9,4,Bom,8,7,1,7
+732,Sim,20,Viaja raramente,11,Ensino Superior,Muito Alto,M,Solteiro,2600,1,Sim,15,0,1,2,Muito bom,1,0,0,0
+733,Sim,30,Viaja frequentemente,5,Ensino Superior,Médio,M,Solteiro,2422,0,Não,17,0,4,3,Muito bom,3,2,1,2
+734,Não,26,Viaja raramente,2,Ensino Técnico,Muito Alto,H,Casado,5472,1,Não,12,0,8,2,Muito bom,8,7,1,3
+735,Não,22,Viaja raramente,8,Ensino Médio,Médio,H,Casado,2451,1,Não,15,1,4,3,Bom,4,3,1,1
+736,Não,48,Viaja raramente,6,Ensino Superior,Baixo,H,Solteiro,4240,2,Não,13,0,19,0,Muito bom,2,2,2,2
+737,Não,48,Viaja raramente,4,Mestrado,Alto,H,Solteiro,10999,7,Não,14,0,27,3,Muito bom,15,11,4,8
+738,Não,41,Viaja raramente,7,Ensino Técnico,Muito Alto,M,Solteiro,5003,6,Não,14,0,8,6,Muito bom,2,2,2,1
+739,Não,39,Viaja raramente,1,Ensino Médio,Muito Alto,M,Casado,12742,1,Não,16,1,21,3,Muito bom,21,6,11,8
+740,Não,27,Viaja raramente,2,Mestrado,Baixo,M,Casado,4227,0,Não,18,1,4,2,Muito bom,3,2,2,2
+741,Não,35,Viaja raramente,10,Ensino Superior,Médio,H,Divorciado,3917,1,Não,20,1,3,4,Bom,3,2,1,2
+742,Não,42,Viaja raramente,5,Ensino Técnico,Muito Alto,H,Casado,18303,6,Não,13,0,21,3,Excelente,1,0,0,0
+743,Não,50,Viaja raramente,9,Ensino Superior,Baixo,H,Casado,2380,4,Não,18,0,8,5,Muito bom,1,0,0,0
+744,Não,59,Viaja raramente,2,Ensino Superior,Alto,M,Solteiro,13726,3,Sim,13,0,30,4,Muito bom,5,3,4,3
+745,Sim,37,Viaja raramente,11,Ensino Técnico,Baixo,M,Casado,4777,5,Não,15,0,15,2,Ruim,1,0,0,0
+746,Não,55,Viaja frequentemente,18,Mestrado,Alto,H,Casado,6385,3,Sim,14,2,17,3,Muito bom,8,7,6,7
+747,Não,41,Não viaja,7,Ensino Médio,Médio,M,Divorciado,19973,1,Não,22,2,21,3,Muito bom,21,16,5,10
+748,Não,38,Viaja raramente,3,Mestrado,Médio,H,Solteiro,6861,8,Sim,12,0,19,1,Muito bom,1,0,0,0
+749,Sim,26,Não viaja,29,Ensino Técnico,Médio,H,Solteiro,4969,8,Não,18,0,7,6,Muito bom,2,2,2,2
+750,Sim,52,Viaja raramente,2,Ensino Médio,Baixo,M,Casado,19845,1,Não,15,1,33,3,Muito bom,32,14,6,9
+751,Não,44,Viaja raramente,28,Ensino Superior,Muito Alto,M,Casado,13320,3,Sim,18,1,23,2,Muito bom,12,11,11,11
+752,Não,50,Não viaja,1,Ensino Superior,Muito Alto,M,Casado,6347,0,Não,12,1,19,3,Muito bom,18,7,0,13
+753,Sim,36,Viaja raramente,16,Mestrado,Alto,M,Solteiro,2743,1,Não,16,0,18,1,Muito bom,17,13,15,14
+754,Não,39,Viaja frequentemente,22,Ensino Superior,Muito Alto,M,Solteiro,10880,1,Sim,13,0,21,2,Muito bom,21,6,2,8
+755,Não,33,Não viaja,8,Ensino Médio,Médio,M,Solteiro,2342,0,Não,19,0,3,2,Bom,2,2,2,2
+756,Não,45,Viaja raramente,11,Ensino Técnico,Muito Alto,M,Casado,17650,3,Não,13,1,26,4,Excelente,9,3,1,1
+757,Não,32,Não viaja,29,Mestrado,Muito Alto,M,Solteiro,4025,9,Não,12,0,10,2,Muito bom,8,7,7,7
+758,Não,34,Viaja raramente,1,Mestrado,Médio,H,Divorciado,9725,0,Não,11,1,16,2,Bom,15,1,0,9
+759,Não,59,Viaja raramente,1,Ensino Técnico,Médio,H,Casado,11904,3,Sim,14,1,14,1,Ruim,6,4,0,4
+760,Não,45,Viaja raramente,24,Mestrado,Médio,H,Solteiro,2177,1,Não,16,0,6,3,Muito bom,6,3,0,4
+761,Não,53,Viaja frequentemente,2,Ensino Superior,Alto,M,Casado,7525,2,Não,12,1,30,2,Muito bom,15,7,6,12
+762,Sim,36,Viaja raramente,15,Ensino Superior,Baixo,H,Divorciado,4834,7,Não,14,1,9,3,Bom,1,0,0,0
+763,Sim,26,Viaja frequentemente,2,Ensino Superior,Baixo,H,Casado,2042,6,Sim,14,1,6,2,Muito bom,3,2,1,2
+764,Não,34,Viaja raramente,10,Mestrado,Alto,M,Casado,2220,1,Sim,19,1,1,2,Muito bom,1,1,0,0
+765,Não,28,Viaja raramente,10,Ensino Médio,Muito Alto,H,Casado,1052,1,Não,22,0,1,5,Muito bom,1,0,0,0
+766,Não,38,Viaja frequentemente,3,Mestrado,Alto,H,Casado,2821,3,Não,16,1,8,2,Muito bom,2,2,2,2
+767,Não,50,Viaja raramente,2,Mestrado,Médio,H,Casado,19237,2,Sim,11,1,29,2,Bom,8,1,7,7
+768,Não,37,Viaja raramente,3,Ensino Superior,Muito Alto,M,Solteiro,4107,3,Não,15,0,8,3,Bom,4,3,0,1
+769,Não,40,Viaja raramente,26,Ensino Superior,Alto,H,Casado,8396,1,Não,14,1,8,3,Bom,7,7,7,5
+770,Não,26,Viaja frequentemente,1,Ensino Médio,Baixo,M,Divorciado,2007,1,Não,13,2,5,5,Muito bom,5,3,1,3
+771,Não,46,Viaja raramente,1,Mestrado,Muito Alto,H,Divorciado,19627,9,Não,17,2,23,0,Muito bom,2,2,2,2
+772,Não,54,Viaja raramente,2,Mestrado,Alto,M,Casado,10686,6,Não,11,1,13,4,Muito bom,9,4,7,0
+773,Não,56,Viaja frequentemente,9,Ensino Superior,Baixo,M,Casado,2942,2,Não,19,1,18,4,Muito bom,5,4,0,3
+774,Não,36,Viaja raramente,12,Doutorado,Muito Alto,M,Solteiro,8858,0,Não,11,0,15,2,Bom,14,8,7,8
+775,Não,55,Não viaja,2,Ensino Médio,Alto,H,Solteiro,16756,7,Não,15,0,31,3,Excelente,9,7,6,2
+776,Não,43,Viaja raramente,25,Ensino Superior,Alto,H,Divorciado,10798,5,Não,13,1,18,5,Muito bom,1,0,0,0
+777,Sim,20,Viaja frequentemente,9,Ensino Superior,Muito Alto,M,Solteiro,2323,1,Sim,14,0,2,3,Muito bom,2,2,0,2
+778,Sim,21,Viaja raramente,10,Ensino Superior,Alto,M,Solteiro,1416,1,Não,13,0,1,6,Bom,1,0,1,0
+779,Não,46,Viaja raramente,8,Mestrado,Muito Alto,M,Divorciado,4615,8,Sim,23,3,19,2,Muito bom,16,13,1,7
+780,Sim,51,Viaja raramente,4,Mestrado,Baixo,H,Casado,2461,9,Sim,12,3,18,2,Excelente,10,0,2,7
+781,Sim,28,Não viaja,24,Ensino Técnico,Médio,H,Solteiro,8722,1,Não,12,0,10,2,Bom,10,7,1,9
+782,Não,26,Viaja raramente,1,Ensino Técnico,Baixo,H,Casado,3955,1,Não,16,2,6,2,Muito bom,5,3,1,3
+783,Não,30,Viaja raramente,20,Ensino Superior,Alto,H,Casado,9957,0,Não,15,1,7,1,Bom,6,2,0,2
+784,Não,41,Viaja raramente,7,Ensino Técnico,Médio,M,Casado,3376,1,Não,13,0,10,3,Muito bom,10,6,0,8
+785,Não,38,Viaja raramente,17,Ensino Médio,Alto,M,Casado,8823,0,Não,18,1,20,4,Bom,19,9,1,9
+786,Não,40,Viaja raramente,20,Mestrado,Baixo,H,Casado,10322,4,Não,20,1,14,6,Muito bom,11,10,11,1
+787,Não,27,Não viaja,8,Doutorado,Baixo,H,Casado,4621,1,Não,19,3,3,4,Muito bom,3,2,1,2
+788,Não,55,Viaja frequentemente,2,Ensino Médio,Muito Alto,H,Casado,10976,3,Não,18,1,23,4,Muito bom,3,2,1,2
+789,Não,28,Viaja raramente,10,Ensino Superior,Alto,M,Solteiro,3660,3,Não,13,0,10,4,Excelente,8,7,1,7
+790,Sim,44,Viaja raramente,1,Ensino Técnico,Médio,H,Casado,10482,9,Não,14,1,24,1,Muito bom,20,6,3,6
+791,Não,33,Viaja raramente,5,Ensino Superior,Muito Alto,H,Divorciado,7119,4,Não,15,1,9,2,Muito bom,3,2,1,2
+792,Sim,35,Viaja raramente,4,Ensino Superior,Muito Alto,H,Solteiro,9582,0,Sim,22,0,9,2,Muito bom,8,7,4,7
+793,Sim,33,Viaja frequentemente,29,Mestrado,Baixo,M,Solteiro,4508,1,Não,22,0,14,4,Muito bom,13,7,3,8
+794,Não,28,Viaja raramente,15,Ensino Técnico,Baixo,H,Divorciado,2207,1,Não,16,1,4,5,Bom,4,2,2,2
+795,Não,34,Viaja frequentemente,3,Ensino Médio,Baixo,H,Solteiro,7756,0,Não,17,0,7,1,Bom,6,2,0,4
+796,Não,37,Viaja raramente,10,Mestrado,Muito Alto,M,Divorciado,6694,2,Sim,14,3,8,5,Muito bom,1,0,0,0
+797,Sim,25,Viaja raramente,4,Ensino Médio,Muito Alto,H,Casado,3691,1,Sim,15,1,7,3,Excelente,7,7,5,6
+798,Sim,26,Viaja raramente,21,Ensino Superior,Baixo,H,Divorciado,2377,1,Não,20,1,1,0,Bom,1,1,0,0
+799,Sim,33,Viaja raramente,25,Ensino Superior,Baixo,H,Solteiro,2313,4,Sim,20,0,5,0,Muito bom,2,2,2,2
+800,Não,42,Viaja raramente,2,Ensino Técnico,Muito Alto,H,Casado,17665,0,Não,17,1,23,3,Muito bom,22,6,13,7
+801,Sim,28,Viaja frequentemente,1,Ensino Superior,Baixo,H,Divorciado,2596,1,Não,15,2,1,2,Muito bom,1,0,0,0
+802,Sim,50,Viaja frequentemente,1,Mestrado,Muito Alto,H,Solteiro,4728,3,Sim,14,0,5,4,Muito bom,0,0,0,0
+803,Não,33,Viaja frequentemente,7,Ensino Superior,Muito Alto,M,Casado,4302,0,Não,17,1,4,3,Muito bom,3,2,0,2
+804,Não,34,Não viaja,3,Mestrado,Alto,H,Casado,2979,3,Não,17,3,6,2,Muito bom,0,0,0,0
+805,Não,48,Não viaja,1,Mestrado,Baixo,H,Solteiro,16885,2,Não,22,0,27,3,Bom,5,4,2,1
+806,Não,45,Não viaja,9,Mestrado,Médio,M,Casado,5593,1,Não,13,1,15,2,Muito bom,15,10,4,12
+807,Não,52,Viaja raramente,7,Mestrado,Médio,H,Solteiro,10445,7,Não,19,0,18,4,Muito bom,8,6,4,0
+808,Não,38,Viaja raramente,10,Mestrado,Alto,H,Divorciado,8740,0,Sim,14,2,9,2,Muito bom,8,7,2,7
+809,Não,29,Viaja raramente,28,Mestrado,Alto,M,Divorciado,2514,4,Não,22,1,11,1,Muito bom,7,5,1,7
+810,Não,28,Viaja raramente,3,Ensino Superior,Muito Alto,M,Divorciado,7655,0,Não,17,3,10,3,Bom,9,7,1,7
+811,Não,46,Viaja raramente,3,Ensino Médio,Baixo,H,Casado,17465,3,Não,12,1,23,3,Muito bom,12,9,4,9
+812,Não,38,Viaja raramente,2,Ensino Técnico,Muito Alto,H,Solteiro,7351,7,Não,16,0,10,2,Muito bom,1,0,0,0
+813,Não,43,Viaja frequentemente,27,Ensino Superior,Alto,M,Casado,10820,8,Não,11,1,18,1,Muito bom,8,7,0,1
+814,Sim,39,Viaja frequentemente,2,Ensino Superior,Baixo,H,Divorciado,12169,7,Não,11,3,21,4,Muito bom,18,7,11,5
+815,Não,40,Viaja raramente,14,Ensino Superior,Alto,H,Solteiro,19626,1,Não,14,0,21,2,Excelente,20,7,4,9
+816,Não,21,Viaja raramente,1,Ensino Médio,Muito Alto,M,Solteiro,2070,1,Sim,11,0,2,6,Excelente,2,2,2,2
+817,Não,39,Não viaja,9,Ensino Superior,Alto,H,Solteiro,6782,9,Não,15,0,9,2,Bom,5,4,0,3
+818,Não,36,Não viaja,18,Mestrado,Baixo,H,Solteiro,7779,2,Não,20,0,18,0,Muito bom,11,9,0,9
+819,Não,31,Viaja frequentemente,20,Ensino Superior,Alto,H,Casado,2791,0,Não,12,1,3,4,Muito bom,2,2,2,2
+820,Não,28,Viaja raramente,2,Ensino Médio,Baixo,H,Casado,3201,0,Não,17,0,6,2,Ruim,5,3,0,4
+821,Não,35,Viaja frequentemente,11,Ensino Técnico,Muito Alto,H,Divorciado,4968,1,Não,11,1,5,3,Muito bom,5,2,0,2
+822,Não,49,Viaja raramente,8,Mestrado,Muito Alto,H,Casado,13120,6,Não,17,1,22,3,Muito bom,9,8,2,3
+823,Não,34,Viaja frequentemente,2,Ensino Técnico,Muito Alto,H,Solteiro,4033,2,Não,11,0,5,3,Bom,3,2,0,2
+824,Não,29,Viaja frequentemente,10,Ensino Superior,Muito Alto,M,Divorciado,3291,0,Não,14,2,8,2,Bom,7,5,1,1
+825,Não,42,Viaja raramente,29,Ensino Superior,Médio,H,Solteiro,4272,4,Não,19,0,16,3,Muito bom,1,0,0,0
+826,Não,29,Viaja raramente,8,Ensino Médio,Médio,H,Casado,5056,1,Sim,15,1,10,2,Bom,10,7,1,2
+827,Não,38,Viaja raramente,1,Ensino Superior,Alto,H,Casado,2844,1,Não,13,1,7,2,Excelente,7,6,5,0
+828,Não,28,Viaja frequentemente,6,Ensino Superior,Alto,H,Divorciado,2703,1,Sim,14,1,3,2,Muito bom,3,1,0,2
+829,Sim,18,Não viaja,8,Ensino Médio,Alto,H,Solteiro,1904,1,Não,12,0,0,0,Muito bom,0,0,0,0
+830,Sim,33,Viaja raramente,9,Mestrado,Baixo,M,Solteiro,8224,0,Sim,17,0,6,3,Muito bom,5,2,0,3
+831,Não,41,Viaja raramente,12,Mestrado,Médio,H,Casado,4766,3,Sim,11,1,6,4,Muito bom,1,0,0,0
+832,Sim,31,Viaja frequentemente,15,Ensino Superior,Alto,H,Casado,2610,1,Não,12,1,2,5,Bom,2,2,2,2
+833,Não,37,Viaja raramente,25,Ensino Técnico,Alto,M,Divorciado,5731,7,Não,13,2,9,2,Muito bom,6,2,1,3
+834,Não,27,Viaja raramente,6,Ensino Superior,Muito Alto,H,Casado,2539,1,Não,13,1,4,0,Muito bom,4,2,2,2
+835,Não,34,Viaja raramente,9,Ensino Médio,Médio,M,Casado,5714,1,Não,20,0,6,3,Bom,6,5,1,3
+836,Não,35,Viaja raramente,8,Mestrado,Alto,H,Solteiro,4323,1,Não,17,0,6,2,Ruim,5,4,1,4
+837,Sim,29,Viaja raramente,23,Ensino Médio,Muito Alto,M,Casado,7336,1,Não,13,1,11,3,Ruim,11,8,3,10
+838,Não,40,Viaja frequentemente,9,Mestrado,Médio,M,Solteiro,13499,9,Não,17,0,20,3,Bom,18,7,2,13
+839,Sim,42,Viaja frequentemente,12,Ensino Superior,Alto,H,Solteiro,13758,0,Sim,12,0,22,2,Bom,21,9,13,14
+840,Não,42,Viaja raramente,4,Mestrado,Médio,H,Solteiro,5155,7,Não,13,0,9,3,Excelente,6,4,1,5
+841,Não,35,Viaja raramente,1,Mestrado,Muito Alto,H,Casado,2258,6,Não,12,1,10,2,Muito bom,8,0,1,7
+842,Não,24,Viaja raramente,24,Ensino Superior,Muito Alto,H,Solteiro,3597,8,Não,22,0,6,2,Muito bom,4,3,1,2
+843,Sim,28,Viaja raramente,12,Ensino Médio,Alto,M,Casado,2515,1,Sim,11,0,1,4,Bom,1,1,0,0
+844,Não,26,Viaja raramente,3,Mestrado,Baixo,H,Casado,4420,1,Não,22,1,8,2,Muito bom,8,7,0,7
+845,Não,30,Viaja raramente,10,Ensino Superior,Alto,H,Casado,6578,1,Não,18,1,10,3,Muito bom,10,3,1,4
+846,Não,40,Viaja frequentemente,26,Ensino Técnico,Alto,M,Casado,4422,3,Sim,13,1,16,3,Ruim,1,1,0,0
+847,Não,35,Viaja raramente,2,Ensino Superior,Alto,H,Divorciado,10274,2,Não,18,1,15,2,Excelente,7,7,6,4
+848,Não,34,Viaja frequentemente,1,Ensino Superior,Muito Alto,H,Solteiro,5343,0,Não,20,0,14,3,Muito bom,13,9,4,9
+849,Não,35,Viaja frequentemente,4,Mestrado,Muito Alto,H,Casado,2376,1,Não,13,1,2,2,Excelente,2,2,2,2
+850,Sim,43,Viaja raramente,9,Ensino Superior,Baixo,M,Solteiro,5346,8,Não,13,0,7,2,Bom,4,3,1,3
+851,Não,32,Não viaja,2,Ensino Médio,Alto,M,Divorciado,2827,1,Não,12,3,1,3,Muito bom,1,0,0,0
+852,Não,56,Viaja raramente,4,Mestrado,Muito Alto,M,Divorciado,19943,4,Não,13,1,28,2,Muito bom,5,2,4,2
+853,Não,29,Viaja raramente,6,Ensino Médio,Médio,M,Casado,3131,1,Não,13,1,10,5,Muito bom,10,8,0,8
+854,Não,19,Viaja raramente,9,Ensino Técnico,Alto,H,Solteiro,2552,1,Não,25,0,1,4,Muito bom,1,1,0,0
+855,Não,45,Viaja raramente,7,Ensino Superior,Baixo,M,Casado,4477,4,Sim,19,1,7,2,Bom,3,2,0,2
+856,Não,37,Viaja raramente,1,Ensino Superior,Muito Alto,M,Casado,6474,1,Não,13,1,14,2,Bom,14,8,3,11
+857,Não,20,Viaja raramente,3,Ensino Superior,Baixo,H,Solteiro,3033,1,Não,12,0,2,2,Bom,2,2,1,2
+858,Sim,44,Viaja raramente,10,Mestrado,Alto,H,Solteiro,2936,1,Sim,11,0,6,4,Muito bom,6,4,0,2
+859,Não,53,Viaja raramente,7,Ensino Técnico,Muito Alto,M,Divorciado,18606,3,Não,18,1,26,6,Muito bom,7,7,4,7
+860,Não,29,Viaja raramente,15,Ensino Médio,Médio,M,Casado,2168,0,Sim,18,1,6,2,Bom,5,4,1,3
+861,Sim,22,Viaja frequentemente,3,Mestrado,Alto,H,Casado,2853,0,Sim,11,1,1,5,Muito bom,0,0,0,0
+862,Não,46,Viaja raramente,2,Ensino Superior,Alto,M,Casado,17048,8,Não,23,0,28,2,Muito bom,26,15,15,9
+863,Não,44,Não viaja,17,Ensino Superior,Muito Alto,H,Solteiro,2290,2,Não,13,0,6,3,Muito bom,0,0,0,0
+864,Não,33,Viaja raramente,2,Ensino Superior,Médio,H,Casado,3600,1,Não,13,1,5,2,Muito bom,5,4,1,4
+865,Sim,41,Não viaja,5,Ensino Técnico,Baixo,H,Divorciado,2107,6,Não,17,1,5,2,Ruim,1,0,0,0
+866,Não,30,Viaja raramente,29,Mestrado,Alto,H,Divorciado,4115,8,Não,19,3,8,3,Muito bom,4,3,0,3
+867,Não,40,Viaja frequentemente,2,Mestrado,Médio,H,Casado,4327,5,Não,12,3,5,2,Muito bom,0,0,0,0
+868,Não,50,Viaja frequentemente,2,Ensino Superior,Muito Alto,M,Casado,17856,2,Não,22,1,32,3,Muito bom,2,2,2,2
+869,Não,28,Viaja raramente,19,Mestrado,Muito Alto,H,Casado,3196,1,Não,12,3,6,2,Muito bom,6,5,3,3
+870,Não,46,Viaja raramente,15,Ensino Técnico,Muito Alto,H,Casado,19081,5,Não,11,1,25,2,Muito bom,4,2,0,3
+871,Não,35,Viaja raramente,17,Mestrado,Alto,H,Casado,8966,3,Sim,15,3,15,2,Muito bom,7,7,1,7
+872,Sim,24,Viaja raramente,17,Ensino Técnico,Muito Alto,M,Casado,2210,1,Não,13,1,1,3,Ruim,1,0,0,0
+873,Não,33,Viaja frequentemente,25,Ensino Superior,Médio,M,Casado,4539,1,Não,12,1,10,3,Bom,10,7,0,1
+874,Não,36,Viaja raramente,6,Mestrado,Alto,H,Divorciado,2741,1,Não,14,1,7,4,Muito bom,7,7,1,7
+875,Não,30,Viaja raramente,7,Mestrado,Alto,H,Divorciado,3491,1,Não,13,3,10,4,Bom,10,7,8,9
+876,Não,44,Viaja raramente,29,Mestrado,Muito Alto,H,Solteiro,4541,1,Não,25,0,20,3,Muito bom,20,11,13,17
+877,Não,20,Viaja raramente,21,Ensino Superior,Alto,H,Solteiro,2678,1,Não,17,0,2,2,Muito bom,2,1,2,2
+878,Não,46,Viaja raramente,2,Mestrado,Muito Alto,H,Divorciado,7379,2,Não,11,1,12,3,Bom,6,3,1,4
+879,Não,42,Não viaja,2,Doutorado,Muito Alto,H,Casado,6272,7,Não,16,1,10,3,Excelente,4,3,0,3
+880,Não,60,Viaja raramente,7,Mestrado,Médio,H,Divorciado,5220,0,Sim,18,1,12,3,Muito bom,11,7,1,9
+881,Não,32,Viaja frequentemente,13,Ensino Superior,Alto,M,Casado,2743,1,Não,20,1,2,2,Muito bom,2,2,2,2
+882,Não,32,Viaja frequentemente,2,Ensino Técnico,Muito Alto,M,Solteiro,4998,4,Sim,14,0,10,2,Muito bom,8,7,0,7
+883,Não,36,Viaja raramente,1,Ensino Superior,Alto,M,Divorciado,10252,2,Sim,21,1,17,2,Muito bom,7,7,7,7
+884,Não,33,Viaja raramente,9,Ensino Superior,Baixo,H,Casado,2781,0,Não,13,1,15,5,Muito bom,14,10,4,10
+885,Não,40,Viaja raramente,10,Ensino Superior,Médio,M,Divorciado,6852,7,Não,12,1,7,2,Excelente,5,1,1,3
+886,Não,25,Viaja raramente,10,Mestrado,Alto,H,Solteiro,4950,0,Não,14,0,5,4,Muito bom,4,3,1,1
+887,Não,30,Viaja raramente,1,Ensino Superior,Muito Alto,H,Casado,3579,0,Sim,21,1,12,2,Muito bom,11,9,5,7
+888,Não,42,Viaja frequentemente,26,Doutorado,Baixo,M,Casado,13191,3,Sim,17,0,20,6,Muito bom,1,0,0,0
+889,Não,35,Não viaja,8,Ensino Técnico,Alto,M,Casado,10377,4,Sim,11,1,16,6,Bom,13,2,4,12
+890,Não,27,Viaja raramente,14,Ensino Superior,Baixo,H,Casado,2235,1,Sim,14,2,9,3,Bom,9,7,6,8
+891,Não,54,Viaja frequentemente,1,Mestrado,Muito Alto,M,Divorciado,10502,7,Não,17,1,33,2,Ruim,5,4,1,4
+892,Não,44,Viaja raramente,2,Ensino Médio,Baixo,M,Casado,2011,1,Não,13,1,10,5,Muito bom,10,5,7,7
+893,Sim,19,Não viaja,10,Ensino Superior,Baixo,M,Solteiro,1859,1,Sim,25,0,1,2,Excelente,1,1,0,0
+894,Não,29,Viaja raramente,1,Ensino Superior,Baixo,M,Divorciado,3760,1,Não,15,3,3,5,Muito bom,3,2,1,2
+895,Não,54,Viaja raramente,3,Ensino Superior,Muito Alto,H,Casado,17779,3,Não,14,0,36,2,Muito bom,10,9,0,9
+896,Não,31,Viaja raramente,11,Ensino Técnico,Alto,H,Casado,6833,1,Sim,12,0,6,2,Bom,6,5,0,1
+897,Não,31,Viaja raramente,24,Ensino Superior,Alto,M,Solteiro,6812,1,Não,19,0,10,2,Muito bom,10,9,1,8
+898,Não,59,Viaja raramente,3,Ensino Superior,Alto,M,Solteiro,5171,5,Não,17,0,13,2,Muito bom,6,1,0,5
+899,Não,43,Viaja raramente,3,Ensino Superior,Alto,H,Casado,19740,3,Não,14,1,25,2,Muito bom,8,7,0,7
+900,Não,49,Viaja raramente,4,Ensino Técnico,Baixo,H,Casado,18711,2,Não,13,1,23,2,Excelente,1,0,0,0
+901,Não,36,Viaja frequentemente,3,Ensino Superior,Alto,H,Casado,3692,1,Não,12,0,12,2,Bom,11,10,0,7
+902,Não,48,Viaja raramente,2,Ensino Técnico,Muito Alto,H,Solteiro,2559,5,Não,11,0,7,4,Bom,1,0,0,0
+903,Não,27,Viaja raramente,4,Ensino Técnico,Baixo,H,Divorciado,2517,1,Não,11,3,5,2,Muito bom,5,3,0,3
+904,Não,29,Viaja raramente,7,Ensino Superior,Alto,H,Divorciado,6623,1,Sim,11,2,6,2,Muito bom,6,0,1,0
+905,Não,48,Viaja raramente,1,Ensino Superior,Muito Alto,H,Solteiro,18265,6,Não,12,0,25,3,Excelente,1,0,0,0
+906,Não,29,Viaja raramente,1,Ensino Superior,Muito Alto,M,Divorciado,16124,3,Não,14,2,9,2,Bom,7,7,1,7
+907,Não,34,Viaja raramente,20,Ensino Superior,Alto,M,Casado,2585,0,Não,17,0,2,5,Bom,1,0,0,0
+908,Não,44,Viaja raramente,5,Ensino Superior,Médio,H,Casado,18213,7,Não,11,1,26,5,Muito bom,22,9,3,10
+909,Não,33,Viaja raramente,10,Doutorado,Muito Alto,H,Divorciado,8380,0,Sim,14,2,10,3,Muito bom,9,8,0,8
+910,Não,19,Viaja raramente,25,Ensino Superior,Médio,M,Solteiro,2994,1,Sim,12,0,1,2,Muito bom,1,0,0,1
+911,Não,23,Viaja raramente,1,Ensino Técnico,Muito Alto,H,Casado,1223,1,Não,22,1,1,2,Muito bom,1,0,0,1
+912,Sim,25,Viaja frequentemente,24,Ensino Médio,Alto,H,Solteiro,1118,1,Sim,14,0,1,4,Muito bom,1,0,1,0
+913,Não,26,Viaja raramente,4,Ensino Técnico,Alto,H,Solteiro,2875,1,Sim,20,0,8,2,Bom,8,5,2,2
+914,Sim,45,Viaja raramente,2,Ensino Superior,Baixo,M,Solteiro,18824,2,Sim,16,0,26,2,Muito bom,24,10,1,11
+915,Não,55,Não viaja,8,Ensino Médio,Muito Alto,H,Divorciado,13577,1,Sim,15,1,34,3,Muito bom,33,9,15,0
+916,Sim,21,Viaja frequentemente,10,Ensino Técnico,Baixo,M,Solteiro,2625,1,Não,20,0,2,2,Ruim,2,2,2,2
+917,Não,46,Viaja raramente,4,Ensino Técnico,Muito Alto,M,Casado,18789,2,Não,14,1,26,2,Muito bom,11,4,0,8
+918,Não,34,Viaja raramente,2,Ensino Superior,Alto,M,Solteiro,4538,0,Sim,12,0,4,3,Muito bom,3,2,0,2
+919,Não,51,Viaja frequentemente,9,Ensino Superior,Muito Alto,H,Divorciado,19847,4,Sim,24,1,31,5,Bom,29,10,11,10
+920,Não,59,Viaja raramente,18,Mestrado,Muito Alto,H,Solteiro,10512,6,Não,12,0,25,6,Bom,9,7,5,4
+921,Não,34,Viaja frequentemente,19,Ensino Superior,Alto,M,Divorciado,4444,4,Não,13,2,15,2,Excelente,11,8,5,10
+922,Não,28,Viaja frequentemente,1,Mestrado,Muito Alto,H,Solteiro,2154,0,Sim,11,0,5,2,Bom,4,2,0,2
+923,Não,44,Viaja raramente,4,Ensino Técnico,Alto,H,Divorciado,19190,1,Não,14,2,26,4,Bom,25,9,14,13
+924,Não,34,Viaja frequentemente,11,Ensino Superior,Alto,H,Casado,4490,4,Não,11,2,14,5,Excelente,10,9,1,8
+925,Não,35,Viaja raramente,6,Ensino Médio,Alto,H,Casado,3506,0,Sim,14,0,4,3,Muito bom,3,2,2,2
+926,Não,42,Viaja raramente,7,Mestrado,Médio,M,Casado,2372,6,Sim,16,0,18,2,Muito bom,1,0,0,0
+927,Não,43,Viaja raramente,4,Mestrado,Muito Alto,M,Solteiro,10231,3,Não,14,0,23,3,Excelente,21,7,15,17
+928,Não,36,Viaja raramente,2,Mestrado,Alto,M,Solteiro,5410,9,Sim,11,0,18,2,Muito bom,16,14,5,12
+929,Sim,44,Viaja raramente,15,Ensino Superior,Baixo,M,Casado,7978,1,Não,11,1,10,2,Muito bom,10,7,0,5
+930,Não,28,Viaja frequentemente,2,Ensino Superior,Muito Alto,H,Casado,3867,1,Sim,12,1,2,2,Muito bom,2,2,2,2
+931,Não,51,Viaja frequentemente,6,Ensino Técnico,Médio,M,Solteiro,2838,0,Não,14,0,8,6,Bom,7,0,7,7
+932,Não,30,Não viaja,9,Ensino Técnico,Alto,M,Solteiro,4695,7,Sim,18,0,10,3,Muito bom,8,4,1,7
+933,Sim,29,Viaja raramente,7,Ensino Superior,Médio,M,Divorciado,3339,3,Sim,13,2,10,2,Muito bom,7,7,7,7
+934,Não,28,Viaja raramente,1,Ensino Superior,Muito Alto,H,Solteiro,2080,2,Não,11,0,5,2,Bom,3,2,1,2
+935,Não,25,Viaja raramente,1,Ensino Superior,Muito Alto,M,Solteiro,2096,1,Não,18,0,2,3,Bom,2,2,2,1
+936,Não,32,Viaja raramente,8,Ensino Superior,Alto,H,Casado,6209,1,Não,15,2,10,4,Excelente,10,7,0,8
+937,Não,45,Viaja frequentemente,25,Ensino Superior,Médio,M,Solteiro,18061,3,Não,22,0,22,4,Muito bom,0,0,0,0
+938,Não,39,Viaja raramente,13,Mestrado,Alto,M,Divorciado,17123,6,Sim,13,2,21,4,Muito bom,19,9,15,2
+939,Não,58,Viaja raramente,23,Mestrado,Baixo,H,Divorciado,2372,1,Não,12,2,2,3,Muito bom,2,2,2,2
+940,Sim,32,Viaja raramente,7,Ensino Técnico,Muito Alto,H,Casado,4883,1,Não,18,1,10,3,Muito bom,10,4,1,1
+941,Sim,39,Viaja raramente,23,Ensino Superior,Alto,H,Solteiro,3904,0,Não,13,0,6,2,Muito bom,5,2,0,3
+942,Não,30,Viaja raramente,6,Ensino Superior,Baixo,M,Casado,4627,0,Não,12,1,10,6,Muito bom,9,2,6,7
+943,Não,36,Viaja raramente,10,Mestrado,Muito Alto,M,Casado,7094,3,Não,12,0,10,0,Muito bom,7,7,1,7
+944,Não,46,Viaja raramente,1,Ensino Técnico,Muito Alto,M,Solteiro,3423,6,Não,12,0,10,3,Excelente,7,6,5,7
+945,Não,28,Não viaja,1,Ensino Superior,Alto,M,Casado,6674,0,Não,11,3,10,6,Muito bom,9,8,7,5
+946,Não,50,Viaja raramente,28,Ensino Superior,Muito Alto,M,Casado,16880,4,Sim,11,0,25,2,Muito bom,3,2,1,2
+947,Sim,40,Viaja raramente,25,Mestrado,Muito Alto,H,Solteiro,9094,2,Sim,12,0,9,2,Muito bom,5,4,1,0
+948,Sim,52,Viaja raramente,5,Ensino Superior,Médio,H,Solteiro,8446,9,Sim,19,0,10,2,Bom,8,7,7,7
+949,Não,30,Viaja raramente,17,Mestrado,Médio,M,Casado,11916,1,Sim,23,2,9,2,Muito bom,9,1,0,8
+950,Não,39,Viaja raramente,18,Ensino Técnico,Baixo,H,Solteiro,4534,0,Não,11,0,9,6,Muito bom,8,7,1,7
+951,Não,31,Não viaja,2,Mestrado,Muito Alto,M,Divorciado,9852,1,Sim,19,1,10,5,Bom,10,8,9,6
+952,Não,41,Não viaja,10,Ensino Técnico,Alto,H,Solteiro,6151,1,Não,13,0,19,4,Muito bom,19,2,11,9
+953,Sim,31,Viaja frequentemente,1,Ensino Superior,Muito Alto,M,Solteiro,2302,1,Sim,11,0,3,2,Excelente,3,2,2,2
+954,Sim,44,Viaja raramente,3,Ensino Superior,Baixo,H,Casado,2362,4,Não,12,0,10,4,Excelente,3,2,1,2
+955,Não,42,Não viaja,2,Ensino Médio,Alto,H,Casado,17861,0,Sim,13,0,21,3,Bom,20,8,2,10
+956,Não,55,Viaja raramente,2,Ensino Técnico,Muito Alto,M,Casado,19187,4,Não,14,1,23,5,Muito bom,19,9,9,11
+957,Não,56,Viaja raramente,8,Mestrado,Muito Alto,H,Solteiro,19717,6,Não,14,0,36,4,Muito bom,7,3,7,7
+958,Não,40,Não viaja,16,Ensino Técnico,Alto,H,Divorciado,3544,9,Não,16,1,6,0,Muito bom,4,2,0,0
+959,Não,34,Viaja raramente,9,Ensino Superior,Muito Alto,H,Divorciado,8500,0,Não,11,1,10,0,Bom,9,7,1,6
+960,Não,40,Viaja raramente,2,Ensino Superior,Alto,H,Solteiro,4661,1,Não,13,0,9,4,Muito bom,9,8,8,8
+961,Não,41,Viaja frequentemente,1,Ensino Superior,Alto,M,Divorciado,4103,0,Não,17,1,10,2,Muito bom,9,3,1,7
+962,Não,35,Viaja frequentemente,4,Mestrado,Alto,H,Solteiro,4249,1,Sim,11,0,9,3,Muito bom,9,6,1,1
+963,Não,51,Viaja raramente,5,Ensino Superior,Alto,H,Divorciado,14026,1,Sim,11,1,33,2,Muito bom,33,9,0,10
+964,Não,38,Viaja raramente,2,Ensino Técnico,Médio,M,Divorciado,6893,3,Não,15,1,11,3,Muito bom,7,7,1,7
+965,Não,34,Viaja raramente,15,Ensino Técnico,Alto,M,Solteiro,6125,1,Não,12,0,10,6,Excelente,10,8,9,6
+966,Não,25,Viaja raramente,19,Ensino Médio,Muito Alto,H,Casado,3669,3,Não,11,3,7,6,Bom,3,2,1,2
+967,Sim,58,Viaja raramente,7,Mestrado,Alto,M,Casado,10008,7,Sim,14,0,31,0,Bom,10,9,5,9
+968,Não,40,Viaja raramente,1,Mestrado,Médio,H,Casado,2387,3,Não,22,1,7,3,Muito bom,4,2,0,3
+969,Não,36,Viaja frequentemente,7,Ensino Superior,Baixo,M,Casado,4639,2,Não,16,1,17,2,Bom,15,7,6,13
+970,Não,48,Viaja raramente,4,Ensino Superior,Muito Alto,H,Solteiro,7898,1,Não,11,0,11,2,Muito bom,10,9,0,8
+971,Não,27,Viaja raramente,11,Ensino Superior,Alto,M,Casado,2534,8,Não,14,1,5,4,Muito bom,1,0,0,0
+972,Não,51,Viaja raramente,11,Ensino Técnico,Muito Alto,M,Solteiro,13142,3,Não,16,0,29,1,Bom,5,2,0,3
+973,Não,18,Não viaja,1,Ensino Superior,Muito Alto,M,Solteiro,1611,1,Não,15,0,0,5,Excelente,0,0,0,0
+974,Não,35,Viaja raramente,1,Ensino Superior,Muito Alto,M,Casado,5363,0,Não,12,1,10,0,Muito bom,9,7,0,0
+975,Não,27,Viaja frequentemente,2,Ensino Médio,Muito Alto,H,Solteiro,5071,3,Não,20,0,8,3,Muito bom,6,2,0,0
+976,Sim,55,Viaja raramente,13,Mestrado,Baixo,H,Solteiro,13695,6,Sim,17,0,24,2,Bom,19,7,3,8
+977,Não,56,Viaja raramente,23,Ensino Superior,Muito Alto,H,Casado,13402,4,Sim,12,1,33,0,Muito bom,19,16,15,9
+978,Não,34,Não viaja,26,Ensino Médio,Baixo,M,Divorciado,2029,1,Não,20,3,5,2,Muito bom,5,4,0,0
+979,Não,40,Viaja raramente,2,Ensino Médio,Médio,M,Divorciado,6377,5,Não,20,3,15,0,Muito bom,12,11,11,8
+980,Não,34,Viaja raramente,29,Ensino Superior,Médio,H,Casado,5429,4,Não,13,2,10,1,Muito bom,8,7,7,7
+981,Sim,31,Viaja frequentemente,2,Ensino Superior,Alto,M,Solteiro,2785,7,Não,14,0,3,3,Excelente,1,0,0,0
+982,Sim,35,Viaja frequentemente,18,Mestrado,Muito Alto,M,Casado,4614,0,Sim,18,1,5,0,Bom,4,2,3,2
+983,Não,38,Viaja frequentemente,7,Ensino Superior,Muito Alto,H,Divorciado,2610,1,Não,11,3,4,2,Muito bom,4,2,0,3
+984,Não,34,Viaja raramente,2,Mestrado,Alto,M,Solteiro,6687,1,Não,11,0,14,2,Excelente,14,11,4,11
+985,Não,28,Viaja raramente,26,Ensino Superior,Alto,H,Casado,4724,1,Não,11,1,5,0,Muito bom,5,3,0,4
+986,Sim,31,Viaja raramente,22,Mestrado,Muito Alto,H,Casado,6179,1,Sim,15,2,10,3,Bom,10,2,6,7
+987,Não,39,Viaja raramente,21,Mestrado,Baixo,H,Casado,6120,3,Sim,12,2,8,2,Excelente,5,4,1,4
+988,Não,51,Viaja frequentemente,2,Ensino Superior,Médio,H,Casado,10596,2,Não,11,0,14,5,Muito bom,4,2,3,2
+989,Não,41,Viaja frequentemente,22,Ensino Superior,Muito Alto,M,Divorciado,5467,3,Sim,14,2,12,4,Bom,6,2,3,3
+990,Não,37,Viaja raramente,4,Ensino Médio,Alto,H,Casado,2996,7,Sim,15,0,8,2,Muito bom,6,4,1,3
+991,Não,33,Viaja frequentemente,5,Ensino Médio,Médio,H,Casado,9998,6,Não,13,0,8,2,Excelente,5,4,1,2
+992,Não,32,Viaja raramente,2,Ensino Médio,Alto,H,Casado,4078,0,Sim,13,3,4,3,Bom,3,2,1,2
+993,Não,39,Não viaja,25,Ensino Técnico,Alto,H,Casado,10920,3,Não,21,1,13,2,Muito bom,6,4,0,5
+994,Não,25,Viaja raramente,18,Ensino Médio,Baixo,H,Casado,6232,2,Não,11,0,6,3,Bom,3,2,1,2
+995,Não,52,Viaja frequentemente,28,Ensino Técnico,Muito Alto,M,Casado,13247,2,Sim,11,1,24,3,Bom,5,3,0,2
+996,Não,43,Viaja raramente,6,Ensino Superior,Baixo,M,Solteiro,4081,1,Sim,14,0,20,3,Ruim,20,7,1,8
+997,Não,27,Viaja raramente,10,Ensino Superior,Muito Alto,M,Casado,5769,1,Sim,11,0,6,3,Muito bom,6,2,4,4
+998,Sim,27,Viaja raramente,17,Mestrado,Muito Alto,M,Solteiro,2394,1,Sim,13,0,8,2,Muito bom,8,2,7,7
+999,Não,26,Viaja raramente,2,Ensino Médio,Baixo,H,Solteiro,3904,0,Não,12,0,5,2,Muito bom,4,3,1,1
+1000,Não,42,Viaja raramente,10,Ensino Superior,Alto,M,Casado,16799,0,Não,14,1,21,5,Muito bom,20,7,0,9
+1001,Não,52,Viaja raramente,8,Mestrado,Alto,M,Casado,2950,9,Não,13,0,12,2,Ruim,5,4,0,4
+1002,Não,37,Viaja raramente,11,Ensino Superior,Baixo,M,Solteiro,3629,4,Não,18,0,8,6,Muito bom,3,2,0,2
+1003,Não,35,Viaja frequentemente,18,Ensino Técnico,Alto,H,Solteiro,9362,2,Não,11,0,10,2,Muito bom,2,2,2,2
+1004,Não,25,Viaja raramente,1,Ensino Superior,Baixo,H,Casado,3229,4,Não,11,1,7,2,Bom,3,2,0,2
+1005,Não,26,Viaja raramente,7,Ensino Superior,Alto,H,Solteiro,3578,0,Não,12,0,8,2,Muito bom,7,7,0,7
+1006,Não,29,Viaja raramente,17,Ensino Superior,Médio,H,Solteiro,7988,1,Não,13,0,10,3,Bom,10,9,0,9
+1007,Sim,49,Viaja frequentemente,28,Ensino Técnico,Baixo,H,Solteiro,4284,3,Não,20,0,20,2,Muito bom,4,3,1,3
+1008,Sim,29,Viaja frequentemente,14,Ensino Médio,Alto,M,Solteiro,7553,0,Sim,12,0,9,1,Muito bom,8,7,7,7
+1009,Não,54,Viaja raramente,1,Ensino Superior,Muito Alto,M,Solteiro,17328,6,Não,19,0,29,3,Bom,20,7,12,7
+1010,Não,58,Viaja raramente,1,Ensino Superior,Muito Alto,M,Casado,19701,3,Sim,21,1,32,3,Muito bom,9,8,1,5
+1011,Não,55,Viaja raramente,1,Mestrado,Médio,H,Divorciado,14732,2,Não,13,2,31,4,Excelente,7,7,0,0
+1012,Não,36,Viaja raramente,3,Mestrado,Baixo,M,Solteiro,9278,3,Sim,16,0,15,3,Muito bom,5,4,0,1
+1013,Sim,31,Viaja frequentemente,1,Mestrado,Médio,M,Solteiro,1359,1,Não,12,0,1,3,Muito bom,1,0,0,0
+1014,Não,30,Viaja raramente,7,Mestrado,Muito Alto,M,Divorciado,4779,7,Não,14,2,8,3,Muito bom,3,2,0,2
+1015,Não,31,Viaja raramente,8,Doutorado,Baixo,M,Solteiro,16422,3,Não,11,0,9,3,Excelente,3,2,1,0
+1016,Não,34,Viaja frequentemente,1,Mestrado,Muito Alto,H,Divorciado,2996,5,Não,14,2,10,2,Muito bom,4,3,1,3
+1017,Sim,31,Viaja raramente,8,Ensino Superior,Baixo,M,Solteiro,1261,1,Não,12,0,1,3,Excelente,1,0,0,0
+1018,Não,27,Viaja raramente,11,Ensino Médio,Médio,H,Casado,2099,0,Não,14,0,6,3,Excelente,5,0,1,4
+1019,Não,36,Viaja raramente,4,Mestrado,Baixo,H,Solteiro,5810,1,Não,16,0,10,2,Bom,10,4,1,8
+1020,Não,36,Viaja raramente,16,Mestrado,Alto,M,Casado,5647,4,Não,13,2,11,3,Bom,3,2,0,2
+1021,Não,47,Viaja raramente,1,Ensino Superior,Baixo,H,Casado,3420,7,Não,12,1,17,2,Bom,6,5,1,2
+1022,Sim,25,Viaja raramente,9,Ensino Técnico,Baixo,H,Casado,4400,3,Não,12,0,6,2,Muito bom,3,2,2,2
+1023,Não,37,Não viaja,5,Ensino Técnico,Alto,H,Solteiro,3500,0,Não,14,0,7,2,Ruim,6,5,1,3
+1024,Não,56,Viaja raramente,1,Ensino Técnico,Baixo,M,Casado,2066,2,Não,22,1,5,3,Excelente,3,2,1,0
+1025,Não,47,Viaja raramente,2,Mestrado,Baixo,M,Casado,17169,3,Não,19,2,26,2,Excelente,20,17,5,6
+1026,Não,24,Viaja raramente,4,Ensino Médio,Muito Alto,M,Casado,4162,1,Sim,12,2,5,3,Muito bom,5,4,0,3
+1027,Não,32,Viaja raramente,7,Doutorado,Muito Alto,H,Casado,9204,4,Não,12,1,7,3,Bom,4,3,0,3
+1028,Não,34,Viaja raramente,1,Ensino Superior,Muito Alto,M,Casado,3294,5,Não,17,1,7,2,Bom,5,4,0,2
+1029,Não,41,Viaja raramente,5,Doutorado,Médio,H,Casado,2127,2,Sim,12,0,7,5,Bom,4,2,0,3
+1030,Não,40,Não viaja,9,Mestrado,Alto,H,Divorciado,3975,3,Não,11,2,11,2,Excelente,8,7,0,7
+1031,Não,31,Viaja raramente,8,Ensino Técnico,Baixo,H,Divorciado,10793,1,Não,18,1,13,5,Muito bom,13,7,9,9
+1032,Sim,46,Viaja raramente,9,Ensino Superior,Baixo,H,Divorciado,10096,4,Não,11,1,28,1,Excelente,7,7,4,3
+1033,Sim,39,Não viaja,2,Ensino Superior,Baixo,M,Solteiro,3646,2,Sim,23,0,11,2,Excelente,1,0,0,0
+1034,Sim,31,Viaja frequentemente,1,Doutorado,Alto,M,Solteiro,7446,1,Não,11,0,10,2,Muito bom,10,8,4,7
+1035,Não,45,Viaja raramente,20,Ensino Superior,Médio,H,Divorciado,10851,2,Sim,18,1,24,2,Muito bom,7,7,0,7
+1036,Não,31,Viaja raramente,8,Ensino Técnico,Muito Alto,M,Solteiro,2109,9,Não,18,0,8,3,Muito bom,3,2,0,2
+1037,Sim,31,Viaja frequentemente,2,Ensino Superior,Médio,H,Casado,3722,6,Sim,13,1,7,2,Ruim,2,2,2,2
+1038,Não,45,Viaja raramente,29,Ensino Superior,Médio,H,Casado,9380,4,Sim,18,2,10,4,Excelente,3,1,1,2
+1039,Não,48,Viaja raramente,7,Ensino Superior,Alto,H,Divorciado,5486,4,Não,11,3,15,3,Muito bom,2,2,2,2
+1040,Sim,34,Viaja raramente,9,Mestrado,Baixo,M,Casado,2742,1,Não,15,0,2,0,Muito bom,2,2,2,2
+1041,Não,40,Não viaja,8,Ensino Médio,Muito Alto,H,Divorciado,13757,2,Não,11,1,16,5,Muito bom,9,8,4,8
+1042,Não,28,Viaja raramente,5,Ensino Superior,Muito Alto,H,Solteiro,8463,0,Não,18,0,6,4,Muito bom,5,4,1,3
+1043,Não,44,Não viaja,5,Ensino Superior,Alto,H,Solteiro,3162,3,Não,14,0,7,5,Muito bom,5,2,0,3
+1044,Não,53,Viaja raramente,2,Ensino Superior,Muito Alto,H,Solteiro,16598,4,Não,12,0,35,2,Bom,9,8,8,8
+1045,Não,49,Viaja raramente,5,Mestrado,Baixo,H,Casado,6651,2,Não,14,1,20,0,Bom,3,2,1,2
+1046,Não,40,Viaja raramente,2,Ensino Superior,Alto,H,Divorciado,2345,2,Não,14,1,8,3,Excelente,3,1,1,2
+1047,Não,44,Viaja raramente,20,Ensino Superior,Muito Alto,H,Solteiro,3420,1,Não,13,0,6,3,Bom,5,2,1,3
+1048,Não,33,Viaja frequentemente,7,Ensino Superior,Muito Alto,H,Casado,4373,0,Não,14,2,5,2,Muito bom,4,3,0,3
+1049,Não,34,Viaja raramente,3,Ensino Superior,Muito Alto,H,Solteiro,4759,3,Não,18,0,15,2,Muito bom,13,9,3,12
+1050,Não,30,Viaja raramente,16,Ensino Médio,Muito Alto,H,Casado,5301,8,Não,15,2,4,2,Bom,2,1,2,2
+1051,Não,42,Viaja frequentemente,9,Ensino Técnico,Baixo,M,Solteiro,3673,1,Não,13,0,12,3,Muito bom,12,9,5,8
+1052,Não,44,Viaja frequentemente,1,Doutorado,Baixo,M,Casado,4768,7,Não,12,1,11,4,Bom,1,0,0,0
+1053,Não,30,Não viaja,7,Ensino Superior,Alto,H,Divorciado,1274,1,Não,13,2,1,2,Bom,1,0,0,0
+1054,Não,57,Viaja raramente,1,Ensino Técnico,Médio,H,Casado,4900,0,Não,24,1,13,2,Bom,12,9,2,8
+1055,Não,49,Viaja raramente,7,Mestrado,Alto,H,Divorciado,10466,3,Não,14,2,29,3,Muito bom,8,7,0,7
+1056,Não,34,Viaja frequentemente,15,Ensino Superior,Médio,H,Divorciado,17007,7,Não,14,2,16,3,Bom,14,8,6,9
+1057,Sim,28,Viaja frequentemente,1,Ensino Superior,Baixo,H,Casado,2909,3,Não,15,1,5,3,Excelente,3,2,1,2
+1058,Sim,29,Viaja frequentemente,13,Ensino Superior,Baixo,M,Solteiro,5765,5,Não,11,0,7,4,Ruim,5,3,0,0
+1059,Sim,34,Viaja raramente,24,Mestrado,Baixo,M,Solteiro,4599,0,Sim,23,0,16,2,Excelente,15,9,10,10
+1060,Não,35,Viaja raramente,7,Ensino Médio,Muito Alto,H,Casado,2404,1,Não,13,1,1,3,Muito bom,1,0,0,0
+1061,Sim,24,Viaja frequentemente,9,Ensino Superior,Médio,H,Solteiro,3172,2,Sim,11,0,4,2,Bom,0,0,0,0
+1062,Não,24,Não viaja,13,Ensino Técnico,Muito Alto,M,Casado,2033,1,Não,13,1,1,2,Muito bom,1,0,0,0
+1063,Não,44,Viaja frequentemente,2,Ensino Médio,Médio,H,Solteiro,10209,5,Sim,18,0,16,2,Bom,2,2,2,2
+1064,Não,29,Viaja raramente,19,Ensino Superior,Alto,H,Divorciado,8620,1,Não,14,2,10,3,Muito bom,10,7,0,4
+1065,Não,30,Viaja raramente,1,Ensino Superior,Alto,H,Divorciado,2064,0,Não,21,1,6,3,Excelente,5,3,1,3
+1066,Não,55,Viaja raramente,4,Mestrado,Muito Alto,H,Casado,4035,0,Sim,16,0,4,2,Muito bom,3,2,1,2
+1067,Não,33,Viaja raramente,4,Mestrado,Baixo,M,Casado,3838,8,Não,11,0,8,5,Muito bom,5,4,0,2
+1068,Não,47,Viaja raramente,14,Ensino Superior,Alto,M,Casado,4591,3,Sim,17,1,11,4,Bom,5,4,1,2
+1069,Sim,28,Viaja frequentemente,2,Ensino Técnico,Alto,H,Solteiro,2561,7,Não,11,0,8,2,Bom,0,0,0,0
+1070,Não,28,Viaja raramente,1,Ensino Superior,Baixo,H,Divorciado,1563,1,Não,14,1,1,2,Ruim,1,0,0,0
+1071,Não,28,Viaja frequentemente,7,Ensino Superior,Alto,H,Solteiro,4898,0,Não,14,0,5,5,Muito bom,4,2,1,3
+1072,Não,49,Viaja raramente,3,Ensino Técnico,Alto,M,Casado,4789,4,Não,25,1,10,3,Muito bom,3,2,1,2
+1073,Não,29,Viaja frequentemente,2,Ensino Médio,Muito Alto,M,Casado,3180,0,Não,13,3,4,3,Muito bom,3,2,0,2
+1074,Não,28,Viaja raramente,29,Ensino Médio,Alto,H,Casado,6549,1,Não,14,2,8,2,Bom,8,6,1,7
+1075,Não,33,Viaja raramente,8,Doutorado,Muito Alto,H,Solteiro,6388,2,Sim,17,0,14,6,Muito bom,0,0,0,0
+1076,Não,32,Viaja raramente,10,Ensino Superior,Alto,H,Solteiro,11244,2,Não,25,0,10,5,Excelente,5,2,0,0
+1077,Não,54,Viaja frequentemente,11,Mestrado,Médio,M,Divorciado,16032,3,Não,20,1,26,2,Muito bom,14,9,1,12
+1078,Sim,29,Viaja raramente,1,Mestrado,Baixo,H,Solteiro,2362,6,Não,13,0,11,2,Ruim,9,7,0,7
+1079,Não,44,Viaja raramente,28,Ensino Superior,Muito Alto,H,Casado,16328,3,Não,13,1,24,1,Excelente,20,6,14,17
+1080,Não,39,Viaja raramente,6,Ensino Superior,Médio,M,Solteiro,8376,4,Não,18,0,9,3,Muito bom,2,0,2,2
+1081,Não,46,Viaja raramente,3,Ensino Superior,Alto,M,Casado,16606,8,Não,12,1,23,2,Excelente,13,12,5,1
+1082,Não,35,Viaja raramente,16,Ensino Superior,Muito Alto,M,Solteiro,8606,1,Não,19,0,11,3,Ruim,11,8,3,3
+1083,Não,23,Viaja raramente,20,Ensino Médio,Baixo,H,Solteiro,2272,0,Não,14,0,5,2,Muito bom,4,3,1,2
+1084,Sim,40,Viaja raramente,9,Mestrado,Muito Alto,H,Solteiro,2018,3,Não,14,0,15,3,Ruim,5,4,1,0
+1085,Não,34,Viaja raramente,1,Ensino Superior,Muito Alto,H,Casado,7083,1,Sim,14,0,10,3,Muito bom,10,9,8,6
+1086,Sim,31,Viaja frequentemente,3,Ensino Superior,Muito Alto,M,Solteiro,4084,1,Não,12,0,7,2,Ruim,7,2,7,7
+1087,Não,50,Viaja frequentemente,22,Doutorado,Alto,H,Solteiro,14411,1,Sim,13,0,32,2,Muito bom,32,6,13,9
+1088,Não,34,Viaja raramente,7,Ensino Técnico,Médio,H,Casado,2308,0,Sim,25,1,12,4,Muito bom,11,10,5,7
+1089,Não,42,Viaja raramente,2,Ensino Superior,Alto,H,Casado,4841,4,Não,14,1,4,3,Muito bom,1,0,0,0
+1090,Não,37,Viaja raramente,13,Ensino Superior,Baixo,H,Casado,4285,1,Não,17,0,10,2,Muito bom,10,8,3,7
+1091,Não,29,Viaja raramente,8,Ensino Médio,Alto,M,Casado,9715,3,Não,13,1,9,3,Muito bom,7,7,0,7
+1092,Não,33,Viaja raramente,25,Ensino Superior,Muito Alto,H,Solteiro,4320,1,Não,13,0,5,2,Muito bom,5,3,0,2
+1093,Não,45,Viaja raramente,28,Ensino Superior,Muito Alto,H,Casado,2132,4,Não,20,1,8,3,Muito bom,5,4,0,3
+1094,Não,42,Viaja frequentemente,2,Ensino Superior,Muito Alto,H,Casado,10124,2,Sim,14,1,24,3,Ruim,20,8,13,9
+1095,Não,40,Viaja raramente,9,Ensino Técnico,Baixo,H,Casado,5473,0,Não,12,0,9,5,Excelente,8,4,7,1
+1096,Não,33,Viaja raramente,28,Mestrado,Médio,H,Casado,5207,1,Sim,12,1,15,3,Muito bom,15,14,5,7
+1097,Não,40,Viaja raramente,6,Ensino Técnico,Alto,H,Solteiro,16437,1,Sim,21,0,21,2,Muito bom,21,7,7,7
+1098,Não,24,Viaja raramente,21,Ensino Técnico,Alto,H,Divorciado,2296,0,Não,14,3,2,3,Muito bom,1,1,0,0
+1099,Não,40,Não viaja,8,Ensino Técnico,Muito Alto,H,Divorciado,4069,3,Sim,18,0,8,2,Muito bom,2,2,2,2
+1100,Não,45,Viaja raramente,1,Mestrado,Baixo,H,Divorciado,7441,1,Não,12,3,10,4,Muito bom,10,8,7,7
+1101,Não,35,Viaja raramente,28,Mestrado,Médio,M,Casado,2430,0,Não,23,2,6,5,Muito bom,5,3,4,2
+1102,Não,32,Viaja raramente,5,Ensino Técnico,Muito Alto,M,Casado,5878,3,Não,12,1,12,2,Muito bom,7,1,2,5
+1103,Não,36,Viaja raramente,2,Mestrado,Alto,H,Solteiro,2644,3,Sim,21,0,7,3,Bom,3,2,1,2
+1104,Não,48,Viaja raramente,16,Mestrado,Alto,M,Divorciado,6439,8,Não,14,1,18,2,Muito bom,8,7,7,7
+1105,Não,29,Viaja raramente,9,Ensino Superior,Alto,H,Casado,2451,6,Não,18,2,5,2,Bom,1,0,0,0
+1106,Não,33,Viaja raramente,8,Mestrado,Baixo,H,Casado,6392,2,Não,13,1,8,6,Ruim,2,2,2,2
+1107,Sim,30,Viaja raramente,1,Ensino Superior,Médio,H,Casado,9714,1,Não,11,1,10,4,Muito bom,10,8,6,7
+1108,Não,38,Viaja frequentemente,10,Mestrado,Alto,H,Casado,6077,3,Não,11,0,10,2,Muito bom,6,3,1,2
+1109,Não,35,Viaja raramente,1,Ensino Superior,Muito Alto,H,Solteiro,2450,1,Não,19,0,3,3,Muito bom,3,0,1,2
+1110,Não,30,Viaja raramente,29,Mestrado,Alto,H,Casado,9250,3,Não,12,1,9,3,Muito bom,4,2,1,3
+1111,Sim,35,Viaja raramente,2,Ensino Superior,Baixo,M,Divorciado,2074,1,Sim,12,1,1,2,Muito bom,1,0,0,0
+1112,Sim,53,Viaja raramente,2,Doutorado,Alto,M,Casado,10169,0,Não,16,1,34,4,Muito bom,33,7,1,9
+1113,Sim,38,Viaja raramente,2,Ensino Superior,Alto,H,Casado,4855,4,Não,11,2,7,2,Muito bom,5,2,1,4
+1114,Não,32,Não viaja,1,Mestrado,Muito Alto,H,Casado,4087,4,Não,14,1,9,3,Bom,6,5,1,2
+1115,Não,48,Viaja raramente,15,Mestrado,Alto,M,Casado,2367,8,Não,12,1,10,3,Bom,8,2,7,6
+1116,Não,34,Viaja raramente,7,Mestrado,Baixo,H,Solteiro,2972,1,Não,13,0,1,4,Ruim,1,0,0,0
+1117,Não,55,Viaja raramente,26,Doutorado,Alto,H,Casado,19586,1,Não,21,1,36,3,Muito bom,36,6,2,13
+1118,Não,34,Viaja raramente,1,Mestrado,Médio,H,Casado,5484,9,Não,17,1,9,3,Bom,2,2,2,1
+1119,Não,26,Viaja raramente,3,Ensino Superior,Baixo,M,Casado,2061,1,Não,21,0,1,5,Muito bom,1,0,0,0
+1120,Não,38,Viaja raramente,14,Ensino Superior,Alto,H,Casado,9924,0,Não,11,1,10,3,Muito bom,9,8,7,7
+1121,Não,38,Viaja raramente,16,Ensino Superior,Médio,M,Solteiro,4198,2,Não,12,0,8,5,Excelente,3,2,1,2
+1122,Não,36,Viaja raramente,1,Mestrado,Médio,M,Solteiro,6815,6,Não,13,0,15,5,Muito bom,1,0,0,0
+1123,Não,29,Viaja raramente,3,Ensino Médio,Médio,H,Solteiro,4723,1,Sim,18,0,10,3,Muito bom,10,9,1,5
+1124,Não,35,Viaja raramente,10,Mestrado,Baixo,M,Solteiro,6142,3,Sim,16,0,10,4,Muito bom,5,2,0,4
+1125,Não,39,Viaja raramente,6,Ensino Superior,Muito Alto,H,Casado,8237,2,Não,11,1,11,3,Muito bom,7,6,7,6
+1126,Não,29,Viaja frequentemente,2,Ensino Médio,Baixo,H,Divorciado,8853,1,Não,19,1,6,0,Excelente,6,4,1,3
+1127,Não,50,Viaja raramente,9,Ensino Superior,Alto,H,Casado,19331,4,Sim,16,1,27,2,Muito bom,1,0,0,0
+1128,Não,23,Viaja raramente,10,Ensino Superior,Muito Alto,H,Casado,2073,2,Não,16,1,4,2,Muito bom,2,2,2,2
+1129,Não,36,Viaja frequentemente,6,Mestrado,Baixo,H,Casado,5562,3,Sim,13,1,9,3,Muito bom,3,2,0,2
+1130,Não,42,Viaja raramente,9,Ensino Técnico,Muito Alto,H,Solteiro,19613,8,Não,22,0,24,2,Muito bom,1,0,0,1
+1131,Não,35,Viaja raramente,28,Ensino Superior,Médio,H,Casado,3407,1,Não,17,2,10,3,Bom,10,9,6,8
+1132,Não,34,Viaja frequentemente,10,Mestrado,Muito Alto,H,Casado,5063,1,Não,14,1,8,3,Bom,8,2,7,7
+1133,Não,40,Viaja raramente,14,Ensino Técnico,Muito Alto,M,Casado,4639,1,Não,15,1,5,2,Muito bom,5,4,1,2
+1134,Não,43,Viaja raramente,27,Ensino Superior,Muito Alto,H,Divorciado,4876,5,Não,12,1,8,0,Muito bom,6,4,0,2
+1135,Não,35,Viaja raramente,7,Ensino Técnico,Alto,H,Casado,2690,1,Não,18,1,1,5,Bom,1,0,0,1
+1136,Não,46,Viaja raramente,1,Mestrado,Muito Alto,H,Solteiro,17567,1,Não,15,0,27,5,Ruim,26,0,0,12
+1137,Sim,28,Viaja raramente,24,Ensino Superior,Alto,H,Casado,2408,1,Sim,17,3,1,3,Muito bom,1,1,0,0
+1138,Não,22,Não viaja,26,Ensino Técnico,Médio,M,Casado,2814,1,Sim,14,0,4,2,Bom,4,2,1,3
+1139,Não,50,Viaja frequentemente,20,Doutorado,Médio,H,Casado,11245,2,Sim,15,1,32,3,Muito bom,30,8,12,13
+1140,Não,32,Viaja raramente,5,Mestrado,Médio,M,Casado,3312,3,Não,17,2,6,3,Muito bom,3,2,0,2
+1141,Não,44,Viaja raramente,7,Ensino Superior,Médio,M,Divorciado,19049,0,Sim,14,1,23,4,Bom,22,7,1,10
+1142,Não,30,Viaja raramente,7,Ensino Superior,Médio,H,Casado,2141,1,Não,12,1,6,3,Bom,6,4,1,1
+1143,Não,45,Viaja raramente,5,Doutorado,Alto,M,Solteiro,5769,1,Sim,14,0,10,3,Muito bom,10,7,1,4
+1144,Não,45,Não viaja,26,Ensino Superior,Baixo,H,Casado,4385,1,Não,15,1,10,2,Muito bom,10,7,4,5
+1145,Não,31,Viaja frequentemente,2,Mestrado,Muito Alto,H,Solteiro,5332,7,Não,13,0,10,3,Muito bom,5,2,0,3
+1146,Não,36,Viaja raramente,12,Mestrado,Alto,M,Casado,4663,9,Sim,12,2,7,2,Muito bom,3,2,1,1
+1147,Não,34,Viaja frequentemente,10,Mestrado,Alto,H,Divorciado,4724,1,Não,13,1,9,3,Muito bom,9,7,7,2
+1148,Não,49,Viaja raramente,25,Mestrado,Alto,M,Casado,3211,1,Não,14,1,10,3,Bom,9,6,1,4
+1149,Não,39,Viaja raramente,10,Doutorado,Médio,H,Casado,5377,2,Não,13,3,10,3,Muito bom,7,7,7,7
+1150,Não,27,Viaja raramente,19,Ensino Superior,Muito Alto,H,Divorciado,4066,1,Não,11,2,7,3,Muito bom,7,7,0,7
+1151,Não,35,Viaja raramente,18,Doutorado,Médio,H,Casado,5208,1,Não,11,0,16,2,Muito bom,16,15,1,10
+1152,Não,28,Viaja raramente,27,Ensino Superior,Médio,M,Divorciado,4877,0,Não,21,1,6,5,Bom,5,3,0,0
+1153,Não,21,Viaja raramente,5,Ensino Médio,Alto,H,Solteiro,3117,1,Não,18,0,3,2,Muito bom,2,2,2,2
+1154,Sim,18,Viaja frequentemente,3,Ensino Técnico,Médio,M,Solteiro,1569,1,Sim,12,0,0,2,Excelente,0,0,0,0
+1155,Não,47,Viaja raramente,26,Mestrado,Muito Alto,M,Casado,19658,3,Não,11,1,27,2,Muito bom,5,2,1,0
+1156,Não,39,Viaja raramente,3,Ensino Técnico,Alto,H,Divorciado,3069,0,Não,15,1,11,3,Muito bom,10,8,0,7
+1157,Não,40,Viaja raramente,15,Ensino Superior,Baixo,M,Casado,10435,1,Não,13,2,18,2,Muito bom,18,15,14,12
+1158,Não,35,Não viaja,8,Mestrado,Alto,M,Casado,4148,1,Não,12,1,15,5,Muito bom,14,11,2,9
+1159,Não,37,Viaja raramente,19,Ensino Superior,Alto,H,Casado,5768,3,Não,17,3,9,2,Bom,4,3,0,2
+1160,Não,39,Viaja frequentemente,4,Ensino Superior,Baixo,M,Solteiro,5042,0,Não,13,0,10,2,Ruim,9,2,3,8
+1161,Não,45,Viaja raramente,2,Ensino Técnico,Muito Alto,M,Divorciado,5770,1,Não,19,2,10,3,Muito bom,10,7,3,9
+1162,Não,38,Viaja raramente,2,Ensino Técnico,Muito Alto,M,Casado,7756,3,Sim,19,1,10,6,Excelente,5,4,0,2
+1163,Sim,35,Viaja raramente,10,Ensino Superior,Muito Alto,H,Casado,10306,9,Não,17,0,15,3,Muito bom,13,12,6,0
+1164,Não,37,Viaja raramente,10,Ensino Superior,Médio,M,Casado,3936,1,Não,11,1,8,2,Ruim,8,4,7,7
+1165,Não,40,Viaja raramente,16,Ensino Superior,Alto,M,Solteiro,7945,6,Sim,15,0,18,2,Bom,4,2,3,3
+1166,Não,44,Viaja frequentemente,1,Doutorado,Baixo,H,Casado,5743,4,Sim,11,0,14,3,Muito bom,10,7,0,2
+1167,Não,48,Viaja frequentemente,4,Doutorado,Alto,H,Casado,15202,2,Não,25,1,23,3,Muito bom,2,2,2,2
+1168,Sim,35,Viaja raramente,15,Ensino Técnico,Baixo,H,Divorciado,5440,6,Sim,14,2,7,2,Bom,2,2,2,2
+1169,Não,24,Viaja frequentemente,2,Ensino Médio,Baixo,M,Solteiro,3760,1,Sim,13,0,6,2,Muito bom,6,3,1,3
+1170,Não,27,Viaja raramente,8,Ensino Superior,Médio,M,Casado,3517,7,Não,17,0,5,0,Muito bom,3,2,0,2
+1171,Não,27,Viaja frequentemente,2,Ensino Superior,Muito Alto,H,Solteiro,2580,2,Não,13,0,6,0,Bom,4,2,1,2
+1172,Sim,40,Viaja raramente,7,Ensino Superior,Baixo,H,Solteiro,2166,3,Sim,14,0,10,3,Ruim,4,2,0,3
+1173,Não,29,Viaja raramente,10,Ensino Superior,Alto,H,Solteiro,5869,9,Não,11,0,8,2,Muito bom,5,2,1,4
+1174,Não,36,Viaja raramente,5,Mestrado,Médio,M,Casado,8008,4,Não,12,2,9,6,Muito bom,3,2,0,2
+1175,Não,25,Viaja frequentemente,2,Ensino Médio,Muito Alto,H,Divorciado,5206,1,Não,17,2,7,6,Muito bom,7,7,0,7
+1176,Não,39,Viaja raramente,12,Ensino Superior,Muito Alto,H,Casado,5295,4,Não,21,0,7,3,Muito bom,5,4,1,0
+1177,Não,49,Viaja raramente,22,Mestrado,Baixo,M,Casado,16413,3,Não,16,2,27,2,Muito bom,4,2,1,2
+1178,Não,50,Viaja raramente,17,Doutorado,Muito Alto,M,Divorciado,13269,5,Não,15,3,19,3,Muito bom,14,11,1,11
+1179,Não,20,Viaja raramente,2,Ensino Superior,Alto,M,Solteiro,2783,1,Não,19,0,2,3,Muito bom,2,2,2,2
+1180,Não,34,Viaja raramente,3,Ensino Superior,Muito Alto,M,Divorciado,5433,1,Não,12,1,11,2,Muito bom,11,8,7,9
+1181,Não,36,Viaja raramente,7,Ensino Superior,Baixo,H,Solteiro,2013,2,Não,11,0,15,4,Muito bom,4,3,1,3
+1182,Não,49,Viaja raramente,6,Ensino Médio,Alto,M,Casado,13966,2,Sim,19,1,30,3,Muito bom,15,11,2,12
+1183,Não,36,Não viaja,1,Mestrado,Muito Alto,M,Casado,4374,0,Não,15,0,4,6,Muito bom,3,2,1,2
+1184,Não,36,Viaja raramente,3,Ensino Técnico,Muito Alto,H,Divorciado,6842,6,Não,20,1,13,3,Muito bom,5,4,0,4
+1185,Não,54,Viaja raramente,22,Doutorado,Médio,M,Casado,17426,3,Não,25,1,36,6,Muito bom,10,8,4,7
+1186,Não,43,Viaja raramente,15,Ensino Técnico,Alto,H,Casado,17603,1,Não,24,1,14,3,Muito bom,14,10,6,11
+1187,Sim,35,Viaja frequentemente,12,Mestrado,Muito Alto,H,Solteiro,4581,3,Sim,24,0,13,2,Excelente,11,9,6,7
+1188,Não,38,Viaja frequentemente,1,Ensino Superior,Muito Alto,H,Casado,4735,7,Não,15,2,19,4,Excelente,13,11,2,9
+1189,Não,29,Viaja raramente,5,Ensino Superior,Baixo,H,Divorciado,4187,1,Sim,13,1,10,3,Bom,10,0,0,9
+1190,Não,33,Viaja raramente,2,Mestrado,Muito Alto,H,Divorciado,5505,1,Não,14,2,6,5,Muito bom,6,2,0,4
+1191,Não,32,Viaja raramente,2,Ensino Superior,Muito Alto,H,Divorciado,5470,0,Não,13,2,10,4,Bom,9,5,1,6
+1192,Não,31,Viaja raramente,5,Mestrado,Baixo,M,Casado,5476,1,Não,11,2,10,2,Muito bom,10,0,0,2
+1193,Não,49,Viaja raramente,16,Ensino Superior,Muito Alto,M,Divorciado,2587,4,Sim,16,1,17,2,Bom,2,2,2,2
+1194,Não,38,Viaja frequentemente,2,Ensino Superior,Muito Alto,M,Solteiro,2440,1,Não,22,0,4,3,Muito bom,4,3,3,3
+1195,Não,47,Viaja raramente,2,Mestrado,Médio,M,Divorciado,15972,6,Não,14,3,29,2,Muito bom,3,2,1,2
+1196,Não,49,Viaja raramente,1,Ensino Superior,Alto,H,Solteiro,15379,4,Não,14,0,23,2,Muito bom,8,7,0,0
+1197,Não,41,Viaja raramente,23,Ensino Técnico,Muito Alto,H,Solteiro,7082,3,Sim,16,0,21,2,Muito bom,2,0,0,2
+1198,Não,20,Viaja raramente,9,Ensino Médio,Muito Alto,H,Solteiro,2728,1,Não,11,0,2,3,Muito bom,2,2,0,2
+1199,Não,33,Não viaja,16,Ensino Superior,Alto,M,Divorciado,5368,1,Sim,25,1,7,2,Muito bom,6,5,1,2
+1200,Não,36,Viaja raramente,26,Mestrado,Baixo,H,Casado,5347,6,Não,14,2,10,2,Bom,3,2,0,2
+1201,Não,44,Viaja raramente,1,Ensino Superior,Alto,M,Divorciado,3195,4,Sim,18,3,8,2,Muito bom,2,2,2,2
+1202,Sim,23,Viaja raramente,8,Ensino Médio,Muito Alto,H,Solteiro,3989,1,Sim,11,0,5,2,Muito bom,5,4,1,2
+1203,Não,38,Viaja raramente,4,Ensino Técnico,Muito Alto,M,Casado,3306,7,Não,19,1,7,5,Bom,0,0,0,0
+1204,Não,53,Viaja raramente,24,Mestrado,Médio,H,Casado,7005,3,Não,15,0,11,2,Muito bom,4,3,1,2
+1205,Sim,48,Viaja frequentemente,7,Ensino Técnico,Muito Alto,M,Casado,2655,2,Sim,11,2,19,3,Muito bom,9,7,7,7
+1206,Sim,32,Viaja raramente,2,Mestrado,Muito Alto,H,Solteiro,1393,1,Não,12,0,1,2,Muito bom,1,0,0,0
+1207,Não,26,Não viaja,7,Ensino Superior,Muito Alto,H,Solteiro,2570,1,Não,20,0,7,5,Muito bom,7,7,5,7
+1208,Não,55,Viaja raramente,22,Ensino Superior,Baixo,H,Divorciado,3537,5,Não,12,1,8,1,Muito bom,4,2,1,2
+1209,Não,34,Viaja raramente,5,Ensino Técnico,Médio,H,Casado,3986,1,Não,14,1,15,3,Excelente,15,10,4,13
+1210,Não,60,Viaja raramente,1,Mestrado,Alto,H,Divorciado,10883,3,Não,20,1,19,2,Excelente,1,0,0,0
+1211,Não,33,Viaja raramente,21,Ensino Superior,Médio,H,Casado,2028,1,Não,18,3,14,6,Muito bom,14,11,2,13
+1212,Não,37,Viaja frequentemente,1,Mestrado,Alto,H,Divorciado,9525,1,Não,14,2,6,2,Bom,6,3,1,3
+1213,Não,34,Viaja raramente,19,Ensino Superior,Médio,M,Casado,2929,1,Não,12,0,10,3,Muito bom,10,9,8,7
+1214,Sim,23,Viaja raramente,7,Ensino Superior,Alto,H,Divorciado,2275,1,Sim,21,1,3,2,Muito bom,3,2,0,2
+1215,Não,44,Viaja raramente,2,Ensino Superior,Alto,M,Casado,7879,1,Sim,19,1,9,2,Muito bom,8,7,6,7
+1216,Não,35,Viaja frequentemente,2,Mestrado,Baixo,H,Solteiro,4930,0,Sim,14,0,6,2,Excelente,5,4,1,4
+1217,Não,43,Viaja raramente,2,Ensino Superior,Muito Alto,H,Casado,7847,1,Sim,17,1,10,3,Muito bom,10,9,8,8
+1218,Não,24,Viaja raramente,9,Ensino Superior,Alto,H,Casado,4401,1,Não,16,1,5,1,Muito bom,5,3,0,4
+1219,Não,41,Viaja raramente,6,Ensino Superior,Muito Alto,H,Solteiro,9241,1,Não,12,0,10,3,Muito bom,10,8,8,7
+1220,Não,29,Viaja raramente,9,Mestrado,Muito Alto,M,Casado,2974,9,Não,17,1,9,2,Muito bom,5,3,1,2
+1221,Não,36,Viaja raramente,2,Mestrado,Alto,M,Solteiro,4502,3,Não,15,0,17,2,Bom,13,7,6,7
+1222,Não,45,Não viaja,1,Ensino Médio,Alto,H,Casado,10748,3,Não,23,1,25,3,Bom,23,15,14,4
+1223,Sim,24,Viaja raramente,22,Ensino Médio,Muito Alto,H,Casado,1555,1,Não,11,1,1,2,Muito bom,1,0,0,0
+1224,Sim,47,Viaja frequentemente,9,Ensino Superior,Alto,H,Casado,12936,7,Não,11,0,25,3,Ruim,23,5,14,10
+1225,Não,26,Viaja raramente,17,Mestrado,Muito Alto,H,Casado,2305,1,Não,15,3,3,3,Excelente,3,2,0,2
+1226,Não,45,Viaja raramente,28,Ensino Técnico,Muito Alto,M,Solteiro,16704,1,Não,11,0,21,2,Muito bom,21,6,8,6
+1227,Não,32,Viaja frequentemente,10,Ensino Superior,Baixo,H,Casado,3433,6,Não,13,1,10,3,Bom,5,2,1,3
+1228,Não,31,Viaja raramente,2,Mestrado,Médio,H,Casado,3477,1,Não,14,1,6,2,Excelente,5,2,0,3
+1229,Não,41,Não viaja,4,Ensino Superior,Alto,H,Casado,6430,6,Não,19,1,10,4,Muito bom,3,2,1,2
+1230,Não,40,Viaja raramente,8,Ensino Técnico,Médio,M,Casado,6516,2,Sim,16,1,18,3,Muito bom,1,0,0,0
+1231,Não,24,Viaja raramente,29,Ensino Médio,Médio,H,Divorciado,3907,1,Não,13,3,6,2,Excelente,6,2,1,2
+1232,Não,46,Viaja raramente,13,Mestrado,Alto,H,Solteiro,5562,6,Não,14,0,19,3,Muito bom,10,7,0,9
+1233,Não,35,Viaja raramente,27,Mestrado,Muito Alto,H,Casado,6883,2,Não,16,1,17,3,Muito bom,7,7,0,7
+1234,Não,30,Viaja raramente,16,Ensino Médio,Médio,H,Casado,2862,1,Não,12,1,10,2,Bom,10,0,0,8
+1235,Não,47,Não viaja,2,Mestrado,Alto,H,Casado,4978,7,Não,11,1,4,3,Ruim,1,0,0,0
+1236,Não,46,Viaja raramente,2,Ensino Superior,Alto,H,Divorciado,10368,4,Sim,12,1,13,5,Bom,10,6,0,3
+1237,Sim,36,Viaja raramente,13,Doutorado,Médio,H,Divorciado,6134,5,Sim,13,3,16,3,Muito bom,2,2,2,2
+1238,Sim,32,Viaja raramente,1,Ensino Técnico,Baixo,H,Solteiro,6735,6,Não,15,0,10,2,Muito bom,0,0,0,0
+1239,Não,23,Viaja raramente,4,Ensino Médio,Alto,M,Solteiro,3295,1,Não,13,0,3,3,Ruim,3,2,1,2
+1240,Não,31,Viaja frequentemente,24,Ensino Médio,Muito Alto,M,Solteiro,5238,2,Não,20,0,9,3,Bom,5,4,1,4
+1241,Não,39,Não viaja,1,Ensino Superior,Muito Alto,H,Casado,6472,1,Sim,15,1,9,2,Muito bom,9,8,5,8
+1242,Não,32,Viaja raramente,19,Ensino Superior,Muito Alto,H,Casado,9610,3,Não,13,1,10,2,Ruim,4,3,0,2
+1243,Não,40,Viaja raramente,7,Mestrado,Médio,H,Solteiro,19833,1,Não,14,0,21,3,Bom,21,8,12,8
+1244,Não,45,Viaja raramente,4,Ensino Superior,Alto,M,Casado,9756,4,Não,21,2,9,2,Excelente,5,0,0,3
+1245,Não,30,Viaja frequentemente,2,Mestrado,Muito Alto,M,Solteiro,4968,0,Não,16,0,10,2,Muito bom,9,7,0,7
+1246,Não,24,Viaja frequentemente,10,Ensino Superior,Baixo,H,Casado,2145,0,Não,14,1,3,2,Muito bom,2,2,2,1
+1247,Sim,30,Viaja frequentemente,8,Ensino Superior,Alto,M,Divorciado,2180,6,Não,11,1,6,0,Bom,4,2,1,2
+1248,Não,31,Viaja raramente,5,Ensino Superior,Baixo,H,Casado,8346,1,Não,19,1,6,3,Muito bom,5,2,0,2
+1249,Não,27,Viaja raramente,8,Ensino Superior,Alto,M,Solteiro,3445,1,Não,11,0,6,5,Bom,6,2,1,4
+1250,Sim,29,Viaja raramente,9,Ensino Superior,Médio,M,Solteiro,2760,1,Não,13,0,2,3,Muito bom,2,2,2,2
+1251,Não,29,Viaja frequentemente,1,Ensino Superior,Muito Alto,H,Solteiro,6294,8,Sim,12,0,10,5,Excelente,3,2,0,2
+1252,Não,30,Viaja raramente,15,Ensino Técnico,Alto,H,Divorciado,7140,2,Não,11,1,12,2,Muito bom,7,7,1,7
+1253,Não,34,Viaja raramente,2,Mestrado,Muito Alto,H,Casado,2932,0,Sim,14,3,6,3,Muito bom,5,0,1,2
+1254,Não,33,Não viaja,2,Ensino Superior,Muito Alto,M,Solteiro,5147,8,Não,15,0,13,2,Bom,11,7,1,7
+1255,Não,49,Viaja raramente,11,Mestrado,Muito Alto,M,Solteiro,4507,3,Não,12,0,8,1,Excelente,5,1,0,4
+1256,Sim,33,Viaja raramente,16,Ensino Superior,Baixo,M,Solteiro,8564,2,Sim,20,0,11,2,Bom,0,0,0,0
+1257,Não,38,Viaja frequentemente,2,Ensino Técnico,Alto,M,Casado,2468,4,Não,14,1,9,4,Bom,6,1,0,5
+1258,Sim,31,Viaja raramente,16,Mestrado,Baixo,H,Casado,8161,2,Não,13,3,10,2,Muito bom,1,0,0,0
+1259,Não,29,Viaja raramente,4,Ensino Superior,Muito Alto,M,Divorciado,2109,1,Não,13,1,1,2,Muito bom,1,0,0,0
+1260,Não,30,Viaja raramente,16,Ensino Superior,Alto,H,Casado,5294,3,Não,16,1,10,3,Muito bom,7,0,1,7
+1261,Não,32,Não viaja,5,Mestrado,Médio,H,Solteiro,2718,2,Não,14,0,12,3,Muito bom,7,7,0,7
+1262,Não,38,Viaja raramente,18,Ensino Superior,Médio,H,Casado,5811,3,Sim,16,1,15,2,Muito bom,1,0,1,0
+1263,Sim,43,Viaja frequentemente,17,Ensino Superior,Alto,H,Casado,2437,9,Sim,16,1,6,4,Muito bom,1,0,0,0
+1264,Não,42,Viaja raramente,12,Ensino Superior,Médio,H,Divorciado,2766,8,Não,22,3,7,6,Bom,5,3,0,4
+1265,Não,55,Viaja raramente,2,Ensino Superior,Alto,H,Casado,19038,8,Não,12,3,34,2,Muito bom,1,0,0,0
+1266,Não,33,Não viaja,4,Ensino Superior,Muito Alto,H,Divorciado,3055,5,Não,15,2,11,2,Bom,9,8,1,7
+1267,Não,41,Viaja raramente,9,Mestrado,Alto,H,Divorciado,2289,1,Não,20,2,5,2,Muito bom,5,3,0,4
+1268,Não,34,Não viaja,10,Ensino Superior,Muito Alto,H,Divorciado,4001,1,Sim,14,1,15,3,Muito bom,15,14,0,7
+1269,Não,53,Não viaja,1,Mestrado,Baixo,M,Casado,12965,4,Sim,20,3,27,2,Bom,3,2,0,2
+1270,Não,43,Viaja raramente,2,Ensino Superior,Médio,H,Solteiro,3539,0,Não,13,0,10,5,Muito bom,9,7,1,8
+1271,Não,34,Viaja raramente,3,Ensino Técnico,Muito Alto,M,Solteiro,6029,5,Não,12,0,6,3,Muito bom,2,2,2,2
+1272,Sim,21,Viaja raramente,7,Ensino Médio,Médio,H,Solteiro,2679,1,Não,13,0,1,3,Muito bom,1,0,1,0
+1273,Não,38,Viaja raramente,6,Ensino Técnico,Muito Alto,M,Casado,3702,1,Não,11,1,5,3,Muito bom,5,4,0,4
+1274,Sim,22,Viaja raramente,8,Ensino Médio,Alto,M,Casado,2398,1,Sim,17,0,1,6,Muito bom,1,0,0,0
+1275,Não,31,Viaja raramente,29,Mestrado,Baixo,M,Casado,5468,1,Não,14,2,13,3,Muito bom,12,7,5,7
+1276,Não,51,Viaja raramente,3,Ensino Superior,Baixo,M,Casado,13116,2,Não,11,0,15,2,Muito bom,2,2,2,2
+1277,Não,37,Viaja raramente,9,Ensino Técnico,Médio,H,Casado,4189,1,Não,14,2,5,2,Muito bom,5,2,0,3
+1278,Não,46,Viaja raramente,2,Mestrado,Alto,H,Divorciado,19328,7,Sim,17,1,24,3,Muito bom,2,1,2,2
+1279,Não,36,Viaja raramente,10,Ensino Superior,Muito Alto,H,Casado,8321,7,Sim,13,1,15,1,Muito bom,12,8,5,7
+1280,Sim,44,Viaja frequentemente,1,Ensino Técnico,Alto,H,Divorciado,2342,1,Sim,12,3,6,2,Bom,5,3,2,3
+1281,Não,37,Viaja raramente,8,Ensino Técnico,Alto,H,Divorciado,4071,2,Não,13,0,19,4,Bom,10,0,4,7
+1282,Sim,35,Viaja raramente,27,Ensino Superior,Alto,H,Solteiro,5813,1,Sim,18,0,10,2,Muito bom,10,7,7,7
+1283,Não,33,Viaja raramente,8,Mestrado,Muito Alto,H,Casado,3143,6,Não,19,1,14,1,Muito bom,10,8,7,6
+1284,Não,28,Viaja raramente,1,Ensino Superior,Alto,H,Casado,2044,1,Não,11,1,5,6,Excelente,5,3,0,3
+1285,Não,39,Viaja raramente,10,Ensino Médio,Alto,H,Solteiro,13464,7,Não,21,0,9,3,Muito bom,4,3,2,2
+1286,Não,46,Não viaja,26,Ensino Técnico,Médio,H,Solteiro,7991,8,Não,15,0,6,3,Muito bom,2,2,2,2
+1287,Não,40,Viaja raramente,2,Ensino Técnico,Alto,M,Casado,3377,4,Não,17,1,7,5,Bom,4,3,0,2
+1288,Não,42,Viaja raramente,13,Ensino Superior,Médio,H,Casado,5538,5,Não,18,2,10,2,Bom,0,0,0,0
+1289,Não,35,Não viaja,2,Ensino Técnico,Médio,H,Divorciado,5762,2,Não,14,1,15,6,Muito bom,7,7,1,7
+1290,Não,38,Não viaja,2,Ensino Superior,Baixo,H,Divorciado,2592,5,Não,13,3,13,3,Muito bom,11,10,3,8
+1291,Sim,34,Viaja frequentemente,9,Mestrado,Muito Alto,H,Casado,5346,4,Não,17,1,11,3,Bom,7,1,0,7
+1292,Sim,37,Viaja raramente,10,Mestrado,Muito Alto,H,Solteiro,4213,1,Não,15,0,10,4,Ruim,10,3,0,8
+1293,Não,39,Viaja frequentemente,20,Ensino Superior,Alto,H,Divorciado,4127,2,Não,18,1,7,6,Muito bom,2,1,2,2
+1294,Não,43,Não viaja,9,Ensino Superior,Baixo,H,Solteiro,2438,4,Não,13,0,7,2,Bom,3,2,1,2
+1295,Não,41,Viaja raramente,5,Ensino Superior,Médio,H,Solteiro,6870,3,Não,12,0,11,3,Ruim,3,2,1,2
+1296,Não,41,Viaja raramente,4,Ensino Médio,Alto,M,Divorciado,10447,0,Sim,13,1,23,3,Excelente,22,14,13,5
+1297,Não,30,Viaja raramente,10,Ensino Superior,Baixo,M,Solteiro,9667,9,Não,14,0,9,3,Muito bom,7,7,0,2
+1298,Sim,26,Viaja raramente,20,Ensino Técnico,Muito Alto,M,Casado,2148,0,Sim,11,0,6,3,Muito bom,5,1,1,4
+1299,Sim,46,Viaja raramente,21,Ensino Técnico,Muito Alto,M,Casado,8926,4,Não,22,1,13,2,Excelente,9,7,3,7
+1300,Não,40,Viaja raramente,1,Ensino Superior,Alto,M,Divorciado,6513,4,Não,17,1,12,3,Muito bom,5,3,0,3
+1301,Não,34,Viaja raramente,8,Ensino Técnico,Médio,H,Casado,6799,1,Não,21,2,10,5,Muito bom,10,8,4,8
+1302,Não,58,Não viaja,2,Ensino Superior,Médio,H,Divorciado,16291,4,Não,22,1,37,0,Bom,16,9,14,14
+1303,Não,35,Viaja raramente,23,Mestrado,Médio,H,Casado,2705,0,Não,16,1,6,2,Excelente,5,4,0,3
+1304,Não,47,Viaja raramente,4,Ensino Superior,Alto,M,Divorciado,10333,8,Sim,12,1,28,4,Muito bom,22,11,14,10
+1305,Não,40,Viaja raramente,12,Ensino Superior,Médio,M,Divorciado,4448,2,Não,12,1,15,3,Muito bom,7,4,7,7
+1306,Não,54,Viaja raramente,7,Mestrado,Muito Alto,M,Casado,6854,4,Não,15,1,14,2,Bom,7,1,1,7
+1307,Não,31,Viaja frequentemente,7,Mestrado,Baixo,M,Casado,9637,2,Não,14,2,9,3,Muito bom,3,2,2,2
+1308,Não,28,Viaja raramente,1,Ensino Superior,Alto,M,Casado,3591,1,Não,25,1,3,3,Muito bom,3,2,1,2
+1309,Não,38,Viaja raramente,2,Mestrado,Médio,M,Casado,5405,2,Sim,20,2,20,4,Bom,4,2,0,3
+1310,Não,26,Viaja raramente,10,Ensino Superior,Alto,H,Solteiro,4684,1,Não,13,0,5,4,Muito bom,5,3,1,2
+1311,Não,58,Viaja frequentemente,15,Mestrado,Baixo,H,Casado,15787,2,Sim,14,0,23,3,Muito bom,2,2,2,2
+1312,Não,18,Não viaja,14,Ensino Superior,Médio,M,Solteiro,1514,1,Não,16,0,0,4,Ruim,0,0,0,0
+1313,Sim,31,Viaja raramente,18,Doutorado,Muito Alto,H,Casado,2956,0,Não,17,0,2,4,Muito bom,1,0,0,0
+1314,Sim,29,Viaja raramente,13,Ensino Superior,Baixo,H,Divorciado,2335,4,Sim,15,3,4,3,Muito bom,2,2,2,0
+1315,Não,45,Não viaja,2,Mestrado,Alto,M,Casado,5154,4,Não,22,2,10,3,Excelente,8,7,5,7
+1316,Não,36,Viaja raramente,2,Mestrado,Muito Alto,M,Casado,6962,4,Sim,22,1,15,2,Muito bom,1,0,0,0
+1317,Não,43,Viaja frequentemente,2,Mestrado,Baixo,H,Casado,5675,1,Não,20,1,7,5,Muito bom,7,7,7,7
+1318,Não,27,Viaja frequentemente,5,Ensino Técnico,Muito Alto,M,Solteiro,2379,0,Sim,14,0,6,3,Bom,5,4,0,2
+1319,Não,29,Viaja frequentemente,20,Ensino Médio,Muito Alto,H,Casado,3812,1,Não,13,0,11,3,Excelente,11,8,3,10
+1320,Não,32,Viaja frequentemente,10,Mestrado,Muito Alto,H,Solteiro,4648,8,Não,13,0,4,2,Excelente,0,0,0,0
+1321,Não,42,Não viaja,10,Mestrado,Alto,H,Casado,2936,3,Não,22,2,10,1,Bom,6,3,3,3
+1322,Não,47,Viaja raramente,9,Mestrado,Médio,M,Solteiro,2105,4,Não,12,0,7,2,Muito bom,2,2,2,0
+1323,Não,46,Viaja raramente,2,Ensino Técnico,Muito Alto,H,Divorciado,8578,3,Não,14,1,12,4,Bom,9,8,4,7
+1324,Não,28,Não viaja,1,Ensino Técnico,Alto,H,Divorciado,2706,1,Não,15,1,3,2,Muito bom,3,2,2,2
+1325,Não,29,Viaja raramente,29,Ensino Médio,Muito Alto,H,Divorciado,6384,8,Não,17,2,11,3,Muito bom,7,0,1,6
+1326,Não,42,Viaja raramente,8,Ensino Superior,Muito Alto,H,Solteiro,3968,4,Não,13,0,8,3,Muito bom,0,0,0,0
+1327,Sim,32,Viaja raramente,2,Mestrado,Alto,H,Solteiro,9907,7,Sim,12,0,7,3,Bom,2,2,2,2
+1328,Não,46,Viaja raramente,3,Ensino Superior,Baixo,M,Divorciado,13225,2,Não,12,1,25,5,Muito bom,19,17,2,8
+1329,Não,27,Viaja raramente,23,Ensino Médio,Médio,M,Casado,3540,1,Não,21,1,9,5,Muito bom,9,8,5,8
+1330,Não,29,Viaja raramente,6,Ensino Médio,Muito Alto,H,Casado,2804,1,Não,11,0,1,3,Muito bom,1,0,0,0
+1331,Não,43,Viaja raramente,6,Ensino Superior,Baixo,M,Casado,19392,7,Não,13,0,21,2,Muito bom,16,12,6,14
+1332,Não,48,Viaja raramente,10,Ensino Superior,Muito Alto,H,Casado,19665,4,Não,12,0,29,3,Muito bom,22,10,12,9
+1333,Sim,29,Viaja frequentemente,24,Ensino Técnico,Muito Alto,H,Solteiro,2439,1,Sim,24,0,1,3,Bom,1,0,1,0
+1334,Sim,46,Viaja raramente,10,Ensino Superior,Alto,M,Casado,7314,5,Não,21,3,14,2,Muito bom,8,7,0,7
+1335,Não,27,Viaja frequentemente,15,Ensino Superior,Muito Alto,M,Casado,4774,0,Não,19,1,8,2,Bom,7,6,7,3
+1336,Não,39,Viaja raramente,19,Mestrado,Muito Alto,H,Divorciado,3902,8,Não,14,3,7,2,Muito bom,2,2,2,2
+1337,Não,55,Viaja raramente,2,Mestrado,Médio,H,Casado,2662,8,Não,20,1,19,2,Excelente,5,2,0,4
+1338,Não,28,Viaja raramente,3,Ensino Superior,Médio,M,Casado,2856,1,Não,19,1,1,3,Muito bom,1,0,0,0
+1339,Sim,30,Viaja raramente,9,Ensino Superior,Médio,H,Solteiro,1081,1,Não,13,0,1,3,Bom,1,0,0,0
+1340,Sim,22,Viaja raramente,7,Ensino Médio,Muito Alto,H,Solteiro,2472,1,Sim,23,0,1,2,Muito bom,1,0,0,0
+1341,Não,36,Viaja raramente,10,Mestrado,Médio,M,Casado,5673,1,Sim,13,1,10,4,Muito bom,10,9,1,7
+1342,Não,31,Viaja raramente,20,Ensino Superior,Médio,H,Divorciado,4197,1,Não,11,1,10,2,Muito bom,10,8,0,2
+1343,Não,34,Viaja raramente,4,Ensino Superior,Alto,H,Casado,9713,2,Sim,13,3,9,3,Muito bom,5,3,1,0
+1344,Não,29,Viaja raramente,7,Ensino Superior,Muito Alto,H,Solteiro,2062,3,Não,14,0,11,2,Muito bom,3,2,1,2
+1345,Não,37,Viaja raramente,7,Mestrado,Muito Alto,H,Casado,4284,5,Sim,22,1,16,2,Muito bom,5,3,0,4
+1346,Não,35,Viaja raramente,16,Ensino Técnico,Muito Alto,M,Casado,4788,0,Sim,11,0,4,2,Muito bom,3,2,0,2
+1347,Não,45,Viaja raramente,25,Ensino Técnico,Médio,M,Casado,5906,0,Não,13,2,10,2,Bom,9,8,3,8
+1348,Não,36,Viaja frequentemente,2,Ensino Médio,Médio,H,Solteiro,3886,1,Não,21,0,10,2,Bom,10,1,0,8
+1349,Não,40,Viaja raramente,1,Mestrado,Baixo,H,Divorciado,16823,2,Não,11,1,22,3,Muito bom,19,7,11,16
+1350,Não,26,Viaja raramente,1,Ensino Técnico,Médio,M,Casado,2933,1,Sim,13,1,1,3,Bom,1,0,1,0
+1351,Não,27,Viaja raramente,2,Ensino Técnico,Baixo,M,Solteiro,6500,0,Não,14,0,9,5,Bom,8,7,0,7
+1352,Não,48,Viaja frequentemente,22,Ensino Superior,Muito Alto,M,Divorciado,17174,3,Não,11,1,24,3,Muito bom,22,17,4,7
+1353,Não,44,Viaja raramente,1,Mestrado,Médio,H,Casado,5033,2,Não,15,1,10,5,Muito bom,2,0,2,2
+1354,Sim,34,Não viaja,16,Mestrado,Muito Alto,H,Casado,2307,1,Sim,23,1,5,2,Muito bom,5,2,3,0
+1355,Sim,56,Viaja raramente,24,Ensino Técnico,Baixo,H,Solteiro,2587,1,Não,16,0,5,3,Muito bom,4,2,1,0
+1356,Não,36,Viaja raramente,17,Ensino Técnico,Alto,H,Casado,5507,2,Não,16,2,12,1,Ruim,4,2,1,3
+1357,Não,41,Viaja raramente,8,Ensino Superior,Alto,M,Casado,4393,5,Não,21,1,14,3,Muito bom,5,4,1,4
+1358,Não,42,Viaja raramente,6,Ensino Superior,Alto,H,Casado,13348,9,Não,13,1,18,3,Excelente,13,7,5,7
+1359,Não,31,Viaja raramente,10,Ensino Técnico,Alto,M,Divorciado,6583,2,Sim,11,1,8,2,Muito bom,5,2,1,4
+1360,Não,34,Viaja raramente,3,Ensino Médio,Muito Alto,M,Casado,8103,3,Sim,12,0,9,3,Bom,4,2,0,1
+1361,Não,31,Viaja raramente,4,Ensino Superior,Baixo,M,Divorciado,3978,8,Não,12,1,4,0,Bom,2,2,2,2
+1362,Não,26,Viaja frequentemente,6,Ensino Superior,Alto,H,Casado,2544,0,Não,18,1,8,3,Muito bom,7,7,7,7
+1363,Não,45,Viaja frequentemente,1,Mestrado,Médio,H,Solteiro,5399,4,Não,12,0,12,3,Muito bom,4,2,0,3
+1364,Não,33,Viaja raramente,10,Mestrado,Médio,H,Solteiro,5487,1,Não,14,0,10,2,Bom,10,4,0,9
+1365,Não,28,Viaja frequentemente,1,Ensino Técnico,Alto,H,Casado,6834,1,Sim,12,1,7,2,Muito bom,7,7,0,7
+1366,Sim,29,Viaja frequentemente,24,Ensino Superior,Alto,H,Solteiro,1091,1,Não,17,0,1,3,Muito bom,1,0,0,0
+1367,Não,39,Não viaja,21,Mestrado,Baixo,M,Casado,5736,6,Não,19,1,10,1,Muito bom,3,2,1,2
+1368,Não,27,Viaja raramente,2,Mestrado,Médio,H,Casado,2226,1,Não,11,1,6,3,Bom,5,3,1,2
+1369,Não,34,Viaja frequentemente,22,Mestrado,Alto,H,Casado,5747,1,Sim,15,0,16,3,Muito bom,15,10,6,11
+1370,Sim,28,Viaja raramente,13,Ensino Técnico,Muito Alto,M,Solteiro,9854,3,Sim,11,0,6,0,Muito bom,2,0,2,2
+1371,Não,47,Não viaja,14,Mestrado,Alto,H,Casado,5467,8,Não,18,1,16,4,Excelente,8,7,1,7
+1372,Não,56,Viaja raramente,11,Doutorado,Muito Alto,M,Casado,5380,4,Não,16,1,6,3,Muito bom,0,0,0,0
+1373,Não,39,Viaja raramente,9,Ensino Técnico,Baixo,H,Casado,5151,1,Não,25,1,10,3,Muito bom,10,0,7,9
+1374,Não,38,Viaja frequentemente,8,Ensino Superior,Muito Alto,M,Divorciado,2133,1,Sim,16,1,20,3,Muito bom,20,11,0,7
+1375,Não,58,Viaja raramente,21,Ensino Superior,Muito Alto,M,Casado,17875,4,Sim,13,1,29,2,Bom,1,0,0,0
+1376,Sim,32,Viaja frequentemente,5,Ensino Técnico,Baixo,M,Solteiro,2432,3,Sim,14,0,8,2,Muito bom,4,1,0,3
+1377,Não,38,Viaja raramente,9,Ensino Técnico,Médio,H,Divorciado,4771,2,Não,19,2,10,0,Excelente,5,2,0,3
+1378,Não,49,Viaja frequentemente,2,Ensino Médio,Médio,H,Casado,19161,3,Não,15,0,28,3,Muito bom,5,4,4,3
+1379,Não,42,Viaja raramente,12,Mestrado,Médio,H,Divorciado,5087,3,Sim,12,2,14,4,Muito bom,0,0,0,0
+1380,Sim,27,Viaja frequentemente,22,Ensino Superior,Baixo,M,Casado,2863,1,Não,12,0,1,2,Muito bom,1,0,0,0
+1381,Não,35,Viaja raramente,18,Mestrado,Médio,H,Casado,5561,0,Não,16,1,6,2,Ruim,5,3,0,4
+1382,Não,28,Não viaja,16,Ensino Superior,Alto,H,Solteiro,2144,1,Não,14,0,5,3,Bom,5,3,1,4
+1383,Não,31,Não viaja,3,Ensino Técnico,Alto,H,Divorciado,3065,1,Sim,13,1,4,3,Excelente,4,2,2,3
+1384,Não,36,Não viaja,9,Mestrado,Baixo,H,Casado,2810,1,Não,22,0,5,3,Muito bom,5,4,0,2
+1385,Não,34,Viaja raramente,1,Ensino Superior,Baixo,H,Solteiro,9888,1,Não,21,0,14,3,Bom,14,8,2,1
+1386,Não,34,Viaja raramente,13,Mestrado,Muito Alto,H,Divorciado,8628,1,Não,18,1,9,2,Bom,8,7,1,1
+1387,Não,26,Viaja raramente,1,Ensino Superior,Alto,H,Solteiro,2867,0,Não,13,0,8,6,Bom,7,7,7,6
+1388,Não,29,Viaja raramente,1,Ensino Superior,Baixo,H,Casado,5373,0,Não,12,1,6,5,Bom,5,3,0,2
+1389,Não,32,Não viaja,15,Mestrado,Alto,M,Divorciado,6667,5,Não,18,1,9,6,Muito bom,5,1,1,2
+1390,Não,31,Viaja frequentemente,1,Ensino Superior,Muito Alto,H,Casado,5003,1,Não,21,0,10,6,Muito bom,10,8,8,7
+1391,Sim,28,Viaja raramente,17,Ensino Superior,Alto,H,Divorciado,2367,5,Não,12,1,6,2,Bom,4,1,0,3
+1392,Não,38,Viaja raramente,1,Ensino Superior,Baixo,H,Solteiro,2858,4,Não,14,0,20,3,Bom,1,0,0,0
+1393,Não,35,Viaja raramente,7,Mestrado,Alto,M,Casado,5204,1,Sim,11,0,10,2,Muito bom,10,8,0,9
+1394,Não,27,Viaja raramente,9,Ensino Superior,Muito Alto,H,Solteiro,4105,1,Não,14,0,7,5,Muito bom,7,7,0,7
+1395,Não,32,Viaja raramente,5,Mestrado,Muito Alto,H,Solteiro,9679,8,Não,24,0,8,1,Muito bom,1,0,0,0
+1396,Sim,31,Viaja frequentemente,26,Mestrado,Baixo,H,Casado,5617,1,Sim,11,0,10,4,Muito bom,10,7,0,8
+1397,Sim,53,Viaja raramente,24,Mestrado,Baixo,H,Solteiro,10448,6,Sim,13,0,15,2,Bom,2,2,2,2
+1398,Não,54,Viaja raramente,9,Ensino Técnico,Baixo,M,Casado,2897,3,Não,11,2,9,6,Bom,4,3,2,3
+1399,Não,33,Viaja frequentemente,7,Ensino Técnico,Muito Alto,H,Divorciado,5968,1,Não,20,3,9,2,Muito bom,9,7,2,8
+1400,Não,43,Viaja raramente,11,Ensino Superior,Baixo,H,Casado,7510,1,Não,17,1,10,1,Muito bom,10,9,0,9
+1401,Não,38,Viaja frequentemente,1,Mestrado,Muito Alto,H,Casado,2991,0,Sim,11,1,7,2,Muito bom,6,2,1,2
+1402,Não,55,Viaja raramente,26,Mestrado,Alto,H,Casado,19636,4,Sim,18,1,35,0,Muito bom,10,9,1,4
+1403,Não,31,Viaja raramente,2,Ensino Médio,Muito Alto,M,Divorciado,1129,1,Sim,11,3,1,4,Muito bom,1,0,0,0
+1404,Não,39,Viaja raramente,15,Mestrado,Médio,H,Solteiro,13341,0,Não,12,0,21,3,Muito bom,20,8,11,10
+1405,Não,42,Não viaja,23,Ensino Técnico,Muito Alto,H,Solteiro,4332,1,Não,12,0,20,2,Muito bom,20,9,3,7
+1406,Não,31,Não viaja,10,Ensino Superior,Alto,M,Casado,11031,4,Não,20,1,13,2,Excelente,11,7,4,8
+1407,Não,54,Viaja raramente,10,Ensino Superior,Alto,M,Solteiro,4440,6,Sim,19,0,9,3,Muito bom,5,2,1,4
+1408,Não,24,Viaja raramente,1,Ensino Técnico,Médio,H,Solteiro,4617,1,Não,12,0,4,2,Bom,4,3,1,2
+1409,Não,23,Viaja raramente,12,Ensino Técnico,Muito Alto,H,Solteiro,2647,1,Não,13,0,5,6,Excelente,5,2,1,4
+1410,Não,40,Viaja frequentemente,11,Ensino Superior,Muito Alto,M,Casado,6323,1,Não,11,1,10,2,Excelente,10,9,9,4
+1411,Não,40,Viaja raramente,2,Ensino Técnico,Médio,M,Casado,5677,3,Não,14,1,15,4,Muito bom,11,8,5,10
+1412,Não,25,Viaja raramente,2,Ensino Superior,Alto,M,Casado,2187,4,Não,14,0,6,3,Muito bom,2,0,1,2
+1413,Não,30,Viaja raramente,1,Ensino Técnico,Muito Alto,H,Casado,3748,1,Não,13,0,12,6,Bom,12,8,1,7
+1414,Não,25,Viaja raramente,2,Ensino Médio,Muito Alto,H,Divorciado,3977,6,Sim,19,1,7,2,Bom,2,2,0,2
+1415,Não,47,Viaja raramente,25,Ensino Superior,Baixo,H,Solteiro,8633,2,Não,23,0,25,3,Muito bom,17,14,12,11
+1416,Não,33,Não viaja,1,Ensino Técnico,Médio,H,Divorciado,2008,1,Não,12,3,1,2,Bom,1,1,0,0
+1417,Não,38,Viaja raramente,1,Mestrado,Muito Alto,H,Casado,4440,0,Não,15,2,16,3,Muito bom,15,13,5,8
+1418,Não,31,Viaja raramente,2,Ensino Técnico,Baixo,H,Casado,3067,0,Não,19,1,3,1,Muito bom,2,2,1,2
+1419,Não,38,Viaja frequentemente,6,Mestrado,Baixo,H,Casado,5321,2,Não,11,1,10,1,Muito bom,8,3,7,7
+1420,Não,42,Viaja raramente,18,Mestrado,Muito Alto,H,Divorciado,5410,6,Sim,17,1,9,3,Bom,4,3,1,2
+1421,Não,41,Viaja raramente,1,Ensino Superior,Muito Alto,H,Casado,2782,3,Não,22,1,12,3,Muito bom,5,3,1,0
+1422,Não,47,Não viaja,1,Ensino Médio,Alto,M,Casado,11957,0,Não,18,2,14,3,Ruim,13,8,5,12
+1423,Não,35,Viaja raramente,11,Mestrado,Muito Alto,H,Casado,2660,7,Sim,11,1,5,3,Muito bom,2,2,2,2
+1424,Não,22,Viaja raramente,1,Ensino Técnico,Muito Alto,H,Solteiro,3375,0,Não,12,0,4,2,Excelente,3,2,1,2
+1425,Não,35,Viaja raramente,9,Mestrado,Médio,H,Solteiro,5098,1,Não,19,0,10,5,Muito bom,10,7,0,8
+1426,Não,33,Viaja raramente,15,Ensino Técnico,Médio,M,Casado,4878,0,Sim,13,1,10,6,Muito bom,9,7,8,1
+1427,Não,32,Viaja raramente,29,Mestrado,Alto,M,Solteiro,2837,1,Não,13,0,6,3,Muito bom,6,2,4,1
+1428,Não,40,Viaja raramente,1,Mestrado,Baixo,H,Casado,2406,8,Não,19,2,8,3,Bom,1,0,0,0
+1429,Não,32,Viaja raramente,1,Mestrado,Médio,H,Casado,2269,0,Não,14,1,3,2,Muito bom,2,2,2,2
+1430,Não,39,Viaja raramente,24,Ensino Médio,Baixo,H,Solteiro,4108,7,Não,13,0,18,2,Muito bom,7,7,1,7
+1431,Não,38,Viaja raramente,10,Ensino Superior,Médio,M,Casado,13206,3,Não,12,1,20,3,Muito bom,18,16,1,11
+1432,Não,32,Viaja raramente,1,Mestrado,Alto,M,Casado,10422,1,Não,19,2,14,3,Muito bom,14,10,5,7
+1433,Não,37,Viaja raramente,10,Ensino Superior,Alto,M,Casado,13744,1,Sim,25,1,16,2,Muito bom,16,11,6,8
+1434,Não,25,Viaja raramente,8,Ensino Técnico,Baixo,M,Divorciado,4907,0,Sim,22,1,6,3,Bom,5,3,0,4
+1435,Não,52,Não viaja,29,Mestrado,Baixo,H,Divorciado,3482,2,Não,15,2,16,3,Bom,9,8,0,0
+1436,Não,44,Viaja raramente,1,Ensino Superior,Médio,H,Solteiro,2436,6,Sim,12,0,6,2,Muito bom,4,3,1,2
+1437,Não,21,Viaja raramente,5,Ensino Médio,Alto,H,Solteiro,2380,1,Sim,11,0,2,6,Muito bom,2,2,1,2
+1438,Não,39,Não viaja,9,Ensino Superior,Muito Alto,H,Solteiro,19431,2,Não,13,0,21,3,Bom,6,0,1,3
+1439,Sim,23,Viaja frequentemente,9,Ensino Superior,Muito Alto,H,Casado,1790,1,Não,19,1,1,3,Bom,1,0,1,0
+1440,Não,36,Viaja raramente,3,Ensino Superior,Baixo,M,Casado,7644,0,Não,19,2,10,2,Muito bom,9,7,3,4
+1441,Não,36,Viaja frequentemente,4,Ensino Técnico,Muito Alto,M,Divorciado,5131,7,Não,13,3,18,3,Muito bom,4,2,0,2
+1442,Não,56,Não viaja,1,Mestrado,Alto,H,Divorciado,6306,1,Não,21,1,13,2,Bom,13,12,1,9
+1443,Sim,29,Viaja raramente,1,Mestrado,Baixo,H,Casado,4787,9,Sim,14,3,4,3,Excelente,2,2,2,2
+1444,Não,42,Viaja raramente,2,Ensino Superior,Baixo,H,Casado,18880,5,Não,11,0,24,2,Bom,22,6,4,14
+1445,Sim,56,Viaja raramente,7,Ensino Técnico,Muito Alto,H,Casado,2339,8,Não,11,1,14,4,Ruim,10,9,9,8
+1446,Não,41,Viaja raramente,28,Mestrado,Baixo,M,Casado,13570,0,Não,23,1,21,3,Muito bom,20,7,0,10
+1447,Não,34,Viaja raramente,28,Ensino Superior,Muito Alto,M,Casado,6712,1,Não,21,2,8,2,Muito bom,8,7,1,7
+1448,Não,36,Não viaja,15,Mestrado,Muito Alto,H,Divorciado,5406,1,Não,24,1,15,4,Bom,15,12,11,11
+1449,Não,41,Viaja raramente,3,Ensino Superior,Alto,H,Divorciado,8938,2,Não,11,1,14,5,Muito bom,5,4,0,4
+1450,Não,32,Viaja raramente,2,Ensino Superior,Muito Alto,H,Solteiro,2439,1,Não,14,0,4,4,Muito bom,4,2,1,2
+1451,Não,35,Viaja raramente,26,Mestrado,Alto,M,Solteiro,8837,1,Sim,16,0,9,2,Muito bom,9,0,1,7
+1452,Não,38,Viaja raramente,10,Ensino Técnico,Baixo,M,Casado,5343,1,Não,11,1,10,1,Muito bom,10,7,1,9
+1453,Sim,50,Viaja frequentemente,1,Mestrado,Médio,H,Divorciado,6728,7,Não,12,2,12,3,Muito bom,6,3,0,1
+1454,Não,36,Viaja raramente,11,Mestrado,Médio,M,Casado,6652,4,Não,13,1,8,2,Bom,6,3,0,0
+1455,Não,45,Viaja raramente,20,Ensino Superior,Muito Alto,M,Solteiro,4850,8,Não,15,0,8,3,Muito bom,5,3,0,1
+1456,Não,40,Viaja raramente,2,Mestrado,Alto,H,Solteiro,2809,2,Não,14,0,8,2,Muito bom,2,2,2,2
+1457,Não,35,Viaja frequentemente,18,Mestrado,Alto,H,Casado,5689,1,Sim,14,2,10,2,Excelente,10,2,0,2
+1458,Não,40,Viaja raramente,2,Mestrado,Alto,M,Casado,2001,2,Não,14,3,20,2,Muito bom,5,3,0,2
+1459,Não,35,Viaja raramente,1,Mestrado,Alto,M,Casado,2977,1,Não,12,1,4,5,Muito bom,4,3,1,1
+1460,Não,29,Viaja raramente,13,Ensino Técnico,Muito Alto,H,Casado,4025,4,Sim,13,1,10,2,Muito bom,4,3,0,3
+1461,Não,29,Viaja raramente,28,Mestrado,Muito Alto,M,Solteiro,3785,1,Não,14,0,5,3,Ruim,5,4,0,4
+1462,Sim,50,Viaja raramente,28,Ensino Superior,Muito Alto,H,Divorciado,10854,4,Sim,13,1,20,3,Muito bom,3,2,2,0
+1463,Não,39,Viaja raramente,24,Ensino Médio,Médio,M,Casado,12031,0,Não,11,1,21,2,Bom,20,9,9,6
+1464,Não,31,Não viaja,5,Ensino Superior,Médio,H,Solteiro,9936,0,Não,19,0,10,2,Muito bom,9,4,1,7
+1465,Não,26,Viaja raramente,5,Ensino Superior,Muito Alto,M,Solteiro,2966,0,Não,18,0,5,2,Muito bom,4,2,0,0
+1466,Não,36,Viaja frequentemente,23,Ensino Técnico,Alto,H,Casado,2571,4,Não,17,1,17,3,Muito bom,5,2,0,3
+1467,Não,39,Viaja raramente,6,Ensino Médio,Muito Alto,H,Casado,9991,4,Não,15,1,9,5,Muito bom,7,7,1,7
+1468,Não,27,Viaja raramente,4,Ensino Superior,Médio,H,Casado,6142,1,Sim,20,1,6,0,Muito bom,6,2,0,3
+1469,Não,49,Viaja frequentemente,2,Ensino Superior,Muito Alto,H,Casado,5390,2,Não,14,0,17,3,Bom,9,6,0,8
+1470,Não,34,Viaja raramente,8,Ensino Superior,Médio,H,Casado,4404,2,Não,12,0,6,3,Excelente,4,3,1,2
